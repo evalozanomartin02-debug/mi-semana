@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Mi Semana</title>
+  <meta name="description" content="Resumen semanal de actualidad y comunicación">
+  <meta name="theme-color" content="#fbfaf7" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#111214" media="(prefers-color-scheme: dark)">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="Mi Semana">
+  <link rel="apple-touch-icon" href="iconos/icono-180.png">
+  <link rel="icon" href="iconos/icono-192.png">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+  <div id="aviso" class="aviso" hidden>Sin conexión · mostrando lo guardado</div>
+  <main id="vista" tabindex="-1"></main>
+  <nav class="barra" aria-label="Principal">
+    <a href="#/" data-tab="semana"><svg viewBox="0 0 24 24"><path d="M4 5h16v14H4zM8 9h8M8 13h8"/></svg><span>Hoy</span></a>
+    <a href="#/archivo" data-tab="archivo"><svg viewBox="0 0 24 24"><path d="M4 5h16v4H4zM5 9v10h14V9M10 13h4"/></svg><span>Archivo</span></a>
+    <a href="#/buscar" data-tab="buscar"><svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="6.5"/><path d="m16 16 4.5 4.5"/></svg><span>Buscar</span></a>
+    <a href="#/favoritos" data-tab="favoritos"><svg viewBox="0 0 24 24"><path d="M6 4h12v16l-6-4-6 4z"/></svg><span>Favoritos</span></a>
+  </nav>
+  <script src="app.js" defer></script>
+</body>
+</html>
