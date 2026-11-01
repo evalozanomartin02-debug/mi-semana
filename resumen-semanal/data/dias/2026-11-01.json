@@ -1,17 +1,26 @@
 {
  "id": "2026-11-01",
  "titulo": "domingo, 1 de noviembre",
- "publicado": "2026-11-01T10:42:42.717Z",
+ "publicado": "2026-11-01T20:08:57.986Z",
  "secciones": {
   "mundo": [
    {
-    "id": "80f7f8ef867c",
+    "id": "a1d161eb184b",
+    "tema": "Cine y series",
+    "titular": "Box Office: Zach Cregger’s ‘Resident Evil’ Reboot Hits $400 Million Globally",
+    "resumen": "Director Zach Cregger's \"Resident Evil\" has crossed a notable box office milestone with $400 million in global ticket sales.",
+    "medio": "Variety",
+    "fecha": "2026-11-01T10:54:00.000Z",
+    "url": "https://variety.com/2026/film/box-office/resident-evil-box-office-milestone-highest-grossing-zach-cregger-reboot-1236936847/"
+   },
+   {
+    "id": "bc7bc68a31dd",
     "tema": "Premios",
-    "titular": "Harry 'Balón de Oro' Kane se queda solo para visitar el Metropolitano",
-    "resumen": "El Atlético de Madrid recibe el martes al Bayern de Munich en la cuarta jornada de la fase liga de la Champions. Lo hará con solo cuatro puntos de nueve posibles en su ...",
-    "medio": "Mundo Deportivo",
-    "fecha": "2026-11-01T02:28:00.000Z",
-    "url": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261101/1004245742/harry-balon-oro-kane-queda-visitar-metropolitano.html"
+    "titular": "Lizarazu señala dónde se le escapó a Mbappé el Balón de Oro: \"Perdió el control completamente\"",
+    "resumen": "El Balón de Oro sigue coleando en Francia. El país que lo entrega vio cómo su máxima estrella se quedaba a 28 puntos de conseguir el galardón, a 28 puntos de un Harry Kane que fue el gran triunfador d",
+    "medio": "Marca",
+    "fecha": "2026-11-01T04:39:00.000Z",
+    "url": "https://www.marca.com/futbol/real-madrid/2026/11/01/lizarazu-senala-le-escapo-mbappe-balon-oro-perdio-control-completamente.html"
    },
    {
     "id": "45328c42a9cb",
@@ -42,7 +51,7 @@
    },
    {
     "id": "cc48e382e777",
-    "tema": "Personalidades",
+    "tema": "Premios",
     "titular": "Muere a los 64 años el cantante Eddie Friel, que participó en Eurovisión en 1995",
     "resumen": "El artista irlandés quedó en la decimocuarta posición con su tema 'Dreamin'' y tenía 64 años de edad en el momento de su fallecimiento.",
     "medio": "20minutos",
@@ -59,15 +68,6 @@
     "url": "https://www.marca.com/en/lifestyle/celebrities/2026/10/31/kazuo-ishiguro-writer-and-nobel-prize-winner-they-re-only-words-it-s-what-people-say-when-they-feel-sorry-for-themselves-words.html"
    },
    {
-    "id": "ff1792e564c7",
-    "tema": "Premios",
-    "titular": "El votante español del Balón de Oro eligió a Mbappé",
-    "resumen": "José Félix Díaz, el representante español en las votaciones por el Balón de Oro, eligió a Kylian Mbappé en primer lugar por delante de Lamine Yamal y de Harry ...",
-    "medio": "Mundo Deportivo",
-    "fecha": "2026-10-30T14:47:00.000Z",
-    "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261030/1004245177/votante-espanol-balon-oro-eligio-mbappe.html"
-   },
-   {
     "id": "0dd278482a6d",
     "tema": "Cine y series",
     "titular": "Thierry Frémaux, delegado general del Festival de Cannes, Giraldillo de Honor en el Festival de Cine Europeo de Sevilla",
@@ -79,22 +79,40 @@
   ],
   "espana": [
    {
-    "id": "862a9789f764",
+    "id": "7ca81e9bd1fe",
     "tema": "Deporte",
-    "titular": "Marc Márquez gana en Malasia y queda a las puertas de su octavo título mundial",
-    "resumen": "El español Marc Márquez ha dado un paso decisivo camino del octavo título mundial de MotoGP, y el décimo de su carrera deportiva, al vencer el Gran Premio de Malasia de ...",
-    "medio": "El Mundo",
-    "fecha": "2026-11-01T01:53:00.000Z",
-    "url": "https://www.elmundo.es/deportes/motociclismo/2026/11/01/6ae6fb6721efa052738b4573.html"
+    "titular": "Juan Carlos Ferrero entrenará a Ben Shelton, el siguiente tenista con el que trabajará tras su etapa con Carlos Alcaraz",
+    "resumen": "Juan Carlos Ferrero entrenará a Ben Shelton, el siguiente tenista con el que trabajará tras su etapa con Carlos Alcaraz ...",
+    "medio": "RTVE",
+    "fecha": "2026-11-01T12:05:00.000Z",
+    "url": "https://www.rtve.es/deportes/20261101/juan-carlos-ferrero-entrenara-ben-shelton-siguiente-tenista-trabajara-tras-carlos-alcaraz/17295751.shtml"
    },
    {
-    "id": "73709f8bd644",
+    "id": "2cf31b95b37b",
+    "tema": "Música",
+    "titular": "Rosalía sorprende en Nueva York con su bolso gigante y las redes alucinan: \"Soy yo diciendo a Ryanair que solo llevo equipaje de mano\"",
+    "resumen": "Este artículo personalizado, diseñado por Dana Toder, presenta gráficos impresos que incorporan fotografías de archivo de mujeres desde la década de 1970 hasta la actualidad.",
+    "medio": "20minutos",
+    "fecha": "2026-11-01T12:04:00.000Z",
+    "url": "https://www.20minutos.es/gente/rosalia-sorprende-nueva-york-bolso-gigante-redes-alucinan_7056053_0.html"
+   },
+   {
+    "id": "9db43a000ffd",
     "tema": "Deporte",
-    "titular": "Resumen Clasificación GP México F1: resultados, puestos de Alonso y Sainz y pole position hoy",
-    "resumen": "Sigue en directo online en AS.com la clasificación del GP de México de Fórmula 1, que se celebra hoy, sábado 31 de octubre, en Ciudad de México.",
-    "medio": "AS",
-    "fecha": "2026-10-31T13:03:00.000Z",
-    "url": "https://as.com/motor/formula_1/clasificacion-gp-mexico-f1-en-directo-puestos-de-alonso-y-sainz-y-pole-position-hoy-en-vivo-f202610-d/"
+    "titular": "Resultados jornada 12LALIGA EA Sports 2026/2027",
+    "resumen": "Lamine y Raphinha, con un doblete cada uno, se sumaron a la fiesta azulgrana ante un frágil equipo vitoriano ...",
+    "medio": "El País",
+    "fecha": "2026-11-01T10:47:00.000Z",
+    "url": "https://elpais.com/deportes/resultados/futbol/primera/2026_2027/jornada/regular-a-12/"
+   },
+   {
+    "id": "01e215685136",
+    "tema": "Deporte",
+    "titular": "Alcaraz ya está donde quería: ritmo, nivel, rodaje y título en Viena",
+    "resumen": "El español suma su cuarto título del año tras completar un torneo de recuperar confianza y sensaciones y apabullar a De Miñaur en la final (6-1 y 6-4) ...",
+    "medio": "ABC",
+    "fecha": "2026-11-01T06:51:00.000Z",
+    "url": "https://www.abc.es/deportes/tenis/alcaraz-queria-ritmo-nivel-rodaje-titulo-viena-20261101155148-nt.html"
    },
    {
     "id": "26440e9bb2b1",
@@ -104,71 +122,44 @@
     "medio": "El Confidencial",
     "fecha": "2026-10-30T23:30:00.000Z",
     "url": "https://www.elconfidencial.com/alma-corazon-vida/2026-10-31/julian-barnes-premio-princesa-de-asturias-2026_4455395/"
-   },
-   {
-    "id": "ab2e0899d175",
-    "tema": "Música",
-    "titular": "El espectacular duelo de estilo entre Rosalía y Dua Lipa en los Innovator Award",
-    "resumen": "Las cantantes apuestan por unas propuestas muy diferentes para causar sensación en estos premios celebrados en Nueva York ...",
-    "medio": "La Vanguardia",
-    "fecha": "2026-10-30T04:02:00.000Z",
-    "url": "https://www.lavanguardia.com/gente/20261030/11671939/espectacular-duelo-estilo-rosalia-dua-lipa-innovator-award.html"
-   },
-   {
-    "id": "46ba6def64ae",
-    "tema": "Cine y series",
-    "titular": "Anuncian el estreno de la nueva miniserie española protagonizada por Javier Gutiérrez y Hovik Keuchkerian: un 'thriller' de 6 episodios que llega el 2 de diciembre",
-    "resumen": "La nueva serie de misterio policiaco basada en el bestseller de Domingo Villar ‘El último barco’ llegará a Disney+ el próximo mes de diciembre tras un cambio en la ...",
-    "medio": "Mundo Deportivo",
-    "fecha": "2026-10-29T13:13:00.000Z",
-    "url": "https://www.mundodeportivo.com/elotromundo/television/20261029/1004244802/anuncian-estreno-nueva-miniserie-espanola-protagonizada-javier-gutierrez-hovik-keuchkerian-thriller-6-episodios-llega-2-diciembre-tvp-dct.html"
-   },
-   {
-    "id": "53c591e1ec68",
-    "tema": "Música",
-    "titular": "U2 apunta a Barcelona y Sevilla en su gira de 2027: \"Spain, coming soon...\"",
-    "resumen": "El grupo irlandés anuncia una lista de fechas continentales de la gira ‘The greatest show on earth’, todavía incompleta y que excluye a España, si bien se espera la próxima confirmación de conciertos ...",
-    "medio": "El Periódico",
-    "fecha": "2026-10-29T11:46:00.000Z",
-    "url": "https://www.elperiodico.com/es/ocio-y-cultura/20261029/u2-apunta-barcelona-sevilla-gira-135896355"
    }
   ],
   "belgica": [
    {
-    "id": "c76e01d72140",
+    "id": "edad768964eb",
     "tema": "Deporte",
-    "titular": "Vitor Bruno répond aux critiques de la direction d’Anderlecht : « Mes parents m’ont appris que les problèmes devaient être résolus en interne »",
-    "resumen": "L’entraîneur d’Anderlecht Vítor Bruno a profité de la belle victoire face à Westerlo pour réagir aux récentes critiques de son CEO, Kenneth Bornauw. Le technicien portugais a préféré jouer la carte de ...",
+    "titular": "Contre Westerlo, Anderlecht a enfin retrouvé son efficacité : une première depuis 8 mois et 33 matchs",
+    "resumen": "Anderlecht, qui n’avait inscrit que 9 buts en 9 matchs de championnat, a fait exploser ses compteurs, samedi, en inscrivant quatre goals face à Westerlo.",
     "medio": "Le Soir",
-    "fecha": "2026-11-01T01:08:00.000Z",
-    "url": "https://www.lesoir.be/780213/article/2026-11-01/vitor-bruno-repond-aux-critiques-de-la-direction-danderlecht-mes-parents-mont"
+    "fecha": "2026-11-01T09:40:00.000Z",
+    "url": "https://www.lesoir.be/780290/article/2026-11-01/contre-westerlo-anderlecht-enfin-retrouve-son-efficacite-une-premiere-depuis-8"
    },
    {
-    "id": "38d6e945cb6e",
-    "tema": "Deporte",
-    "titular": "“Een nieuwe ster is geboren”: Italië smult van Diego Moreira en knalprestatie tegen Inter, maar Rode Duivel richt zich tot... een Ballon d’Or-winnaar",
-    "resumen": "Twee assists en een héérlijke vrije trap. Diego Moreira (22) was zaterdagavond dé man bij AC Milan in de derby tegen Inter. De Rode Duivel schaarde ...",
-    "medio": "HLN",
-    "fecha": "2026-10-31T19:03:00.000Z",
-    "url": "https://www.hln.be/serie-a/een-nieuwe-ster-is-geboren-italie-smult-van-diego-moreira-en-zijn-knalprestatie-tegen-inter-maar-rode-duivel-richt-zich-tot-een-ballon-dor-winnaar~ad6b0d51/"
-   },
-   {
-    "id": "d6b33f0d642d",
-    "tema": "Deporte",
-    "titular": "Jupiler Pro League - L'Union s'impose dans la douleur à Beveren et reste au contact du Club Bruges",
-    "resumen": "L'Union Saint-Gilloise s'est imposée 1-2 samedi sur la pelouse de Beveren lors de la 10e journée de Jupiler Pro League. Les Bruxellois ont ainsi ...",
-    "medio": "DH",
-    "fecha": "2026-10-31T15:36:00.000Z",
-    "url": "https://www.dhnet.be/dernieres-depeches/2026/10/31/jupiler-pro-league-lunion-simpose-dans-la-douleur-a-beveren-et-reste-au-contact-du-club-bruges-FNLXGQYX4BFVHCSBN7TDIHM4MA/"
-   },
-   {
-    "id": "fef48970bbc8",
+    "id": "e84ca601243d",
     "tema": "País",
-    "titular": "Van zotte dierenverhalen tot Belgisch impressionisme: dit zijn onze expotips deze herfstvakantie",
-    "resumen": "VRT NWS lijst de meest uiteenlopende tentoonstellingen van dit moment op, het is een cultuurnajaar om duimen en vingers bij af te likken. Met deze 40 tips is er keuze te over deze herfstvakantie. Klik ...",
+    "titular": "Exact 65 jaar geleden reed de laatste tram van Humbeek naar Brussel: \"Had niet mogen verdwijnen\"",
+    "resumen": "In Humbeek bij Grimbergen herdenken ze dit weekend het einde van de boerentram. Op 31 oktober 1961 reed er voor het laatst een tram van Humbeek naar Brussel, auto's en bussen kwamen in de plaats. Een ...",
     "medio": "VRT",
-    "fecha": "2026-10-30T22:10:00.000Z",
-    "url": "https://www.vrt.be/vrtnws/nl/2026/10/26/herfstvakantie-waarnaartoe-expotips-expo-tentoonstelling/"
+    "fecha": "2026-11-01T05:11:00.000Z",
+    "url": "https://www.vrt.be/vrtnws/nl/2026/11/01/exact-65-jaar-geleden-reed-de-laatste-tram-van-humbeek-naar-brus/"
+   },
+   {
+    "id": "5cc15bed430e",
+    "tema": "Deporte",
+    "titular": "Jupiler Pro League : piégée à Lommel, La Gantoise reste derrière le Club de Bruges et l’Union au classement",
+    "resumen": "La Gantoise a concédé ce dimanche sa première défaite de la saison en Jupiler Pro League, s’inclinant 2-0 sur la pelouse du promu Lommel lors de la 10e journée.",
+    "medio": "Le Soir",
+    "fecha": "2026-10-31T23:47:00.000Z",
+    "url": "https://www.lesoir.be/780310/article/2026-11-01/jupiler-pro-league-piegee-lommel-la-gantoise-reste-derriere-le-club-de-bruges-et"
+   },
+   {
+    "id": "db0aac170553",
+    "tema": "Deporte",
+    "titular": "L’Union Saint-Gilloise a tenu le choc à Beveren (1-2)",
+    "resumen": "Réduite à dix à la 53e minute de jeu suite à l’exclusion d’Aquino, l’Union est tout de même parvenue à marquer un deuxième but puis à tenir le choc après la réduction du score de Beveren. Elle revient ...",
+    "medio": "Le Soir",
+    "fecha": "2026-10-31T16:08:00.000Z",
+    "url": "https://www.lesoir.be/780199/article/2026-10-31/lunion-saint-gilloise-tenu-le-choc-beveren-1-2"
    },
    {
     "id": "6c48d17e09f2",
