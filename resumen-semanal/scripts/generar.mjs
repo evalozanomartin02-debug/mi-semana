@@ -4,11 +4,13 @@ import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { setTimeout as esperar } from 'node:timers/promises';
-import { BUSQUEDAS, EXCLUIR, FEEDS, HORAS, MAX_POR_MEDIO, MAX_POR_TEMA, MEDIOS, POR_SECCION } from './fuentes.mjs';
+import { BUSQUEDAS, EXCLUIR, EXCLUIR_MARCAS, FEEDS, HORAS, HORAS_PRINCIPALES, LIMITES, MAX_POR_MEDIO, MAX_POR_TEMA, MEDIOS, PRINCIPALES } from './fuentes.mjs';
 
 const DATA = join(dirname(fileURLToPath(import.meta.url)), '..', 'data');
 const HORA = 3600000;
-const DIAS_SIN_REPETIR = 3;
+const DIAS_SIN_REPETIR = 30;
+const NEERLANDES = /\b(de|het|een|van|voor|met|niet|naar|ook|zijn|wordt|bij)\b/gi;
+const MAX_PALABRAS_NEERLANDES = 2;
 const ENTIDADES = { amp: '&', lt: '<', gt: '>', quot: '"', apos: "'", nbsp: ' ', hellip: '…', ndash: '–', mdash: '—', lsquo: '‘', rsquo: '’', ldquo: '“', rdquo: '”', laquo: '«', raquo: '»' };
 const ACENTOS = { acute: '́', grave: '̀', tilde: '̃', uml: '̈', circ: '̂', cedil: '̧' };
 
@@ -45,6 +47,7 @@ function enlaceReal(bruto) {
 }
 
 function medioDe(url) {
+  if (/\/\/(www\.)?vrt\.be\//.test(url) && !url.includes('/vrtnws/en/')) return null;
   try {
     const partes = new URL(url).hostname.replace(/^www\./, '').split('.');
     for (let i = 0; i < partes.length - 1; i += 1) {
@@ -64,6 +67,12 @@ function descripcion(texto) {
   return limpio.length <= 280 ? limpio : `${limpio.slice(0, 260).replace(/\s+\S*$/, '')}…`;
 }
 
+// «de» también existe en francés y español: solo cuentan las palabras de los titulares sin rasgos de esos idiomas.
+function enNeerlandes(texto) {
+  const propias = (texto.replace(/\bde\b/gi, '').match(NEERLANDES) ?? []).length;
+  return propias >= MAX_PALABRAS_NEERLANDES;
+}
+
 function leerRSS(xml, origen) {
   const items = [];
   for (const bloque of xml.match(/<item[\s>][\s\S]*?<\/item>/g) ?? []) {
@@ -74,6 +83,8 @@ function leerRSS(xml, origen) {
     const resumen = descripcion(limpiar(etiqueta(bloque, 'description')));
     if (!medio || !/^https?:\/\//.test(url) || titular.length < 30 || resumen.length < 30 || Number.isNaN(+fecha)) continue;
     if (EXCLUIR.test(titular) || origen.excluir?.test(resumen)) continue;
+    if (origen.seccion === 'marcas' && EXCLUIR_MARCAS.test(titular)) continue;
+    if (origen.seccion === 'belgica' && enNeerlandes(`${titular} ${resumen}`)) continue;
     items.push({
       id: createHash('sha1').update(url).digest('hex').slice(0, 12),
       seccion: origen.seccion, tema: origen.tema,
@@ -135,11 +146,12 @@ function claves(texto) {
 const comunes = (a, b) => [...a].filter((p) => b.has(p)).length;
 
 // Lo más reciente primero, repartido por temas y medios y sin repetir historia.
-function elegir(items) {
-  const ordenados = items.map((i) => ({ ...i, claves: claves(i.titular) })).sort((a, b) => b.fecha.localeCompare(a.fecha));
+function elegir(items, limite) {
+  const ordenados = items.map((i) => ({ ...i, claves: claves(i.titular) }))
+    .sort((a, b) => PRINCIPALES.has(b.medio) - PRINCIPALES.has(a.medio) || b.fecha.localeCompare(a.fecha));
   const elegidos = [];
   for (const item of ordenados) {
-    if (elegidos.length === POR_SECCION) break;
+    if (elegidos.length === limite) break;
     if (elegidos.filter((e) => e.tema === item.tema).length >= MAX_POR_TEMA) continue;
     if (elegidos.filter((e) => e.medio === item.medio).length >= MAX_POR_MEDIO) continue;
     if (elegidos.some((e) => comunes(e.claves, item.claves) >= 2)) continue;
@@ -165,8 +177,9 @@ if (!items.length) throw new Error('No se ha encontrado ninguna noticia');
 const unicas = [...new Map(items.map((i) => [i.id, i])).values()];
 const secciones = {};
 for (const [seccion, horas] of Object.entries(HORAS)) {
+  const vigente = (i) => ahora - new Date(i.fecha) <= (seccion === 'comunicacion' && PRINCIPALES.has(i.medio) ? HORAS_PRINCIPALES : horas) * HORA;
   secciones[seccion] = elegir(unicas.filter((i) => i.seccion === seccion && !yaVistas.has(i.id)
-    && ahora - new Date(i.fecha) <= horas * HORA && new Date(i.fecha) <= ahora));
+    && vigente(i) && new Date(i.fecha) <= ahora), LIMITES[seccion]);
 }
 
 await escribirJSON(join(DATA, 'dias', `${hoy}.json`), { id: hoy, titulo, publicado: ahora.toISOString(), secciones });

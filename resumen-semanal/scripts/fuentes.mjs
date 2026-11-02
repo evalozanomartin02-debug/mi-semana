@@ -8,19 +8,29 @@ export const MEDIOS = {
   'lemonde.fr': 'Le Monde', 'lefigaro.fr': 'Le Figaro', 'france24.com': 'France 24', 'rfi.fr': 'RFI', 'uefa.com': 'UEFA', 'atptour.com': 'ATP', 'formula1.com': 'Fórmula 1', 'motogp.com': 'MotoGP',
   'independent.co.uk': 'The Independent', 'cnn.com': 'CNN', 'espn.com': 'ESPN', 'skysports.com': 'Sky Sports', 'nme.com': 'NME', 'pitchfork.com': 'Pitchfork', 'euronews.com': 'Euronews',
   'elespanol.com': 'El Español', '20minutos.es': '20minutos', 'sport.es': 'Sport', 'elperiodico.com': 'El Periódico', 'cadenaser.com': 'Cadena SER', 'cope.es': 'COPE',
-  'lesoir.be': 'Le Soir', 'rtbf.be': 'RTBF', 'lalibre.be': 'La Libre', 'dhnet.be': 'DH', 'levif.be': 'Le Vif', 'lecho.be': "L'Echo", 'vrt.be': 'VRT', 'sporza.be': 'Sporza',
-  'brusselstimes.com': 'The Brussels Times', 'standaard.be': 'De Standaard', 'hln.be': 'HLN', 'nieuwsblad.be': 'Het Nieuwsblad', 'demorgen.be': 'De Morgen', 'bruzz.be': 'BRUZZ',
+  'lesoir.be': 'Le Soir', 'rtbf.be': 'RTBF', 'lalibre.be': 'La Libre', 'dhnet.be': 'DH', 'levif.be': 'Le Vif', 'lecho.be': "L'Echo", 'vrt.be': 'VRT NWS',
+  'brusselstimes.com': 'The Brussels Times', 'belganewsagency.eu': 'Belga',
+  'reutersinstitute.politics.ox.ac.uk': 'Reuters Institute', 'digitalnewsreport.org': 'Digital News Report', 'ox.ac.uk': 'Universidad de Oxford', 'pressgazette.co.uk': 'Press Gazette',
+  'adweek.com': 'Adweek', 'adage.com': 'Ad Age', 'marketingweek.com': 'Marketing Week', 'campaignlive.co.uk': 'Campaign', 'thedrum.com': 'The Drum', 'creativereview.co.uk': 'Creative Review',
+  'businessoffashion.com': 'Business of Fashion', 'fastcompany.com': 'Fast Company', 'ft.com': 'Financial Times', 'bloomberg.com': 'Bloomberg', 'cnbc.com': 'CNBC', 'forbes.com': 'Forbes',
+  'marketingdirecto.com': 'Marketing Directo', 'puromarketing.com': 'Puro Marketing', 'modaes.com': 'Modaes', 'xataka.com': 'Xataka', 'theverge.com': 'The Verge',
   'prnoticias.com': 'PRNoticias', 'reasonwhy.es': 'Reason Why', 'elpublicista.es': 'El Publicista', 'topcomunicacion.com': 'Top Comunicación', 'dircom.org': 'Dircom',
   'corporateexcellence.org': 'Corporate Excellence', 'expansion.com': 'Expansión', 'hbr.org': 'Harvard Business Review', 'harvard-deusto.com': 'Harvard Deusto', 'provokemedia.com': 'PRovoke Media',
   'prweek.com': 'PRWeek', 'eacd-online.eu': 'EACD', 'communicationdirector.com': 'Communication Director', 'mckinsey.com': 'McKinsey', 'forbes.es': 'Forbes España',
 };
 
-export const POR_SECCION = 8;
+// Las fuentes que recomienda el profesor: salen primero en Comunicación y empresa y pueden tener hasta un mes.
+export const PRINCIPALES = new Set(['Harvard Business Review', 'Reuters Institute', 'Digital News Report', 'Universidad de Oxford']);
+export const HORAS_PRINCIPALES = 720;
+export const LIMITES = { mundo: 8, espana: 8, belgica: 8, marcas: 8, comunicacion: 10 };
 export const MAX_POR_TEMA = 3;
 export const MAX_POR_MEDIO = 3;
-export const HORAS = { mundo: 72, espana: 72, belgica: 72, comunicacion: 168 };
+export const HORAS = { mundo: 72, espana: 72, belgica: 72, marcas: 120, comunicacion: 168 };
 
 export const EXCLUIR = /mostrar informaci[oó]n|d[oó]nde ver|a qu[eé] hora|horarios?\b|en directo|en vivo|\b(DIRECT|LIVE)\b|streaming|how to watch|hor[oó]scopo|loter[ií]a|ofertas?\b|rugby|cricket|p[aá]del|elecci[oó]n|elecciones|electoral|election|[eé]lection|Trump|S[aá]nchez|Feij[oó]o|PSOE|\bPP\b|\bVox\b|ministr|parlament|gobierno|government|gouvernement|regering|guerra|\bwar\b|guerre|oorlog|Gaza|Ucrania|Ukraine|Isra[eë]l|asesin|crimen|homicid|detenid|violaci[oó]n|accidente|tragedia|murder|killed|meurtre|moord|polic[ií]a|police|politie|inflaci[oó]n|inflation|\bPIB\b|\bGDP\b/i;
+
+// Marcas: fuera precios, bolsa y listas de compras.
+export const EXCLUIR_MARCAS = /precios?\b|cu[aá]nto cuesta|dividendo|dividend|Nasdaq|bolsa|acciones|shares|stock|ingresar[aá]|rebajas|Black Friday|las \d+ que|mejores|chollos?|por menos de|stats?\b/i;
 
 const q = (seccion, tema, mercado, ...consultas) => consultas.map((consulta) => ({ seccion, tema, mercado, consulta }));
 
@@ -48,9 +58,19 @@ export const BUSQUEDAS = [
   ...q('belgica', 'Cine y series', 'fr-BE', 'film belge sortie', 'série belge RTBF'),
   ...q('belgica', 'Arte y libros', 'fr-BE', 'exposition Bruxelles Bozar', 'sortir à Bruxelles ce week-end'),
   ...q('belgica', 'Deporte', 'fr-BE', 'Pro League résultat', 'Club Bruges', 'Anderlecht', 'Union Saint-Gilloise', 'Diables Rouges'),
-  ...q('belgica', 'Deporte', 'nl-BE', 'Jupiler Pro League uitslag', 'Rode Duivels', 'Remco Evenepoel', 'Wout van Aert'),
-  ...q('belgica', 'País', 'nl-BE', 'Vlaanderen cultuur nieuws', 'Brussel tentoonstelling'),
+  ...q('belgica', 'Deporte', 'en-GB', 'site:brusselstimes.com sport', 'site:belganewsagency.eu sport'),
+  ...q('belgica', 'País', 'en-GB', 'site:brusselstimes.com culture', 'site:brusselstimes.com Brussels events', 'site:belganewsagency.eu culture'),
   ...q('belgica', 'País', 'fr-BE', 'grève nationale Belgique', 'Bruxelles nouveauté transports', 'Wallonie événement'),
+  ...q('marcas', 'Marcas globales', 'en-GB', 'Interbrand Best Global Brands', 'Brand Finance ranking', 'Kantar BrandZ', 'rebranding new logo', 'brand new product launch', 'Nike', 'Adidas', 'Apple', 'Samsung', 'Coca-Cola', 'LVMH Louis Vuitton', 'Chanel', 'Red Bull', 'McDonald\'s', 'Netflix'),
+  ...q('marcas', 'Marcas en España', 'es-ES', 'Inditex Zara', 'Mango moda', 'Mercadona', 'El Corte Inglés', 'Santander marca patrocinio', 'Telefónica Movistar marca', 'Iberia', 'Estrella Galicia', 'Repsol marca', 'BBVA patrocinio', 'marca española internacional'),
+  ...q('marcas', 'Campañas y eventos', 'es-ES', 'nueva campaña publicitaria', 'lanzamiento marca', 'patrocinio marca evento', 'nueva imagen de marca'),
+  ...q('marcas', 'Campañas y eventos', 'en-GB', 'brand campaign launch', 'brand sponsorship deal', 'site:adweek.com brand', 'site:marketingweek.com brand'),
+  ...q('comunicacion', 'Empresa', 'en-GB', 'site:hbr.org leadership', 'site:hbr.org strategy', 'site:hbr.org communication', 'site:hbr.org'),
+  ...q('comunicacion', 'Medios', 'en-GB', 'Digital News Report', 'Reuters Institute Oxford journalism', 'site:digitalnewsreport.org'),
+  ...q('comunicacion', 'Medios', 'es-ES', 'Digital News Report España', 'Reuters Institute'),
+  ...q('comunicacion', 'Lecturas', 'es-ES', 'Joan Costa comunicación'),
+  ...q('comunicacion', 'Lecturas', 'en-GB', 'Joep Cornelissen corporate communication'),
+  ...q('comunicacion', 'Comunicación', 'es-ES', 'site:reasonwhy.es comunicación', 'site:prnoticias.com reputación', 'site:elpublicista.es comunicación'),
   ...q('comunicacion', 'Comunicación', 'es-ES', 'reputación corporativa', 'comunicación de crisis empresa', 'comunicación interna', 'asuntos públicos lobby', 'marca corporativa', 'dircom', 'inteligencia artificial comunicación corporativa', 'intangibles medición comunicación', 'criterios ASG empresa'),
   ...q('comunicacion', 'Comunicación', 'en-GB', 'corporate reputation', 'crisis communications', 'internal communications', 'corporate communications AI'),
   ...q('comunicacion', 'Empresa', 'es-ES', 'estrategia empresarial liderazgo', 'management directivos'),
@@ -59,6 +79,8 @@ export const BUSQUEDAS = [
 
 // Feeds directos de los medios especializados que Bing cubre peor.
 export const FEEDS = [
+  { seccion: 'comunicacion', tema: 'Medios', url: 'https://reutersinstitute.politics.ox.ac.uk/rss.xml' },
+  { seccion: 'belgica', tema: 'País', url: 'https://www.vrt.be/vrtnws/en.rss.articles.xml' },
   { seccion: 'comunicacion', tema: 'Comunicación', url: 'https://www.dircom.org/feed/', excluir: /^ACTUALIDAD/ },
   { seccion: 'comunicacion', tema: 'Comunicación', url: 'https://topcomunicacion.com/feed/' },
   { seccion: 'comunicacion', tema: 'Comunicación', url: 'https://eacd-online.eu/feed/' },
