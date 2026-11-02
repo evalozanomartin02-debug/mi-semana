@@ -1,7 +1,7 @@
 {
  "id": "2026-11-02",
  "titulo": "lunes, 2 de noviembre",
- "publicado": "2026-11-02T05:54:59.155Z",
+ "publicado": "2026-11-02T07:10:21.053Z",
  "secciones": {
   "mundo": [
    {
@@ -12,9 +12,63 @@
     "medio": "Sky Sports",
     "fecha": "2026-11-01T17:57:00.000Z",
     "url": "https://www.skysports.com/f1/news/13606682/kimi-antonelli-crowned-2026-f1-world-champion-as-max-verstappen-wins-wild-mexico-city-grand-prix-from-lewis-hamilton"
+   },
+   {
+    "id": "4e85eead2077",
+    "tema": "Deporte",
+    "titular": "El Gran Premio de Fórmula 1 en México 2026, en imágenes",
+    "resumen": "El Autódromo Hermanos Rodríguez, circuito que ha visto a los mejores correr, ha presenciado el primer título mundial de Kimi Antonelli y la victoria de Max Verstappen ...",
+    "medio": "El País",
+    "fecha": "2026-11-01T16:01:00.000Z",
+    "url": "https://elpais.com/mexico/2026-11-02/el-gran-premio-de-formula-1-en-mexico-2026-en-imagenes.html"
+   },
+   {
+    "id": "135615aea636",
+    "tema": "Deporte",
+    "titular": "Antonelli (20 años) le arrebata a Vettel el récord de campeón más joven de la Fórmula 1",
+    "resumen": "Andrea Kimi Antonelli (Mercedes) se ha proclamado campeón del mundo de Fórmula 1 con cuatro grandes premios de margen tras acabar tercero en el GP de ...",
+    "medio": "El País",
+    "fecha": "2026-11-01T16:01:00.000Z",
+    "url": "https://elpais.com/expres/2026-11-02/antonelli-20-anos-le-arrebata-a-vettel-el-record-de-campeon-mas-joven-de-la-formula-1.html"
+   },
+   {
+    "id": "06f515c1d2e4",
+    "tema": "Música",
+    "titular": "Report: The real reason Jay-Z picked himself for the 2027 Super Bowl halftime show",
+    "resumen": "The 56-year-old will perform at Super Bowl LXI on February 14, 2027, at SoFi Stadium in California, following an announcement that brought years of speculation about his involvement to an end.",
+    "medio": "Marca",
+    "fecha": "2026-11-01T13:21:00.000Z",
+    "url": "https://www.marca.com/en/nfl/super-bowl/2026/11/01/report-the-real-reason-jay-z-picked-himself-for-the-2027-super-bowl-halftime-show.html"
+   },
+   {
+    "id": "80f7f8ef867c",
+    "tema": "Premios",
+    "titular": "Harry 'Balón de Oro' Kane se queda solo para visitar el Metropolitano",
+    "resumen": "El Atlético de Madrid recibe el martes al Bayern de Munich en la cuarta jornada de la fase liga de la Champions. Lo hará con solo cuatro puntos de nueve posibles en su ...",
+    "medio": "Mundo Deportivo",
+    "fecha": "2026-11-01T02:28:00.000Z",
+    "url": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261101/1004245742/harry-balon-oro-kane-queda-visitar-metropolitano.html"
+   },
+   {
+    "id": "b58a5b55803c",
+    "tema": "Música",
+    "titular": "DIIV share hook-laden single ‘Dare Me’ and announce massive 2027 world tour",
+    "resumen": "DIIV have shared their new single ‘Dare Me’ and announced an extensive 2027 world tour, including six shows in the UK and Ireland.",
+    "medio": "NME",
+    "fecha": "2026-10-30T09:39:00.000Z",
+    "url": "https://www.nme.com/news/music/diiv-single-dare-me-massive-2027-world-tour-tickets-3974695?source=newscura"
    }
   ],
   "espana": [
+   {
+    "id": "44a3618f5959",
+    "tema": "Premios",
+    "titular": "¿Premio Cervantes 2026 para una mujer? Solo seis lo han logrado en medio siglo",
+    "resumen": "El Premio Cervantes, el más prestigioso de las letras en español, cumple medio siglo de historia con un perfil claramente masculino. Desde su creación en 1976, solo seis mujeres lo han obtenido, la ...",
+    "medio": "RTVE",
+    "fecha": "2026-11-01T22:59:00.000Z",
+    "url": "https://www.rtve.es/noticias/20261102/premio-cervantes-2026-mujer-solo-seis-medio-siglo/17289537.shtml"
+   },
    {
     "id": "88a34b4ce4ae",
     "tema": "Arte y libros",
@@ -43,16 +97,25 @@
     "url": "https://www.lavanguardia.com/deportes/futbol/20261101/0/laliga-segunda-division-2026-2027-resultado-clasificacion-ca-jornada-12-ctx.html"
    },
    {
-    "id": "e3658b25a35a",
+    "id": "dcea3326b08f",
     "tema": "Deporte",
-    "titular": "Alcaraz arrolla a De Miñaur y se corona en Viena sin ceder ni un set: \"He vuelto a disfrutar en las pistas olvidando el estrés\"",
-    "resumen": "El astro murciano conquista su 28º título, el cuarto del año, en un tramo final de temporada con retos apasionantes como las ATP Finals y la Copa Davis.",
-    "medio": "El Periódico",
-    "fecha": "2026-11-01T08:59:00.000Z",
-    "url": "https://www.elperiodico.com/es/deportes/20261101/alcaraz-arrolla-minaur-corona-viena-135977294"
+    "titular": "Así queda la clasificación de la Liga Endesa tras las victorias de Madrid y Barça",
+    "resumen": "La sexta jornada de la Liga Endesa ha dejado el liderato más afianzado que nunca, un derbi gallego arrollador y un atasco histórico en la lucha por los puestos nobles ...",
+    "medio": "Mundo Deportivo",
+    "fecha": "2026-11-01T12:43:00.000Z",
+    "url": "https://www.mundodeportivo.com/baloncesto/acb/20261101/1004245956/asi-queda-clasificacion-liga-endesa-victorias-madrid-barca.html"
    }
   ],
   "belgica": [
+   {
+    "id": "312fbcc6672d",
+    "tema": "Deporte",
+    "titular": "Le débriefing de Philippe Albert : « Onia-Seke doit débuter chaque match avec Anderlecht »",
+    "resumen": "Notre consultant foot revient sur les moments forts de la 10e journée de Jupiler Pro League, avec un club, le Standard, qui s’enfonce dans la crise, l’efficacité enfin retrouvée d’Anderlecht et la pro ...",
+    "medio": "Le Soir",
+    "fecha": "2026-11-01T21:59:00.000Z",
+    "url": "https://www.lesoir.be/780334/article/2026-11-02/le-debriefing-de-philippe-albert-onia-seke-doit-debuter-chaque-match-avec"
+   },
    {
     "id": "f5f878567583",
     "tema": "País",
@@ -63,6 +126,15 @@
     "url": "https://www.lesoir.be/780315/article/2026-11-01/soirees-debats-qui-ose-encore-investir-en-wallonie-et-bruxelles"
    },
    {
+    "id": "1a80fa9dee53",
+    "tema": "Deporte",
+    "titular": "Van rust is weinig sprake: Remco Evenepoel gaat voor tweede dag op rij lopen in Tokio",
+    "resumen": "Wat doen voetballers na die 90 minuten op het veld? Of renners wanneer hun fietscomputer uitstaat? HLN volgt voor u dé hoofdrolspelers uit de Belgische en internationale sportwereld op de voet. Ontdek ...",
+    "medio": "HLN",
+    "fecha": "2026-11-01T09:58:00.000Z",
+    "url": "https://www.hln.be/sport/van-rust-is-weinig-sprake-remco-evenepoel-gaat-voor-tweede-dag-op-rij-lopen-in-tokio~aea3dedc/"
+   },
+   {
     "id": "0d78c1e65c3a",
     "tema": "Deporte",
     "titular": "Bouffée d’air à Anderlecht après le carton contre Westerlo : \"Quand nos joueurs de talent osent, ça fait la différence\"",
@@ -70,24 +142,6 @@
     "medio": "RTBF",
     "fecha": "2026-11-01T00:00:00.000Z",
     "url": "https://www.rtbf.be/article/bouffee-d-air-a-anderlecht-apres-le-carton-contre-westerlo-quand-nos-joueurs-de-talent-osent-ca-fait-la-difference-11808790"
-   },
-   {
-    "id": "1f02daa84a4b",
-    "tema": "Deporte",
-    "titular": "À dix pendant 40 minutes, l'Union Saint-Gilloise assure l'essentiel contre Beveren",
-    "resumen": "Trois points de plus dans la poche de l'Union Saint-Gilloise en cette dixième journée de Pro League. Les hommes de David Hubert ont fait le travail contre Beveren, 1-2, alors qu'ils ont évolué à dix p ...",
-    "medio": "RTBF",
-    "fecha": "2026-10-31T12:41:00.000Z",
-    "url": "https://www.rtbf.be/article/a-10-pendant-40-minutes-l-union-saint-gilloise-assure-l-essentiel-contre-beveren-11808728"
-   },
-   {
-    "id": "8f8c4be0cd91",
-    "tema": "Deporte",
-    "titular": "Diables rouges : l'assist chanceux de Maxim De Cuyper pour ouvrir la marque face à Manchester City (VIDÉO)",
-    "resumen": "Tout réussit à Maxim De Cuyper du côté de Brighton depuis le début de saison. Titulaire indiscutable avec les Seagulls, le Belge était bien entendu présent sur la pelouse au coup d'envoi face à Manche ...",
-    "medio": "DH",
-    "fecha": "2026-10-31T08:38:00.000Z",
-    "url": "https://www.dhnet.be/sports/football/diablesrouges/2026/10/31/diables-rouges-lassist-chanceux-de-maxim-de-cuyper-pour-ouvrir-la-marque-face-a-manchester-city-video-MAKNEQKAIFCQZMMX2XEWJJDCGI/"
    }
   ],
   "comunicacion": [
