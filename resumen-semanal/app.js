@@ -2,9 +2,10 @@ const ICONOS = {
   mundo: '<circle cx="12" cy="12" r="8.5"/><path d="M3.5 12h17M12 3.5c2.5 2.5 3.5 5.5 3.5 8.5s-1 6-3.5 8.5c-2.5-2.5-3.5-5.5-3.5-8.5s1-6 3.5-8.5z"/>',
   espana: '<path d="M6 21V4M6 5h12l-2.5 4L18 13H6"/>',
   belgica: '<path d="M4 20h16M6 20V10M18 20V10M10 20v-6M14 20v-6M3.5 10 12 4l8.5 6z"/>',
+  marcas: '<path d="M12 3.500 14.600 9l6 .8-4.400 4.100 1.100 5.900L12 16.900l-5.300 2.900 1.100-5.900L3.400 9.800l6-.8z"/>',
   comunicacion: '<path d="M4 6h16v10H10l-4 4v-4H4z"/><path d="M8 10h8"/>',
 };
-const SECCIONES = [['mundo', 'Mundo'], ['espana', 'España'], ['belgica', 'Bélgica'], ['comunicacion', 'Comunicación y empresa']];
+const SECCIONES = [['mundo', 'Mundo'], ['espana', 'España'], ['belgica', 'Bélgica'], ['marcas', 'Marcas'], ['comunicacion', 'Comunicación y empresa']];
 const vista = document.getElementById('vista');
 const icono = (id) => `<svg viewBox="0 0 24 24" aria-hidden="true">${ICONOS[id]}</svg>`;
 const ICONO_CHECK = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="m5 12.500 4.500 4.500L19 7.500"/></svg>';
