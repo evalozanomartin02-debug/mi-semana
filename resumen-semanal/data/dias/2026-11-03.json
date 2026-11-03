@@ -1,7 +1,7 @@
 {
  "id": "2026-11-03",
  "titulo": "martes, 3 de noviembre",
- "publicado": "2026-11-03T05:48:01.972Z",
+ "publicado": "2026-11-03T06:56:07.372Z",
  "secciones": {
   "mundo": [
    {
@@ -14,6 +14,24 @@
     "url": "https://www.vanitatis.elconfidencial.com/vida-saludable/2026-11-03/jose-saramago-reflexion-posesion-gustar-tener-1qrt_4456518/"
    },
    {
+    "id": "99fb368539cc",
+    "tema": "Deporte",
+    "titular": "LeMond destroza a Armstrong: “Era incapaz de ganar el Tour de Francia”",
+    "resumen": "El exciclista estadounidense Greg LeMond, ganador del Tour de Francia en 1986, 1989 y 1990, ha concedido una entrevista al diario francés Le Telegramme en el que ha cargado con dureza contra Lance ...",
+    "medio": "AS",
+    "fecha": "2026-11-02T16:00:00.000Z",
+    "url": "https://as.com/ciclismo/mas_ciclismo/lemond-destroza-a-armstrong-era-incapaz-de-ganar-el-tour-de-francia-f202611-n/"
+   },
+   {
+    "id": "f831e0616b48",
+    "tema": "Deporte",
+    "titular": "Kane would swap Ballon d'Or for Champions League victory",
+    "resumen": "Bayern Munich striker Harry Kane says he would swap his Ballon d'Or trophy for a Champions League winner's medal.",
+    "medio": "BBC",
+    "fecha": "2026-11-02T13:46:00.000Z",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c6gr875l1095o"
+   },
+   {
     "id": "875b235b3d66",
     "tema": "Cine y series",
     "titular": "Thierry Frémaux, director de Cannes, recibirá el Giraldillo de Honor en el Festival de Cine Europeo de Sevilla",
@@ -23,16 +41,79 @@
     "url": "https://www.abc.es/sevilla/cultura/thierry-fremaux-director-cannes-recibira-giraldillo-honor-20261102211209-nts.html"
    },
    {
-    "id": "4e85eead2077",
+    "id": "758796ea4457",
     "tema": "Deporte",
-    "titular": "El Gran Premio de Fórmula 1 en México 2026, en imágenes",
-    "resumen": "El Autódromo Hermanos Rodríguez, circuito que ha visto a los mejores correr, ha presenciado el primer título mundial de Kimi Antonelli y la victoria de Max Verstappen ...",
-    "medio": "El País",
-    "fecha": "2026-11-01T17:24:00.000Z",
-    "url": "https://elpais.com/mexico/2026-11-02/el-gran-premio-de-formula-1-en-mexico-2026-en-imagenes.html"
+    "titular": "How Mercedes can win 2026 F1 Constructors' Championship at Sao Paulo Grand Prix this Sunday with Kimi Antonelli and George Russell",
+    "resumen": "The Formula 1 title permutations for Mercedes to win the Constructors Championship this Sunday at the Sao Paulo Grand Prix; watch qualifying in Brazil on Saturday at 6pm and the race itself on Sunday ...",
+    "medio": "Sky Sports",
+    "fecha": "2026-11-02T07:15:00.000Z",
+    "url": "https://www.skysports.com/f1/news/13607118/how-mercedes-can-win-2026-f1-constructors-championship-at-sao-paulo-grand-prix-this-sunday-with-kimi-antonelli-and-george-russell"
+   },
+   {
+    "id": "06efd7e954d7",
+    "tema": "Arte y libros",
+    "titular": "Lionsgate’s ‘The Housemaid’ Stage Adaptation Sets Fall 2027 London Premiere",
+    "resumen": "A stage adaptation of The Housemaid, based on the Lionsgate film and Freida McFadden's novel, will make its premiere next September in London.",
+    "medio": "Deadline",
+    "fecha": "2026-11-01T21:59:00.000Z",
+    "url": "https://deadline.com/2026/11/housemaid-stage-adaptation-london-lionsgate-1237209854"
+   },
+   {
+    "id": "06f515c1d2e4",
+    "tema": "Música",
+    "titular": "Report: The real reason Jay-Z picked himself for the 2027 Super Bowl halftime show",
+    "resumen": "The 56-year-old will perform at Super Bowl LXI on February 14, 2027, at SoFi Stadium in California, following an announcement that brought years of speculation about his involvement to an end.",
+    "medio": "Marca",
+    "fecha": "2026-11-01T13:21:00.000Z",
+    "url": "https://www.marca.com/en/nfl/super-bowl/2026/11/01/report-the-real-reason-jay-z-picked-himself-for-the-2027-super-bowl-halftime-show.html"
    }
   ],
   "espana": [
+   {
+    "id": "29fcb48e1393",
+    "tema": "Deporte",
+    "titular": "Así está la clasificación de LaLiga EA Sports tras los resultados de los partidos de la jornada 11 disputados hoy, lunes 2 de noviembre",
+    "resumen": "LaLiga EA Sports sigue al rojo vivo y tras los partidos de la jornada 11 disputados hoy, lunes 2 de noviembre , así queda la clasificación. Los equipos de la zona noble de la clasificación siguen luch ...",
+    "medio": "La Vanguardia",
+    "fecha": "2026-11-02T15:00:00.000Z",
+    "url": "https://www.lavanguardia.com/deportes/futbol/20261102/0/laliga-primera-division-2026-2027-resultado-clasificacion-ca-jornada-11-ctx.html"
+   },
+   {
+    "id": "3312cf29730a",
+    "tema": "Deporte",
+    "titular": "El mensaje de Carlos Alcaraz a Ferrero tras conocer que entrenará a Shelton",
+    "resumen": "El tenista murciano reaccionó a los rumores sobre el futuro de su exentrenador antes de que se confirmara oficialmente su incorporación al equipo del estadounidense para 2027 ...",
+    "medio": "La Vanguardia",
+    "fecha": "2026-11-02T09:25:00.000Z",
+    "url": "https://www.lavanguardia.com/clic/20261102/11674345/mensaje-carlos-alcaraz-ferrero-conocer-entrenara-shelton-lol.html"
+   },
+   {
+    "id": "7f377d2d14af",
+    "tema": "Premios",
+    "titular": "Un récord de cine: Ocho cortometrajes de la Mostra Curts de Moscatell de Teulada, finalistas a los Premios Goya 2027",
+    "resumen": "Joan Llobell: «Más de la mitad de los cortometrajes que aspiran a los Goya han formado parte de nuestra programación».",
+    "medio": "elDiario.es",
+    "fecha": "2026-11-02T07:31:00.000Z",
+    "url": "https://lamarina.eldiario.es/2026/11/02/un-record-de-cine-ocho-cortometrajes-de-la-mostra-curts-de-moscatell-de-teulada-finalistas-a-los-premios-goya-2027/"
+   },
+   {
+    "id": "759d531857b2",
+    "tema": "Deporte",
+    "titular": "Alcaraz, a sus 23 años, ya está en el podio de españoles con más títulos en el circuito",
+    "resumen": "Carlos Alcaraz Garfia, a sus 23 años y con 28 títulos ATP, ya lleva conseguidos más que todos los tenistas españoles que jugaron en el circuito profesional excepto el por ahora inalcanzable Rafa Nadal ...",
+    "medio": "El Periódico",
+    "fecha": "2026-11-02T04:08:00.000Z",
+    "url": "https://www.elperiodico.com/es/deportes/20261102/alcaraz-23-anos-podio-espanoles-135995424"
+   },
+   {
+    "id": "7cf52b7904eb",
+    "tema": "Cine y series",
+    "titular": "'El Patronato', la nueva serie documental que aterrizará esta misma semana en el 'prime time' de La 1",
+    "resumen": "La 1 estrenar este mismo viernes, 6 de noviembre, El Patronato, una nueva serie documental que recupera uno de los capítulos más oscuros y menos conocidos de la historia reciente de España. La producc ...",
+    "medio": "El Confidencial",
+    "fecha": "2026-11-02T02:04:00.000Z",
+    "url": "https://www.elconfidencial.com/television/programas-tv/2026-11-02/el-patronato-serie-documental-la1_4457388/"
+   },
    {
     "id": "72565e08a63d",
     "tema": "Música",
@@ -50,9 +131,36 @@
     "medio": "RTVE",
     "fecha": "2026-11-01T22:59:00.000Z",
     "url": "https://www.rtve.es/noticias/20261102/premio-cervantes-2026-mujer-solo-seis-medio-siglo/17289537.shtml"
+   },
+   {
+    "id": "88a34b4ce4ae",
+    "tema": "Arte y libros",
+    "titular": "De Rainer Maria Rilke a Salvador Dalí: las exposiciones que no te puedes perder en noviembre",
+    "resumen": "Una guia del arte que deslumbra este otoño. Más información: Dalí se enfrenta a sus demonios en el Thyssen: \"El artista fue el más prodigioso inventor del siglo XX\" ...",
+    "medio": "El Español",
+    "fecha": "2026-11-01T16:01:00.000Z",
+    "url": "https://www.elespanol.com/el-cultural/arte/20261102/rainer-maria-rilke-salvador-dali-exposiciones-no-puedes-perder-noviembre/1003744441377_0.html"
    }
   ],
   "belgica": [
+   {
+    "id": "381c98a60dc4",
+    "tema": "Premios",
+    "titular": "Qui remportera le prix Goncourt? Voici les 4 écrivains en lice",
+    "resumen": "Qui de Philippe Jaenada, Yannick Haenel, Clémentine Mélois ou Sylvain Prudhomme remportera le prix Goncourt 2026? Verdict ce mardi à 13 heures. Le cérémonial est immuable: à la mi-journée, le nom de l ...",
+    "medio": "Le Vif",
+    "fecha": "2026-11-02T16:00:00.000Z",
+    "url": "https://focus.levif.be/livres/qui-remportera-le-prix-goncourt-voici-les-4-ecrivains-en-lice/"
+   },
+   {
+    "id": "a0804e656ff6",
+    "tema": "Premios",
+    "titular": "C'est dans ce restaurant que les jurés du Goncourt élisent leur lauréat: \"Frédéric Beigbeder, saisi d'un coup de sang, tenta de s'y introduire\"",
+    "resumen": "Le café Drouant à Paris, où est remis le prix Goncourt. ©Copyright (c) 2020 Petr Kovalenkov/Shutterstock. No use without permission. En 1880, un jeune Alsacien ...",
+    "medio": "La Libre",
+    "fecha": "2026-11-02T16:00:00.000Z",
+    "url": "https://www.lalibre.be/culture/livres-bd/2026/11/03/cest-dans-ce-restaurant-que-les-jures-du-goncourt-elisent-leur-laureat-frederic-beigbeder-saisi-dun-coup-de-sang-tenta-de-sy-introduire-YFYYJ6LIXJABNIF2FTPRZLR5JA/"
+   },
    {
     "id": "580fc7ef469c",
     "tema": "País",
@@ -63,13 +171,31 @@
     "url": "https://www.brusselstimes.com/2388759/where-the-are-eggs-stored-culture-or-science"
    },
    {
-    "id": "19387e1953ce",
+    "id": "62735c4c8301",
     "tema": "País",
     "titular": "Management companies: The tax fight inside Belgium's budget crisis",
-    "resumen": "For some, management companies are a path to dodging taxes; for others, a legitimate way to structure a business. Either way, they have become a lightning rod for Belgium's budget negotiations and, ...",
+    "resumen": "Management companies have become a lightning rod for budget negotiations and, according to one expert, signal a much-needed debate over how Belgium taxes labour.",
     "medio": "The Brussels Times",
     "fecha": "2026-11-02T16:00:00.000Z",
-    "url": "https://www.brusselstimes.com/belgium/2388092/management-companies-the-tax-fight-inside-belgiums-budget-crisis/"
+    "url": "https://www.brusselstimes.com/2388092/management-companies-the-tax-fight-inside-belgiums-budget-crisis"
+   },
+   {
+    "id": "e7649f0ef651",
+    "tema": "Música",
+    "titular": "Slash et Myles Kennedy en tête d'affiche du dimanche du Graspop",
+    "resumen": "Slash feat. Myles Kennedy & The Conspirators seront la seconde tête d'affiche de la journée de dimanche du Graspop Metal Meeting, a annoncé lundi ...",
+    "medio": "La Libre",
+    "fecha": "2026-11-02T08:04:00.000Z",
+    "url": "https://www.lalibre.be/dernieres-depeches/2026/11/02/slash-et-myles-kennedy-en-tete-daffiche-du-dimanche-du-graspop-2JDY4WUMFZCSRJN6TAA6R3EIHI/"
+   },
+   {
+    "id": "41ca292ee8a4",
+    "tema": "Premios",
+    "titular": "Le prix Médicis décerné à Philippe Vasset pour « Dans les grandes lignes »",
+    "resumen": "« Dans les grandes lignes » n’est pas tout à fait un roman, mais reçoit le prix dans cette catégorie, et on ne songera pas à s’en plaindre.",
+    "medio": "Le Soir",
+    "fecha": "2026-11-02T06:18:00.000Z",
+    "url": "https://www.lesoir.be/780435/article/2026-11-02/le-prix-medicis-decerne-philippe-vasset-pour-dans-les-grandes-lignes"
    },
    {
     "id": "34a5e82b307d",
@@ -88,24 +214,6 @@
     "medio": "RTBF",
     "fecha": "2026-11-02T03:07:00.000Z",
     "url": "https://www.rtbf.be/article/un-top-4-epoustouflant-anderlecht-et-le-standard-illisibles-que-retenir-du-debut-de-pro-league-11809231"
-   },
-   {
-    "id": "7dbbc7143a64",
-    "tema": "Deporte",
-    "titular": "Vers un coup dur pour les Diables Rouges ? Kevin De Bruyne souffrirait d’une entorse de la cheville",
-    "resumen": "La défaite du Napoli à la Juventus (2-0) n’a pas coûté au club de Camque sa septième place de Serie A. Sky Italia ...",
-    "medio": "RTBF",
-    "fecha": "2026-11-01T23:16:00.000Z",
-    "url": "https://www.rtbf.be/article/vers-un-coup-dur-pour-les-diables-rouges-kevin-de-bruyne-souffrirait-d-une-entorse-a-la-cheville-des-examens-a-suivre-11809163"
-   },
-   {
-    "id": "312fbcc6672d",
-    "tema": "Deporte",
-    "titular": "Le débriefing de Philippe Albert : « Onia-Seke doit débuter chaque match avec Anderlecht »",
-    "resumen": "Notre consultant foot revient sur les moments forts de la 10e journée de Jupiler Pro League, avec un club, le Standard, qui s’enfonce dans la crise, l’efficacité enfin retrouvée d’Anderlecht et la pro ...",
-    "medio": "Le Soir",
-    "fecha": "2026-11-01T21:59:00.000Z",
-    "url": "https://www.lesoir.be/780334/article/2026-11-02/le-debriefing-de-philippe-albert-onia-seke-doit-debuter-chaque-match-avec"
    }
   ],
   "marcas": [
@@ -117,15 +225,6 @@
     "medio": "Marketing Week",
     "fecha": "2026-11-02T16:01:00.000Z",
     "url": "https://www.marketingweek.com/john-lewis-2026-christmas-campaign/"
-   },
-   {
-    "id": "5fde059d3dcb",
-    "tema": "Marcas globales",
-    "titular": "Apple posts stronger-than-expected revenue in first earnings report for new CEO John Ternus",
-    "resumen": "Result for the company, which earned $30.71bn and exceeded analysts’ expectations, bucked downward trend for tech firms ...",
-    "medio": "The Guardian",
-    "fecha": "2026-11-02T15:07:00.000Z",
-    "url": "https://www.theguardian.com/technology/2026/nov/02/apple-third-quarter-revenue-earnings"
    },
    {
     "id": "427c1d456c93",
@@ -144,15 +243,6 @@
     "medio": "Adweek",
     "fecha": "2026-11-02T06:00:00.000Z",
     "url": "https://www.adweek.com/brand-marketing/vaselines-nyc-lotion-swap-bets-on-quality-over-skincare-trends/"
-   },
-   {
-    "id": "8e1fab3922ef",
-    "tema": "Marcas globales",
-    "titular": "Netflix U.K. Layoffs Hit Up to 3% of London HQ, Production VP Anna Mallett Exits",
-    "resumen": "The seismic changes at Netflix have rippled across the pond, with up to 3% of the streamer’s London HQ laid off, it has now been confirmed. The aftershocks from last month’s U.S. re-org have also ...",
-    "medio": "Variety",
-    "fecha": "2026-11-02T05:05:00.000Z",
-    "url": "https://variety.com/2026/tv/global/netflix-uk-layoffs-3-per-cent-workforce-anna-mallett-exits-1236937404/"
    },
    {
     "id": "af6fdc200432",
@@ -184,13 +274,13 @@
     "url": "https://hbr.org/sponsored/2026/11/why-hr-ai-needs-rules-not-just-reasoning"
    },
    {
-    "id": "251eb11bd2f8",
+    "id": "86d3dd40d0d5",
     "tema": "Empresa",
-    "titular": "Employee Engagement Is Tanking. These HBR Articles Can Help.",
-    "resumen": "October 2026 data out of Gallup shows that employee engagement in the United States has fallen to its lowest level in 15 years. This collection of HBR articles aims to help companies ensure people ...",
+    "titular": "Are Microsoft’s Voluntary Buyouts a Sign of What’s to Come?",
+    "resumen": "Find new ideas and classic advice on strategy, innovation and leadership, for global leaders from the world's best business and management experts.",
     "medio": "Harvard Business Review",
-    "fecha": "2026-10-30T06:44:00.000Z",
-    "url": "https://hbr.org/2026/10/employee-engagement-is-tanking-these-hbr-articles-can-help"
+    "fecha": "2026-11-02T06:18:00.000Z",
+    "url": "http://www.web.hbr.org/email/archive/managementtip.php?date=062011"
    },
    {
     "id": "ee03b421f763",
