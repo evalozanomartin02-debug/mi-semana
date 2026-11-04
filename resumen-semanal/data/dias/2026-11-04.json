@@ -1,7 +1,7 @@
 {
  "id": "2026-11-04",
  "titulo": "miércoles, 4 de noviembre",
- "publicado": "2026-11-04T05:52:07.884Z",
+ "publicado": "2026-11-04T07:00:12.882Z",
  "secciones": {
   "mundo": [
    {
@@ -68,13 +68,13 @@
     "url": "https://www.elespanol.com/alicante/cultura/musica/20261103/sofia-coll-eurovision-no-sitio-correcto-historia-iria-benidorm-fest-llevara-festival/1003744443436_0.html"
    },
    {
-    "id": "fc1c7f05d88d",
+    "id": "f7f332078eae",
     "tema": "Premios",
-    "titular": "We’ve read all six shortlisted Booker Prize novels, but this is the one you can’t miss",
-    "resumen": "Six novels were shortlisted by a judging panel chaired by classicist Mary Beard, spanning historical fiction with May We Feed the King, contemporary realism with The Disappearers and near-future ...",
-    "medio": "The Independent",
-    "fecha": "2026-11-02T07:00:00.000Z",
-    "url": "https://www.independent.co.uk/extras/indybest/books/booker-prize-shortlist-john-of-john-b3077554.html"
+    "titular": "José Félix Díaz, sobre su votación en el Balón de Oro: \"Yo entiendo que hay disparidad de criterios, pero lo que no entiendo es la intransigencia, las agresiones verbales ...",
+    "resumen": "El pasado viernes, France Football compartió los resultados de las votaciones de los 100 periodistas que participaron en la elección del Balón de Oro. En España, el único periodista deportivo que tuvo ...",
+    "medio": "Sport",
+    "fecha": "2026-11-02T10:08:00.000Z",
+    "url": "https://www.sport.es/es/noticias/barca/jose-felix-diaz-votacion-balon-136004801"
    }
   ],
   "espana": [
@@ -86,6 +86,15 @@
     "medio": "Mundo Deportivo",
     "fecha": "2026-11-03T21:40:00.000Z",
     "url": "https://www.mundodeportivo.com/tenis/20261104/1004246672/alcaraz-sobre-rafa-jodar-bueno-no-realmente-amenaza-increible-forma-jugando-primer-ano-circuito-jugador-habra-pendiente.html"
+   },
+   {
+    "id": "be60b66aed62",
+    "tema": "Premios",
+    "titular": "Sonsoles Ónega nos adelanta 'La hora antes del alba', el Premio Planeta de Isabel Allende: \"No os va a defraudar\"",
+    "resumen": "La presentadora y escritora ha tenido acceso en exclusiva a 'La hora antes del alba', la novela con la que Isabel Allende regresa al universo de 'La casa de los espíritus' 44 años después de su public ...",
+    "medio": "El Confidencial",
+    "fecha": "2026-11-03T21:01:00.000Z",
+    "url": "https://www.vanitatis.elconfidencial.com/famosos/2026-11-04/sonsoles-onega-recomienda-nueva-novela-isabel-allende-premio-planeta-2026_4458193/"
    },
    {
     "id": "16c636499d4a",
@@ -106,13 +115,22 @@
     "url": "https://www.elespanol.com/el-cultural/arte/20261104/traumas-dali-toman-thyssen-viaje-fascinante-perturbador-inconsciente/1003744423370_0.html"
    },
    {
-    "id": "ef53f6120ba1",
+    "id": "3e13bc11e614",
+    "tema": "Música",
+    "titular": "Rosalía, Berto Romero, Carlos Alsina y la serie 'Yakarta', entre los premios Ondas 2026",
+    "resumen": "Rosalía, Berto Romero, Carlos Alsina y 'Yakarta' han sido algunos de los premiados en los premios Ondas 2026, cuyo fallo del jurado se dado a conocer Gemma Nierga esta tarde en el programa ‘La Ventana ...",
+    "medio": "La Vanguardia",
+    "fecha": "2026-11-03T14:23:00.000Z",
+    "url": "https://www.lavanguardia.com/television/20261103/11675023/rosalia-berto-romero-carlos-alsina-yakarta-premio-ondas-2026.html"
+   },
+   {
+    "id": "fbf113b7c9f6",
     "tema": "Premios",
-    "titular": "Cristina Fernández Cubas, Premio Cervantes 2026: \"Esto es un honor enorme, grandioso\"",
-    "resumen": "La escritora y periodista Cristina Fernández Cubas, que ha sido galardonada este martes con el Premio de Literatura en Lengua Castellana 'Miguel de Cervantes' correspondiente a 2026, ha asegurado que ...",
-    "medio": "Europa Press",
-    "fecha": "2026-11-03T15:09:00.000Z",
-    "url": "https://www.europapress.es/cultura/noticia-cristina-fernandez-cubas-premio-cervantes-2026-esto-honor-enorme-grandioso-20261103225231.html"
+    "titular": "Cristina Fernández Cubas, maestra de los relatos fantásticos, gana el Premio Cervantes",
+    "resumen": "El Premio Cervantes, el galardón más importante de las Letras Hispánicas, ha recaído en Cristina Fernández Cubas, narradora barcelonesa, autora de una obra basada en ...",
+    "medio": "El Mundo",
+    "fecha": "2026-11-03T12:16:00.000Z",
+    "url": "https://www.elmundo.es/cultura/literatura/2026/11/03/6aea262521efa0c3758b45a8.html"
    },
    {
     "id": "33825e5be92c",
@@ -124,15 +142,6 @@
     "url": "https://www.elconfidencial.com/television/programas-tv/2026-11-03/cine-de-barrio-estreno-la2-pelicula_4458286/"
    },
    {
-    "id": "f653c0d6065c",
-    "tema": "Música",
-    "titular": "Rosalía, Carlos Alsina, Leiva, Berto Romero y 'Polònia' de TV3, Premios Ondas 2026",
-    "resumen": "El Ondas a la mejor idea radiofónica ha recaído ex aequo en 'Lo contó la radio', de Onda Cero, y en 'Que no surti d'aquí', de Catalunya Ràdio ...",
-    "medio": "El Periódico",
-    "fecha": "2026-11-03T11:15:00.000Z",
-    "url": "https://www.elperiodico.com/es/ocio-y-cultura/20261103/rosalia-carlos-alsina-leiva-berto-136052031"
-   },
-   {
     "id": "18cd39808e31",
     "tema": "Música",
     "titular": "Bad Gyal y el no perreo con Rauw Alejandro tras su ruptura con Rosalía: \"Prefería quedar de siesa, no me arrepiento de nada\"",
@@ -140,15 +149,6 @@
     "medio": "Marca",
     "fecha": "2026-11-03T08:21:00.000Z",
     "url": "https://www.marca.com/tiramillas/musica/2026/11/03/bad-gyal-perreo-rauw-alejandro-ruptura-rosalia-preferia-quedar-siesa-me-arrepiento.html"
-   },
-   {
-    "id": "48f82122ab64",
-    "tema": "Personalidades",
-    "titular": "La polémica con los regalos de 'La bola negra' en EEUU que enfada a la audiencia en España: \"No puedo esperar a que lo vendan por 200 euros\"",
-    "resumen": "'La bola negra' está arrasando en España y en EEUU, donde se ha diseñado una estrategia de marketing tremendamente potente, con merchandising de la película para los fans que acuden a las salas a ver ...",
-    "medio": "El Periódico",
-    "fecha": "2026-11-02T06:08:00.000Z",
-    "url": "https://www.elperiodico.com/cuore/famosos/2026/11/02/polemica-regalos-bola-negra-eeuu-demonios-135998821"
    }
   ],
   "belgica": [
@@ -207,6 +207,15 @@
     "url": "https://www.dhnet.be/dernieres-depeches/2026/11/03/le-goncourt-decerne-a-philippe-jaenada-pour-linconnue-du-quai-de-javel-R6N5AJPHAJCA7MY7A7OJDRNWLA/"
    },
    {
+    "id": "4a24fdd0218c",
+    "tema": "Música",
+    "titular": "Rock Werchter annonce Nothing But Thieves en tête d’affiche",
+    "resumen": "Le groupe de rock britannique Nothing But Thieves se produira vendredi 2 juillet sur la Main Stage de Rock Werchter. C’est ce qu’a annoncé ce mardi l’organisation du festival. Le groupe y présentera ...",
+    "medio": "Le Soir",
+    "fecha": "2026-11-03T01:25:00.000Z",
+    "url": "https://soirmag.lesoir.be/780600/article/2026-11-03/rock-werchter-annonce-nothing-thieves-en-tete-daffiche"
+   },
+   {
     "id": "312fbcc6672d",
     "tema": "Deporte",
     "titular": "Le débriefing de Philippe Albert : « Onia-Seke doit débuter chaque match avec Anderlecht »",
@@ -218,13 +227,13 @@
   ],
   "marcas": [
    {
-    "id": "ee19dbb0a41f",
-    "tema": "Marcas en España",
-    "titular": "Hand Over, la marca española que ha devuelto las lentejuelas y el ‘brilli brilli’ a la vida cotidiana",
-    "resumen": "Cómo una pequeña firma patria que nació en Vinted ha alcanzado el equilibrio entre la popularidad, la independencia y los precios asequibles sin sacrificar su esencia ...",
-    "medio": "El País",
-    "fecha": "2026-11-03T21:30:00.000Z",
-    "url": "https://elpais.com/smoda/2026-11-04/hand-over-la-marca-espanola-que-ha-devuelto-las-lentejuelas-y-el-brilli-brilli-a-la-vida-cotidiana.html"
+    "id": "c51c8dc86a42",
+    "tema": "Marcas globales",
+    "titular": "Caitlin Clark surprises Iowa’s women’s basketball team with player-exclusive Nike Caitlin 1s fans can’t buy",
+    "resumen": "The Iowa colorway uses the same technology as the Caitlin 1 sold to fans. Nike says its Opticast upper is designed to provide lightweight, locked-in support; a forefoot Air Zoom Turbo unit works with ...",
+    "medio": "Marca",
+    "fecha": "2026-11-03T16:00:00.000Z",
+    "url": "https://www.marca.com/en/basketball/wnba/indiana-fever/2026/11/04/caitlin-clark-surprises-iowa-s-women-s-basketball-team-with-player-exclusive-nike-caitlin-1s-fans-can-t-buy.html"
    },
    {
     "id": "5fde059d3dcb",
@@ -234,24 +243,6 @@
     "medio": "The Guardian",
     "fecha": "2026-11-03T15:07:00.000Z",
     "url": "https://www.theguardian.com/technology/2026/nov/02/apple-third-quarter-revenue-earnings"
-   },
-   {
-    "id": "839721f49212",
-    "tema": "Marcas globales",
-    "titular": "Galaxy S27: New Display Upgrade Confirms Samsung’s Release Plans",
-    "resumen": "Samsung is reportedly upgrading the Galaxy S27 Ultra's privacy display and adding it to the new Galaxy S27 Pro. Here's what it means for the Pro and its price.",
-    "medio": "Forbes",
-    "fecha": "2026-11-03T13:12:00.000Z",
-    "url": "https://www.forbes.com/sites/jaymcgregor/2026/11/03/samsung-galaxy-s27-pro-galaxy-s27-ultra-privacy-display-upgrade-price/"
-   },
-   {
-    "id": "7fd8f837fcb5",
-    "tema": "Campañas y eventos",
-    "titular": "Pierce Brosnan y Fiona Shaw protagonizan la nueva campaña de Burberry",
-    "resumen": "La nueva campaña de Navidad 2026 de Burberry está protagonizada por Pierce Brosnan, Fiona Shaw, Cara Delevingne, Gabrielle Union y Dwyane Wade, con motivo de la celebración del 170.º aniversario de la ...",
-    "medio": "La Vanguardia",
-    "fecha": "2026-11-03T11:08:00.000Z",
-    "url": "https://www.lavanguardia.com/magazine/moda/20261103/11675234/pierce-brosnan-fiona-shaw-protagonizan-nueva-campana-burberry.html"
    },
    {
     "id": "dbeb36e60eb8",
@@ -272,15 +263,6 @@
     "url": "https://www.businessoffashion.com/briefings/sports/nikes-gets-back-in-the-winners-circle/"
    },
    {
-    "id": "2e7ff787e866",
-    "tema": "Marcas en España",
-    "titular": "El bolso shopper trenzado de Mango más ideal para el día a día, en tonos marrones y rebajado",
-    "resumen": "Mango apuesta por una propuesta de aire relajado y muy fácil de llevar, pensada para acompañar los looks de diario durante toda la temporada ...",
-    "medio": "El Confidencial",
-    "fecha": "2026-11-03T06:30:00.000Z",
-    "url": "https://www.vanitatis.elconfidencial.com/estilo/moda/2026-11-03/bolso-shopper-trenzado-mango-ideal-dia-dia-tonos-marrones-rebajado-1qrt_4458074/"
-   },
-   {
     "id": "0ff0f3707834",
     "tema": "Campañas y eventos",
     "titular": "Calvin Klein Launches Icon Cotton Stretch Underwear Campaign Starring Global Football Star Jude Bellingham",
@@ -291,6 +273,33 @@
    }
   ],
   "comunicacion": [
+   {
+    "id": "9391ed909748",
+    "tema": "Empresa",
+    "titular": "Build the Mindset That Keeps Your Team Moving Forward",
+    "resumen": "Optimism isn’t about ignoring problems or assuming everything will work out. In this HBR Executive Masterclass, researcher and author Michelle Gielan explains how leaders can build “resilient optimism ...",
+    "medio": "Harvard Business Review",
+    "fecha": "2026-10-30T05:25:00.000Z",
+    "url": "https://hbr.org/2026/10/build-the-mindset-that-keeps-your-team-moving-forward"
+   },
+   {
+    "id": "79902ba0d9b6",
+    "tema": "Empresa",
+    "titular": "Coping with Uncertainty’s Toll",
+    "resumen": "In this week’s HBR Executive Agenda newsletter, editor at large Adi Ignatius talks to IMD professor Michael Watkins to discuss the toll that today’s constant uncertainty is taking on leaders. Watkins, ...",
+    "medio": "Harvard Business Review",
+    "fecha": "2026-10-30T05:15:00.000Z",
+    "url": "https://hbr.org/2026/10/coping-with-uncertaintys-toll"
+   },
+   {
+    "id": "5b20aae98556",
+    "tema": "Empresa",
+    "titular": "Insurers’ AI Ambitions Are Outpacing Their Data",
+    "resumen": "However, 92% of insurers say their data is a challenge to AI success, the study found, and data silos are a bigger barrier in the insurance sector than in any other industry surveyed.",
+    "medio": "Harvard Business Review",
+    "fecha": "2026-10-29T09:11:00.000Z",
+    "url": "https://hbr.org/sponsored/2026/10/insurers-ai-ambitions-are-outpacing-their-data"
+   },
    {
     "id": "dc8e094c2e39",
     "tema": "Comunicación",
