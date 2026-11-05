@@ -1,9 +1,18 @@
 {
  "id": "2026-11-05",
  "titulo": "jueves, 5 de noviembre",
- "publicado": "2026-11-05T05:54:46.732Z",
+ "publicado": "2026-11-05T07:04:06.298Z",
  "secciones": {
   "mundo": [
+   {
+    "id": "9e5bd740a0dd",
+    "tema": "Deporte",
+    "titular": "Champions League talking points: Are Como the real deal?",
+    "resumen": "Gab Marcotti, Rob Dawson, Mark Ogden and Sam Marsden run the rule over upstarts Como, plus all the other moments that mattered from Matchday 4.",
+    "medio": "ESPN",
+    "fecha": "2026-11-04T16:31:00.000Z",
+    "url": "https://www.espn.com/soccer/story/_/id/50381317/champions-league-talking-points-como-real-deal"
+   },
    {
     "id": "6399c36cc16d",
     "tema": "Deporte",
@@ -14,13 +23,13 @@
     "url": "https://www.abc.es/deportes/baloncesto/yaxel-lendeborg-joya-nba-arruina-carrera-videojuegos-20261104011207-nt.html"
    },
    {
-    "id": "f0dc636f188b",
+    "id": "767f3fd1fdfb",
     "tema": "Deporte",
-    "titular": "Borussia Dortmund 2-1 Betis: resumen, resultado y goles del partido de la fase liga de la Champions League",
-    "resumen": "El Dortmund rompe la racha de victorias del Betis en Europa y provoca que caigan del top 8 ...",
-    "medio": "Cadena SER",
-    "fecha": "2026-11-04T12:00:00.000Z",
-    "url": "https://cadenaser.com/nacional/2026/11/04/borussia-dortmund-2-1-betis-resumen-resultado-y-goles-del-partido-de-la-fase-liga-de-la-champions-league-cadena-ser/"
+    "titular": "Oman secure spot at 2027 men's World Cup Qualifiers",
+    "resumen": "Namibia, one of the hosts of the 2027 ODI World Cup, will continue their qualification journey at the World Cup Qualifier Playoff | ESPN.com ...",
+    "medio": "ESPN",
+    "fecha": "2026-11-04T06:43:00.000Z",
+    "url": "https://www.espn.com/cricket/story/_/id/50378822/oman-secure-spot-2027-men-world-cup-qualifiers"
    },
    {
     "id": "06c2e6537c37",
@@ -41,33 +50,42 @@
     "url": "https://lacontradejaen.eldiario.es/lucas-paulano-jaen-junta-ayuntamiento-/"
    },
    {
-    "id": "ea09bf6efac2",
-    "tema": "Deporte",
-    "titular": "La trágica muerte que sacude a la NBA y recuerda la infidelidad de Tony Parker a Eva Longoria",
-    "resumen": "Erin Benavides, la mujer vinculada al escándalo de infidelidad de Tony Parker (actual entrenador del ASVEL Lyon-Villeurbanne) y Eva Longoria en 2010, fue hallada sin vida en su domicilio de Texas el m ...",
+    "id": "634ac35fde66",
+    "tema": "Premios",
+    "titular": "Brahim Díaz y Pape Gueye, entre los nominados al Balón de Oro africano",
+    "resumen": "Un año más, Achraf Hakimi parte como favorito para ganar el Balón de Oro africano. El capitán del PSG y la selección de Marruecos, ganador de la Champions el pasado curso, comanda una lista en la que ...",
     "medio": "Marca",
-    "fecha": "2026-11-04T02:25:00.000Z",
-    "url": "https://www.marca.com/baloncesto/nba/2026/11/04/tragica-muerte-sacude-nba-recuerda-infidelidad-tony-parker-eva-longoria.html"
+    "fecha": "2026-11-04T03:14:00.000Z",
+    "url": "https://www.marca.com/futbol/2026/11/04/brahim-diaz-pape-gueye-nominados-balon-oro-africano.html"
    }
   ],
   "espana": [
    {
-    "id": "2edb63dad876",
+    "id": "844a870dab90",
     "tema": "Deporte",
-    "titular": "Alcaraz resiste en un Masters 1.000 de París donde caen los favoritos",
-    "resumen": "Alcaraz se medirá por un puesto en cuartos, su mejor clasificación en este torneo, contra el italiano Matteo Berrettini ...",
-    "medio": "Sport",
-    "fecha": "2026-11-04T13:43:00.000Z",
-    "url": "https://www.sport.es/es/noticias/tenis/alcaraz-resiste-masters-1-000-136097827"
+    "titular": "La intención es que se disputen todos los partidos de LaLiga, salvo los ya aplazados",
+    "resumen": "A pesar de la petición de la AFE de suspender la jornada, LaLiga y la RFEF han decidido seguir adelante y solo aplazar los partidos de Tenerife ...",
+    "medio": "COPE",
+    "fecha": "2026-11-04T16:10:00.000Z",
+    "url": "https://www.cope.es/programas/el-partidazo-de-cope/audios/intencion-disputen-todos-partidos-laliga-salvo-aplazados-20261105_3468892.html"
    },
    {
-    "id": "6cab7d8f9a2d",
+    "id": "657827c6c929",
     "tema": "Premios",
-    "titular": "Cristina Fernández Cubas, premio Cervantes: “Los editores me decían que mis cuentos eran extraños, que cambiara el final”",
-    "resumen": "La escritora barcelonesa reflexiona sobre ganar el mayor galardón de las letras en español y sobre los cuentos y su literatura inquietante ...",
-    "medio": "La Vanguardia",
-    "fecha": "2026-11-04T11:06:00.000Z",
-    "url": "https://www.lavanguardia.com/cultura/20261104/11675902/cristina-fernandez-cubas-premio-cervantes-editores-me-decian-mis-cuentos-extranos-incomprensibles-cambiara-final.html"
+    "titular": "La nueva premio Cervantes: “Es un espaldarazo para todos los cuentistas”",
+    "resumen": "Cristina Fernández Cubas (Barcelona, 81 años), la gran maestra del cuento en español, ha obtenido el máximo galardón literario de las letras hispanoam ...",
+    "medio": "El País",
+    "fecha": "2026-11-04T15:59:00.000Z",
+    "url": "https://elpais.com/expres/2026-11-05/la-nueva-premio-cervantes-es-un-espaldarazo-para-todos-los-cuentistas.html"
+   },
+   {
+    "id": "f1ab360fab1e",
+    "tema": "Deporte",
+    "titular": "Alcaraz pierde el bigote, pero no la inercia",
+    "resumen": "El murciano se clasifica para octavos de final en La Defense tras derrotar en dos sets al estadounidense Alex Michelsen",
+    "medio": "ABC",
+    "fecha": "2026-11-04T11:59:00.000Z",
+    "url": "https://www.abc.es/deportes/tenis/alcaraz-pierde-bigote-inercia-20261104205915-nt.html"
    },
    {
     "id": "c609a1bfa5f2",
@@ -77,6 +95,24 @@
     "medio": "RTVE",
     "fecha": "2026-11-04T10:30:00.000Z",
     "url": "https://www.rtve.es/play/noticias/20261104/valle-salvaje-rafael-sorprende-propuesta-rosalia-casate-conmigo/17299238.shtml"
+   },
+   {
+    "id": "30e1fb525783",
+    "tema": "Arte y libros",
+    "titular": "La colección de arte gallego del Museo Reina Sofía aterriza en Galicia con 'Ser Noutras'",
+    "resumen": "La exposición reúne 18 diálogos entre obras de 45 artistas de diferentes generaciones y podrá visitarse hasta el 28 de marzo de 2027 en el Museo Centro Gaiás | Cadena SER ...",
+    "medio": "Cadena SER",
+    "fecha": "2026-11-04T08:38:00.000Z",
+    "url": "https://cadenaser.com/galicia/2026/11/04/la-coleccion-de-arte-gallego-del-museo-reina-sofia-regresa-a-galicia-con-ser-noutras-radio-galicia/"
+   },
+   {
+    "id": "dfe5baf79847",
+    "tema": "Premios",
+    "titular": "Sergio Hernández, finalista Planeta: 'España tiene problemas para hablar del pasado'",
+    "resumen": "Madrid, 4 nov (EFE).- 'La añoranza', la primera novela de Sergio Hernández y finalista del Premio Planeta 2026, surge para rendir tributo a Antonio Machado, a la memoria histórica y al exilio y tambié ...",
+    "medio": "ABC",
+    "fecha": "2026-11-04T08:12:00.000Z",
+    "url": "https://www.abc.es/cultura/libros/sergio-hernandez-finalista-planeta-espana-problemas-hablar-20261104171255-nt.html"
    },
    {
     "id": "ee9f09b59398",
@@ -95,27 +131,18 @@
     "medio": "COPE",
     "fecha": "2026-11-04T06:42:00.000Z",
     "url": "https://www.cope.es/emisoras/extremadura/badajoz-provincia/merida/noticias/merida-celebra-i-festival-folclore-ciudad-augusta-actuaciones-espana-portugal-templo-diana-20261104_3468559.html"
-   },
-   {
-    "id": "be1db58d9ed2",
-    "tema": "Cine y series",
-    "titular": "Prime Video anuncia la inminente fecha de estreno de la temporada 17 de 'La que se avecina': ya está disponible el tráiler oficial",
-    "resumen": "Prime Video ha desvelado este miércoles 4 de noviembre el tráiler oficial, las primeras imágenes y la fecha de estreno de la temporada 17 de 'La que se ...",
-    "medio": "Mundo Deportivo",
-    "fecha": "2026-11-04T06:00:00.000Z",
-    "url": "https://www.mundodeportivo.com/elotromundo/television/20261104/1004247190/prime-video-anuncia-inminente-fecha-estreno-temporada-17-avecina-disponible-trailer-oficial-tvp-dct.html"
-   },
-   {
-    "id": "48f82122ab64",
-    "tema": "Personalidades",
-    "titular": "La polémica con los regalos de 'La bola negra' en EEUU que enfada a la audiencia en España: \"No puedo esperar a que lo vendan por 200 euros\"",
-    "resumen": "'La bola negra' está arrasando en España y en EEUU, donde se ha diseñado una estrategia de marketing tremendamente potente, con merchandising de la película para los fans que acuden a las salas a ver ...",
-    "medio": "El Periódico",
-    "fecha": "2026-11-02T06:08:00.000Z",
-    "url": "https://www.elperiodico.com/cuore/famosos/2026/11/02/polemica-regalos-bola-negra-eeuu-demonios-135998821"
    }
   ],
   "belgica": [
+   {
+    "id": "74693da06461",
+    "tema": "Arte y libros",
+    "titular": "Que faire ce week-end en Belgique ? Notre agenda des 7 et 8 novembre",
+    "resumen": "On fait quoi ce week-end ? Le Vif Weekend vous donne des idées pour passer du bon temps, à Bruxelles et en Wallonie. Bon amusement !",
+    "medio": "Le Vif",
+    "fecha": "2026-11-04T15:59:00.000Z",
+    "url": "https://weekend.levif.be/voyage/belgique-alentours/agenda-week-end/"
+   },
    {
     "id": "772456c12d01",
     "tema": "Deporte",
@@ -162,15 +189,6 @@
     "url": "https://www.rtbf.be/article/quels-sont-les-meilleurs-livres-de-l-automne-2026-decouvrez-les-laureats-des-grands-prix-litteraires-et-les-resumes-de-tous-les-finalistes-11808256"
    },
    {
-    "id": "6e9247750569",
-    "tema": "Arte y libros",
-    "titular": "Les activités du week-end du 8 au 10 novembre en Wallonie et à Bruxelles",
-    "resumen": "Surréalisme à Dinant, frissons à Namur, street art à Tourinnes-la-Grosse, expositions immersives à Liège ou encore balade aux flambeaux du côté Binche : cette semaine, nous vous proposons à nouveau qu ...",
-    "medio": "RTBF",
-    "fecha": "2026-11-04T03:47:00.000Z",
-    "url": "https://www.rtbf.be/article/les-activites-du-week-end-du-8-au-10-novembre-en-wallonie-et-a-bruxelles-11810520"
-   },
-   {
     "id": "001c9e99dfb3",
     "tema": "País",
     "titular": "Uzbekistan faces EU trade scheme test as rules reshape export market",
@@ -191,10 +209,19 @@
   ],
   "marcas": [
    {
+    "id": "944e56b99a1f",
+    "tema": "Campañas y eventos",
+    "titular": "It’s time to throw away the B2B playbook and embrace creators",
+    "resumen": "Influencers can unlock opportunities for brand building in B2B, helping businesses own the feed and grow their market share at the same time.",
+    "medio": "Marketing Week",
+    "fecha": "2026-11-04T23:01:00.000Z",
+    "url": "https://www.marketingweek.com/b2b-influencers-boring-to-boring/"
+   },
+   {
     "id": "213ca53a23fb",
     "tema": "Marcas en España",
     "titular": "La salsa de Mercadona para acompañar cenas informales y picoteos: especiada y agridulce",
-    "resumen": "Las patatas fritas, las hamburguesas y los bocadillos son algunos de los platos que pueden acompañarse con la salsa Hannibal de Hacendado ...",
+    "resumen": "Las patatas fritas, las hamburguesas y los bocadillos son algunos de los platos que pueden acompañarse con la salsa Hannibal de Hacendado",
     "medio": "El Confidencial",
     "fecha": "2026-11-04T21:00:00.000Z",
     "url": "https://www.vanitatis.elconfidencial.com/gastronomia/2026-11-05/salsa-mercadona-cenas-informales-especiada-agridulce-1qrt_4456911/"
@@ -227,6 +254,15 @@
     "url": "https://www.theguardian.com/film/2026/nov/04/a-dogs-perfect-christmas-review-netflix"
    },
    {
+    "id": "f03d756a40b4",
+    "tema": "Marcas globales",
+    "titular": "Galaxy S27: New Upgrades Confirm Samsung’s Release Plans",
+    "resumen": "Samsung is reportedly upgrading the Galaxy S27 Ultra's privacy display and adding it to the new Galaxy S27 Pro. Here's what it means for the Pro and its price.",
+    "medio": "Forbes",
+    "fecha": "2026-11-04T11:59:00.000Z",
+    "url": "https://www.forbes.com/sites/jaymcgregor/2026/11/04/samsung-galaxy-s27-pro-galaxy-s27-ultra-privacy-display-upgrade-price/"
+   },
+   {
     "id": "fe49adc28776",
     "tema": "Marcas globales",
     "titular": "Why Netflix Needs Peter Rice To Make The Gamble On 'Member Joy' Succeed",
@@ -236,31 +272,13 @@
     "url": "https://www.forbes.com/sites/sabrinareed/2026/11/04/why-netflix-needs-peter-rice-to-make-the-gamble-on-member-joy-succeed/"
    },
    {
-    "id": "9b95c1a5d683",
-    "tema": "Campañas y eventos",
-    "titular": "Where Programmatic Meets the Health Mindset",
-    "resumen": "Reaching health-minded audiences programmatically in trusted doctor’s office settings is an opportunity marketers should be planning for.",
-    "medio": "Adweek",
-    "fecha": "2026-11-04T08:51:00.000Z",
-    "url": "https://www.adweek.com/sponsored/where-programmatic-meets-the-health-mindset/"
-   },
-   {
-    "id": "e0669c5575d2",
+    "id": "d63be0edac71",
     "tema": "Marcas en España",
-    "titular": "La marca privada se consolida en España y espera crecer en el mercado internacional",
-    "resumen": "La marca privada se consolida en España y espera crecer en el mercado internacional, según los organizadores de la feria PRIVEL.",
-    "medio": "EFE",
-    "fecha": "2026-11-04T06:23:00.000Z",
-    "url": "https://efecomunica.efe.com/marca-privada-consolida-crecer-mercado-internacional/"
-   },
-   {
-    "id": "ece9d2d63cca",
-    "tema": "Marcas en España",
-    "titular": "Mercadona recupera el roscón de Navidad que sus clientes llevaban años pidiendo: vuelve a Sevilla por 9,50 euros",
-    "resumen": "El supermercado vuelve a vender en sus tiendas el Roscón Bombón desde este jueves 5 de noviembre, con una receta mejorada, doble relleno y cobertura de chocolate ...",
-    "medio": "ABC",
-    "fecha": "2026-11-04T02:15:00.000Z",
-    "url": "https://www.abc.es/sevilla/vivir-y-hogar/mercadona-recupera-roscon-navidad-clientes-llevaban-anos-20261104111552-nts.html"
+    "titular": "Marsh completa la adquisición de AltamarCAM, que perderá su histórica marca",
+    "resumen": "José Luis Molina y Claudio Aguirre liderarán la Plataforma Internacional de Mercados Privados del negocio de inversiones de Marsh. Madrid se convierte en un 'hub' de la nueva plataforma. Más informaci ...",
+    "medio": "El Español",
+    "fecha": "2026-11-04T07:10:00.000Z",
+    "url": "https://www.elespanol.com/invertia/mis-finanzas/fondos-de-inversion/20261104/mercer-completa-adquisicion-altamarcam-perdera-marca-favor-marsh/1003744446200_0.html"
    }
   ],
   "comunicacion": [
