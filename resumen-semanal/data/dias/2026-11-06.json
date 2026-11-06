@@ -1,7 +1,7 @@
 {
  "id": "2026-11-06",
  "titulo": "viernes, 6 de noviembre",
- "publicado": "2026-11-06T05:53:02.517Z",
+ "publicado": "2026-11-06T07:02:16.153Z",
  "secciones": {
   "mundo": [
    {
@@ -115,15 +115,6 @@
     "url": "https://www.abc.es/espana/castilla-leon/melendi-llegara-valladolid-mayo-2027-gira-pop-20261105163340-nt.html"
    },
    {
-    "id": "e51d9213dc40",
-    "tema": "Cine y series",
-    "titular": "'Godzilla', 'Ruega por nosotras' y 'Sacamantecas', los títulos más destacados en los cines esta semana",
-    "resumen": "Batallas de kaijus (bestias gigantes) y descargas de acción y adrenalina en esta película dirigida por Takashi Yamazaki ('Godzilla Minus One'), protagonizada por Ryunosuke Kamiki ('Godzilla Minus One' ...",
-    "medio": "El Periódico",
-    "fecha": "2026-11-05T01:47:00.000Z",
-    "url": "https://www.elperiodico.com/es/ocio-y-cultura/20261105/godzilla-ruega-nosotras-sacamantecas-estrenos-cine-semana-136105169"
-   },
-   {
     "id": "9fde09e46431",
     "tema": "Deporte",
     "titular": "Fritz se medirá a Alcaraz tras derrotar a Fils y acercarse a Turín",
@@ -131,6 +122,15 @@
     "medio": "Sport",
     "fecha": "2026-11-05T00:31:00.000Z",
     "url": "https://www.sport.es/es/noticias/tenis/fritz-medira-alcaraz-derrotar-fils-136140475"
+   },
+   {
+    "id": "6cab7d8f9a2d",
+    "tema": "Premios",
+    "titular": "Cristina Fernández Cubas, premio Cervantes: “Los editores me decían que mis cuentos eran extraños, que cambiara el final”",
+    "resumen": "La escritora barcelonesa reflexiona sobre ganar el mayor galardón de las letras en español y sobre los cuentos y su literatura inquietante ...",
+    "medio": "La Vanguardia",
+    "fecha": "2026-11-04T11:06:00.000Z",
+    "url": "https://www.lavanguardia.com/cultura/20261104/11675902/cristina-fernandez-cubas-premio-cervantes-editores-me-decian-mis-cuentos-extranos-incomprensibles-cambiara-final.html"
    },
    {
     "id": "5037035e8cad",
@@ -162,31 +162,40 @@
     "url": "https://www.rtbf.be/article/l-union-dompte-le-celta-vigo-et-reste-invaincue-en-europa-league-11811490"
    },
    {
-    "id": "7b29cba7f09c",
-    "tema": "Deporte",
-    "titular": "Nouvelle prolongation à l’Union : la révélation Massiré Sylla prolonge l’aventure chez les Saint-Gillois !",
-    "resumen": "Le défenseur avait rejoint l’Union lors du mercato hivernal la saison dernière, en provenance de Lyn, club norvégien de deuxième division. Cette saison, il s’impose comme une véritable révélation dans ...",
-    "medio": "Le Soir",
-    "fecha": "2026-11-05T06:11:00.000Z",
-    "url": "https://www.lesoir.be/781126/article/2026-11-05/nouvelle-prolongation-lunion-la-revelation-massire-sylla-prolonge-laventure-chez"
+    "id": "9ecd798debdc",
+    "tema": "Premios",
+    "titular": "Laura Kasischke, prix Femina étranger : «On traverse la vie sans jamais reconnaître que n’importe quoi peut arriver à tout moment»",
+    "resumen": "Dans Baignade surveillée, qui vient de remporter le prix Femina étranger, l’auteure américaine part de la noyade d’un enfant dans une ville du Michigan, un célèbre jour de 1969. Un roman choral qui di ...",
+    "medio": "Le Figaro",
+    "fecha": "2026-11-05T12:01:00.000Z",
+    "url": "https://madame.lefigaro.fr/celebrites/culture/laura-kasischke-prix-femina-etranger-on-traverse-la-vie-sans-jamais-reconnaitre-que-n-importe-quoi-peut-arriver-a-tout-moment-20261105"
    },
    {
-    "id": "67e5a15dd668",
+    "id": "04648929dc03",
+    "tema": "Deporte",
+    "titular": "Voici combien de millions le Club Bruges a déjà remportés en Champions League et où en est sa course pour le Mondial des clubs",
+    "resumen": "Vainqueur du PSV (1-2), ce mercredi, le champion de Belgique a déjà virtuellement empoché près de 43 millions € de l'UEFA. Et c'est loin d'être ...",
+    "medio": "DH",
+    "fecha": "2026-11-05T09:05:00.000Z",
+    "url": "https://www.dhnet.be/sports/football/division-1a/fc-bruges/2026/11/05/voici-combien-de-millions-le-club-bruges-a-deja-remportes-en-champions-league-et-ou-en-est-sa-course-pour-le-mondial-des-clubs-PLDL3ITRYFGDNIIEWASQKWOA2Y/"
+   },
+   {
+    "id": "972b40770482",
     "tema": "País",
     "titular": "'Patient safety at risk': Flemish minister removes doctor from specialist training",
     "resumen": "Flemish Minister of Welfare Caroline Gennez (Vooruit) has decided to remove a doctor from specialist training at the UZA University Hospital in Antwerp.",
     "medio": "The Brussels Times",
     "fecha": "2026-11-04T15:59:00.000Z",
-    "url": "https://www.brusselstimes.com/belgium/2392765/patient-safety-at-risk-flemish-minister-removes-doctor-from-specialist-training"
+    "url": "https://www.brusselstimes.com/2392765/patient-safety-at-risk-flemish-minister-removes-doctor-from-specialist-training"
    },
    {
-    "id": "9010cc0bea2b",
+    "id": "20117ec26290",
     "tema": "Premios",
-    "titular": "Yannick Haenel remporte le prix Femina 2026 avec « La solitude des professeurs est infinie »",
-    "resumen": "Yannick Haenel a été récompensé pour son ouvrage « La solitude des professeurs est infinie » au prix Femina 2026 ce mercredi 4 novembre.",
-    "medio": "Le Soir",
-    "fecha": "2026-11-04T05:34:00.000Z",
-    "url": "https://www.lesoir.be/780913/article/2026-11-04/yannick-haenel-remporte-le-prix-femina-2026-avec-la-solitude-des-professeurs-est"
+    "titular": "Le lauréat du prix Goncourt 2026 reconnaît avoir utilisé l'IA pour \"jouer avec le lecteur\"",
+    "resumen": "À peine sacré, Philippe Jaenada a évoqué au micro de France Inter la manière dont il a utilisé l'IA pour l’écriture de \"l'Inconnue du quai de Javel\", le roman qui lui a valu le prix Goncourt.",
+    "medio": "Euronews",
+    "fecha": "2026-11-04T08:57:00.000Z",
+    "url": "https://fr.euronews.com/2026/11/04/le-laureat-du-prix-goncourt-2026-reconnait-avoir-utilise-lia-pour-jouer-avec-le-lecteur"
    },
    {
     "id": "6e9247750569",
@@ -198,13 +207,13 @@
     "url": "https://www.rtbf.be/article/les-activites-du-week-end-du-8-au-10-novembre-en-wallonie-et-a-bruxelles-11810520"
    },
    {
-    "id": "a39ba4987cfc",
+    "id": "f115cc9bb89f",
     "tema": "Premios",
-    "titular": "Le récap du 3 novembre : Midterms aux États-Unis, consultations au Palais royal et palmarès des prix Goncourt et Renaudot",
-    "resumen": "Les électeurs américains sont appelés aux urnes ce mardi pour renouveler la Chambre des représentants, où les républicains disposent actuellement d’une courte majorité. Les démocrates espèrent reprend ...",
-    "medio": "RTBF",
-    "fecha": "2026-11-03T06:44:00.000Z",
-    "url": "https://www.rtbf.be/article/le-recap-du-3-novembre-midterms-aux-etats-unis-consultations-au-palais-royal-et-palmares-des-prix-goncourt-et-renaudot-11809956"
+    "titular": "Double sacre pour le prix Renaudot essai",
+    "resumen": "Deux essais figurent sur la ligne d’arrivée du prix Renaudot : Christophe Ono-dit-biot et son « Odyssée de l’Odyssée » ainsi que Jean-Paul Enthoven et son controversé « Dictionnaire amoureux du bonheu ...",
+    "medio": "Le Soir",
+    "fecha": "2026-11-03T07:04:00.000Z",
+    "url": "https://www.lesoir.be/780702/article/2026-11-03/double-sacre-pour-le-prix-renaudot-essai"
    }
   ],
   "marcas": [
@@ -254,13 +263,22 @@
     "url": "https://www.bbc.com/sport/football/live/c5j9kge2lg4yt?page=6"
    },
    {
-    "id": "00f5638eeafe",
-    "tema": "Campañas y eventos",
-    "titular": "GP de Brasil: Audi presenta nueva imagen para el circuito de Interlagos",
-    "resumen": "La primera pintura especial de Revolut para el Audi R26 es un homenaje a las calles icónicas de la ciudad natal de Gabriel Bortoleto. São Paulo, estamos listos.",
+    "id": "3dc8dfca3a97",
+    "tema": "Marcas en España",
+    "titular": "¿Cómo quedó Copenhague vs Iberia? Goles y marcador de la Conference League 2026",
+    "resumen": "Alineaciones confirmadas por parte de ambos equipos, que saltan al campo para iniciar los ejercicios de calentamiento El FC Copenhague y el FC Iberia ...",
     "medio": "Marca",
-    "fecha": "2026-11-05T10:01:00.000Z",
-    "url": "https://www.marca.com/mx/motor/formula-1/2026/11/05/gp-brasil-audi-presenta-nueva-imagen-circuito-interlagos-video.html"
+    "fecha": "2026-11-05T08:00:00.000Z",
+    "url": "https://www.marca.com/mx/futbol/copenhague-iberia-tbilisi/2026/11/05/01_01105_20261105_569_10228-directo.html"
+   },
+   {
+    "id": "6ec5efb64c12",
+    "tema": "Campañas y eventos",
+    "titular": "Allwyn UK shakes up senior leadership with first CMO role",
+    "resumen": "The National Lottery operator has appointed an interim CMO, as it changes leadership structure to fuel its next phase of growth.",
+    "medio": "Marketing Week",
+    "fecha": "2026-11-05T07:37:00.000Z",
+    "url": "https://www.marketingweek.com/allwyn-first-cmo-role-shake-up/"
    },
    {
     "id": "229529ab7337",
@@ -270,15 +288,6 @@
     "medio": "Financial Times",
     "fecha": "2026-11-05T07:00:00.000Z",
     "url": "https://markets.ft.com/data/announce/detail?dockey=600-202611051000CANADANWCANADAPR_C7373-1"
-   },
-   {
-    "id": "0a2734cdc2bd",
-    "tema": "Marcas en España",
-    "titular": "El fabricante de chicles de Mercadona pulveriza su facturación tras vender 70 millones de unidades",
-    "resumen": "La firma valenciana Chickles Gum eleva su beneficio neto un 33% y mantiene un esfuerzo inversor de 4,7 millones de euros ...",
-    "medio": "ABC",
-    "fecha": "2026-11-04T15:59:00.000Z",
-    "url": "https://www.abc.es/espana/comunidad-valenciana/fabricante-chicles-mercadona-pulveriza-facturacion-tras-vender-20261105084311-nt.html"
    }
   ],
   "comunicacion": [
