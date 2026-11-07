@@ -1,7 +1,7 @@
 {
  "id": "2026-11-07",
  "titulo": "sábado, 7 de noviembre",
- "publicado": "2026-11-07T05:42:48.700Z",
+ "publicado": "2026-11-07T06:47:32.925Z",
  "secciones": {
   "mundo": [
    {
@@ -14,6 +14,15 @@
     "url": "https://www.theguardian.com/tv-and-radio/2026/nov/07/eurovision-song-contest-asia-2026"
    },
    {
+    "id": "ebcf46ca1fac",
+    "tema": "Premios",
+    "titular": "How the goddess Nike inspired Putellas' Ballon d'Or outfit",
+    "resumen": "How the goddess Nike inspired Putellas' Ballon d'Or outfit. To play this video you need to enable JavaScript in your browser. This video can not be played ...",
+    "medio": "BBC",
+    "fecha": "2026-11-06T16:00:00.000Z",
+    "url": "https://www.bbc.com/sport/football/videos/cqgkvv8krnp0o"
+   },
+   {
     "id": "f9f802ab78ce",
     "tema": "Premios",
     "titular": "Karl Deisseroth, Nobel de Medicina: “Los modelos avanzados de inteligencia artificial podrían leer la actividad cerebral de las personas”",
@@ -21,15 +30,6 @@
     "medio": "El País",
     "fecha": "2026-11-06T16:00:00.000Z",
     "url": "https://elpais.com/ciencia/2026-11-07/karl-deisseroth-nobel-de-medicina-los-modelos-avanzados-de-inteligencia-artificial-podrian-leer-la-actividad-cerebral-de-las-personas.html"
-   },
-   {
-    "id": "441a408361b1",
-    "tema": "Premios",
-    "titular": "JJ Gabriel, con MARCA: \"Mi sueño es ganar el Balón de Oro\"",
-    "resumen": "MARCA da en exclusiva en Madrid con la joya inglesa de 16 años, que ya se entrena en la capital mientras el club blanco ultima su fichaje para el Castilla ...",
-    "medio": "Marca",
-    "fecha": "2026-11-06T14:30:00.000Z",
-    "url": "https://www.marca.com/futbol/real-madrid/2026/11/06/jj-gabriel-marca-mi-sueno-ganar-balon-oro.html"
    },
    {
     "id": "b1160581bd6b",
@@ -59,13 +59,13 @@
     "url": "https://as.com/baloncesto/nba/adam-silver-agita-la-nba-la-duracion-de-los-partidos-podria-cambiar-f202611-n/"
    },
    {
-    "id": "734020f1119c",
+    "id": "e8ce1aa2befe",
     "tema": "Música",
     "titular": "Westwood worried for DP World Tour after LIV collapse",
     "resumen": "Former world number one Lee Westwood expects the PGA Tour to \"play hardball\" with its European counterparts following the demise of LIV.",
     "medio": "BBC",
     "fecha": "2026-11-06T05:02:00.000Z",
-    "url": "https://www.bbc.co.uk/sport/golf/articles/cwm244d55pdpo"
+    "url": "https://www.bbc.com/sport/golf/articles/cwm244d55pdpo"
    },
    {
     "id": "5f23177ec899",
@@ -78,6 +78,15 @@
    }
   ],
   "espana": [
+   {
+    "id": "a5d4312e991a",
+    "tema": "Cine y series",
+    "titular": "¿A quién deja fuera el cine español?",
+    "resumen": "Ficciones como ‘La bola negra’ rompen moldes en un panorama donde la diversidad es la excepción, según el último informe del observatorio de la diversidad en los medios audiovisuales ...",
+    "medio": "La Vanguardia",
+    "fecha": "2026-11-06T22:00:00.000Z",
+    "url": "https://www.lavanguardia.com/cultura/20261107/11678343/deja-fuera-cine-espanol.html"
+   },
    {
     "id": "beeff06176a5",
     "tema": "Música",
@@ -124,22 +133,13 @@
     "url": "https://www.abc.es/deportes/tenis/alcaraz-destroza-limite-grande-semifinales-tras-levantar-20261106225818-nt.html"
    },
    {
-    "id": "f5bc08c4e54e",
+    "id": "d7fdef9e0e2c",
     "tema": "Música",
-    "titular": "El Ayuntamiento de Córdoba celebra el día 15 el Festival Viento Joven dedicado a música cofrade en el Silo de Santa Cruz",
-    "resumen": "La Delegación de Juventud del Ayuntamiento de Córdoba celebrará el domingo 15 de noviembre, a las 12,00 horas, el Festival Viento Joven en el Silo de la barriada periférica de Santa Cruz. La cita, org ...",
-    "medio": "Europa Press",
-    "fecha": "2026-11-06T10:33:00.000Z",
-    "url": "https://www.europapress.es/andalucia/noticia-ayuntamiento-cordoba-celebra-dia-15-festival-viento-joven-dedicado-musica-cofrade-silo-santa-cruz-20261106183306.html"
-   },
-   {
-    "id": "2b0cf93f5d87",
-    "tema": "Cine y series",
-    "titular": "RTVE y Solidarios acercan el cine español a los centros penitenciarios para impulsar la cultura y la inclusión",
-    "resumen": "RTVE y Solidarios acercan el cine español a los centros penitenciarios para impulsar la cultura y la inclusión ...",
-    "medio": "RTVE",
-    "fecha": "2026-11-06T06:49:00.000Z",
-    "url": "https://www.rtve.es/rtve/20261106/rtve-solidarios-acercan-cine-espanol-centros-penitenciarios-impulsar-cultura-inclusion/17303472.shtml"
+    "titular": "U2 adelanta un fragmento de la canción 'The mirror maker' dedicada a Rosalía: \"For all the dreams damned in a girl, Rosalía la olé\"",
+    "resumen": "El cuarteto dublinés actuará en el Estadio Olímpico Lluis Companys de Barcelona los días 13 y 15 de mayo y en La Cartuja de Sevilla el 22 de mayo.",
+    "medio": "20minutos",
+    "fecha": "2026-11-06T11:21:00.000Z",
+    "url": "https://www.20minutos.es/musica/u2-adelanta-un-fragmento-cancion-the-mirror-maker-dedicada-rosalia-for-all-the-dreams-damned-in-girl-rosalia-ole_7058378_0.html"
    },
    {
     "id": "e1dd508891b4",
@@ -147,7 +147,7 @@
     "titular": "5 planes gratis en Madrid del 6 al 13 de noviembre: Mercado de Motores y noche en el Museo del Prado",
     "resumen": "Durante la semana también habrá exhibiciones de torres humanas y conciertos de música urbana en Villa de Vallecas ...",
     "medio": "El País",
-    "fecha": "2026-11-05T21:29:00.000Z",
+    "fecha": "2026-11-05T20:30:00.000Z",
     "url": "https://elpais.com/espana/madrid/2026-11-06/5-planes-gratis-en-madrid-del-6-al-13-de-noviembre-mercado-de-motores-y-museo-del-prado-de-noche.html"
    }
   ],
@@ -216,13 +216,13 @@
     "url": "https://www.brusselstimes.com/art-culture/2393227/what-to-do-in-brussels-this-weekend-6-8-november"
    },
    {
-    "id": "6ba19108b497",
+    "id": "0268b8a38110",
     "tema": "País",
-    "titular": "Heads of state, drones and smart glasses: Inside security at The Hotel Brussels",
-    "resumen": "For 15 years, Nedzad Kamenica has prepared The Hotel Brussels for guests who arrive with motorcades. The threats have changed, from drones to smart glasses. The aim has not: nobody else should notice.",
+    "titular": "No Halloween plans yet? 6 last-minute events in Brussels and beyond",
+    "resumen": "Whether you're looking for a night out with friends or something different from the usual Halloween celebrations, here are six events worth checking out in and around Brussels.",
     "medio": "The Brussels Times",
     "fecha": "2026-11-05T16:00:00.000Z",
-    "url": "https://www.brusselstimes.com/promoted/2391569/heads-of-state-drones-and-smart-glasses-inside-security-at-the-hotel-brussels"
+    "url": "https://www.brusselstimes.com/belgium/2385396/no-halloween-plans-yet-6-last-minute-events-in-brussels-and-beyond"
    }
   ],
   "marcas": [
@@ -236,31 +236,49 @@
     "url": "https://www.lemonde.fr/en/economy/article/2026/11/07/paris-s-louis-vuitton-sidewalks-ignite-debate-over-funding-of-public-space_6774088_19.html"
    },
    {
-    "id": "d62ee853fde1",
-    "tema": "Marcas globales",
-    "titular": "New ‘Stranger Things’ prequel series ‘Other Worlds’ coming to Netflix – watch the teaser",
-    "resumen": "A new Stranger Things prequel series is coming to Netflix – watch the video teaser for Other Worlds below. The streaming giant announced the forthcoming show today (Friday November 6) with a shadowy ...",
-    "medio": "NME",
-    "fecha": "2026-11-06T09:02:00.000Z",
-    "url": "https://www.nme.com/news/tv/new-stranger-things-prequel-series-other-worlds-announced-netflix-watch-video-teaser-3975308"
-   },
-   {
-    "id": "2b41edb1f49e",
-    "tema": "Marcas en España",
-    "titular": "Amancio Ortega, fundador de Inditex, con 125.200 millones de euros: \"Si he ganado tanto es porque mi objetivo no era ganar dinero, una empresa tiene que estar viva\"",
-    "resumen": "Empezó fabricando batas de señora en un pequeño taller de Galicia; a fecha de 2026, su patrimonio roza los 125.200 millones de euros y se ha convertido en el ...",
-    "medio": "Mundo Deportivo",
-    "fecha": "2026-11-06T08:44:00.000Z",
-    "url": "https://www.mundodeportivo.com/actualidad/20261106/1004248000/amancio-ortega-fundador-inditex-148-000-millones-euros-he-ganado-tanto-mi-objetivo-no-ganar-dinero-empresa-viva-dct.html"
-   },
-   {
-    "id": "45cf11cc8b93",
+    "id": "6ddb4de5588e",
     "tema": "Campañas y eventos",
-    "titular": "How might new salary transparency legislation impact marketing jobs?",
-    "resumen": "The Prime Minister is urging companies to start advertising salary expectations ahead of legislation, with just two-fifths currently doing so.",
-    "medio": "Marketing Week",
-    "fecha": "2026-11-06T06:29:00.000Z",
-    "url": "https://www.marketingweek.com/salary-transparency-legislation-marketing/"
+    "titular": "Ticker: Carson Daly Named Saturday Today Co-Anchor",
+    "resumen": "Top of the Ticker: NBC News has named Carson Daly the co-anchor of Saturday Today, beginning Saturday, November 7. Daly will continue his weekday role, expanding his duties at NBC News to six days a ...",
+    "medio": "Adweek",
+    "fecha": "2026-11-06T15:44:00.000Z",
+    "url": "https://www.adweek.com/tvnewser/ticker-carson-daly-named-saturday-today-co-anchor/"
+   },
+   {
+    "id": "45dfc29e1344",
+    "tema": "Marcas globales",
+    "titular": "When the Chanel circus came to Sydney it brought bespoke barricades and 800 VICs",
+    "resumen": "Celebrities including Nicole Kidman, Margot Robbie and Kylie Minogue sat front row at two runway events while bemused locals looked on ...",
+    "medio": "The Guardian",
+    "fecha": "2026-11-06T15:02:00.000Z",
+    "url": "https://www.theguardian.com/fashion/2026/nov/07/when-the-chanel-circus-came-to-sydney-it-brought-bespoke-barricades-and-800-vics"
+   },
+   {
+    "id": "f1d7f01009ba",
+    "tema": "Campañas y eventos",
+    "titular": "Brandweek 2026: The ‘Why’ Test Behind Mars’ Boldest Ideas ft. Rankin Carroll",
+    "resumen": "Live from the Marketing Vanguard stage at Brandweek 2026, Jenny Rooney sits down with Rankin Carroll, chief brand officer of Mars Snacking, to unpack how brands like M&M’s, Snickers and Skittles stay ...",
+    "medio": "Adweek",
+    "fecha": "2026-11-06T08:47:00.000Z",
+    "url": "https://www.adweek.com/brand-marketing/brandweek-2026-the-why-test-behind-mars-boldest-ideas-ft-rankin-carroll/"
+   },
+   {
+    "id": "886b6ff3d2e4",
+    "tema": "Campañas y eventos",
+    "titular": "Entries Now Open for the 2027 ADWEEK Marketing Vanguard Awards",
+    "resumen": "This award recognizes the top CMOs whose decisions directly impact business growth, backed with data from Brand Finance ...",
+    "medio": "Adweek",
+    "fecha": "2026-11-06T07:10:00.000Z",
+    "url": "https://www.adweek.com/brand-marketing/entries-now-open-for-the-2027-adweek-marketing-vanguard-awards/"
+   },
+   {
+    "id": "8a9c8b261108",
+    "tema": "Marcas globales",
+    "titular": "Apple has been outperforming. But, the good times could soon end, Daiwa says",
+    "resumen": "Apple has outperformed in 2026, but the stock is likely to lose momentum next year due to several macroeconomic headwinds, per Daiwa Capital Markets.",
+    "medio": "CNBC",
+    "fecha": "2026-11-06T04:37:00.000Z",
+    "url": "https://www.cnbc.com/2026/11/06/apple-is-on-a-tear-but-it-wont-be-for-long-per-daiwa-capital-markets.html"
    },
    {
     "id": "53635762e1a0",
@@ -270,24 +288,6 @@
     "medio": "Europa Press",
     "fecha": "2026-11-06T02:41:00.000Z",
     "url": "https://www.europapress.es/economia/noticia-movistar-ofrece-mejor-experiencia-movil-espana-tercer-trimestre-ranking-medux-20261106104112.html"
-   },
-   {
-    "id": "f0f9ebdbd36a",
-    "tema": "Campañas y eventos",
-    "titular": "'Santander tan increíble y tan real', nueva campaña de promoción turística para atraer visitantes todo el año",
-    "resumen": "El nuevo Plan de Medios tiene una duración inicial de dos años, prorrogable por otros dos, y contempla la planificación, el diseño, la producción, la activación y el seguimiento de las campañas ...",
-    "medio": "Europa Press",
-    "fecha": "2026-11-06T02:18:00.000Z",
-    "url": "https://www.europapress.es/cantabria/noticia-santander-tan-increible-tan-real-nueva-campana-promocion-turistica-atraer-visitantes-todo-ano-20261106101751.html"
-   },
-   {
-    "id": "4e280ac70849",
-    "tema": "Campañas y eventos",
-    "titular": "‘Scouse soul is critical’: Liverpool FC launches biggest brand platform to date for Christmas",
-    "resumen": "Since joining the club in June, senior vice-president of marketing and digital Hannah Pym is building on LFC’s global brand ambitions.",
-    "medio": "Marketing Week",
-    "fecha": "2026-11-06T00:59:00.000Z",
-    "url": "https://www.marketingweek.com/liverpool-fc-biggest-brand-platform-christmas/"
    },
    {
     "id": "de6767fb9fad",
