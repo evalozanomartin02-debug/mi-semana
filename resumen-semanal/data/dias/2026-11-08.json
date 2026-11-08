@@ -1,17 +1,17 @@
 {
  "id": "2026-11-08",
  "titulo": "domingo, 8 de noviembre",
- "publicado": "2026-11-08T05:43:35.996Z",
+ "publicado": "2026-11-08T06:49:05.938Z",
  "secciones": {
   "mundo": [
    {
-    "id": "471fbd547d67",
-    "tema": "Cine y series",
-    "titular": "Qué ver hoy en Netflix, Amazon Prime Video y otras plataformas: domingo 8 de noviembre de 2026",
-    "resumen": "Por último y volviendo a Netflix, nos topamos con el regreso de una serie de espionaje que dejó muy buen sabor de boca durante su primera temporada. Así que Keira Knightley regresa como atribulada ...",
-    "medio": "20minutos",
-    "fecha": "2026-11-07T21:00:00.000Z",
-    "url": "https://www.20minutos.es/cinemania/noticias/que-ver-hoy-netflix-amazon-prime-video-otras-plataformas-domingo-8-noviembre-2026_7057708_0.html"
+    "id": "2a3d52ff28c0",
+    "tema": "Premios",
+    "titular": "Naomi Ishiguro o cómo conseguir la independencia del peso del Nobel",
+    "resumen": "Naomi Ishiguro (Londres, 1992), hija del premio Nobel de Literatura del 2017, Kazuo Ishiguro, debutó como escritora en febrero del 2020 con un libro de relatos, Escape routes, y el año siguiente firmó ...",
+    "medio": "La Vanguardia",
+    "fecha": "2026-11-07T22:00:00.000Z",
+    "url": "https://www.lavanguardia.com/cultura/20261108/11678837/naomi-ishiguro-como-conseguir-independencia-peso-nobel.html"
    },
    {
     "id": "f26647f5d9ad",
@@ -41,6 +41,15 @@
     "url": "https://www.abc.es/sevilla/cultura/thierry-fremaux-estrella-rock-recibe-giraldillo-honor-20261107194744-nts.html"
    },
    {
+    "id": "37bdd6d5d193",
+    "tema": "Música",
+    "titular": "Elefantes regresa con un nuevo álbum después de 30 años de trayectoria: 'Para todos'",
+    "resumen": "El álbum Para todos llega después de una gran gira en 2024 en la que Elefantes celebró su 30 aniversario, aunque no fue hasta el año 2000 con el disco Azul, producido por Enrique Bunbury, con el que ...",
+    "medio": "RTVE",
+    "fecha": "2026-11-07T09:30:00.000Z",
+    "url": "https://www.rtve.es/play/noticias/20261107/elefantes-regresa-nuevo-album-para-todos/17302649.shtml"
+   },
+   {
     "id": "9c4814861ca6",
     "tema": "Deporte",
     "titular": "How NBA Views Mexico In Its Global Growth Strategy",
@@ -48,15 +57,6 @@
     "medio": "Forbes",
     "fecha": "2026-11-07T08:24:00.000Z",
     "url": "https://www.forbes.com/sites/markmedina/2026/11/07/how-nba-views-mexico-in-its-global-growth-strategy/"
-   },
-   {
-    "id": "2a3d52ff28c0",
-    "tema": "Premios",
-    "titular": "Naomi Ishiguro o cómo conseguir la independencia del peso del Nobel",
-    "resumen": "Naomi Ishiguro (Londres, 1992), hija del premio Nobel de Literatura del 2017, Kazuo Ishiguro, debutó como escritora en febrero del 2020 con un libro de relatos, Escape routes, y el año siguiente firmó ...",
-    "medio": "La Vanguardia",
-    "fecha": "2026-11-07T08:00:00.000Z",
-    "url": "https://www.lavanguardia.com/cultura/20261108/11678837/naomi-ishiguro-como-conseguir-independencia-peso-nobel.html"
    },
    {
     "id": "4488c1522e38",
@@ -68,16 +68,25 @@
     "url": "https://www.bbc.com/sport/football/articles/cmy4x9yq3xg3o"
    },
    {
-    "id": "3868a84a17ff",
+    "id": "96f6e38dc4ba",
     "tema": "Premios",
-    "titular": "Pachuca homenajea a Charlyn Corral tras ganar el premio a Delantera del Año en el Balón de Oro 2026",
-    "resumen": "La futbolista mexicana queda inmortalizada en en el túnel del tiempo del Huracán ya que su club busca que la vean como un ejemplo total para los y las futbolistas de Pachuca antes de salir al terreno ...",
-    "medio": "Marca",
-    "fecha": "2026-11-07T03:09:00.000Z",
-    "url": "https://www.marca.com/mx/futbol/liga-mx-femenil/2026/11/07/pachuca-homenajea-charlyn-corral-ganar-premio-delantera-ano-balon-oro-2026-video.html"
+    "titular": "El Nobel Francis Halzen aspira a hallar más neutrinos con IA y un IceCube diez veces mayor",
+    "resumen": "Santiago de Compostela, 7 nov (EFE).- El investigador Francis Halzen, distinguido con el premio Nobel de Física que espera recoger en diciembre, asegura que el nuevo observatorio IceCube, diez veces m ...",
+    "medio": "ABC",
+    "fecha": "2026-11-07T02:33:00.000Z",
+    "url": "https://www.abc.es/ciencia/nobel-francis-halzen-aspira-hallar-neutrinos-ia-20261107113337-nt.html"
    }
   ],
   "espana": [
+   {
+    "id": "8ebccb1ec7d1",
+    "tema": "Cine y series",
+    "titular": "Luis E. Parés, director de 'Bailar el flamenco': «Estrenar la película en el Festival de Cine Europeo de Sevilla es justicia poética»",
+    "resumen": "El documental pertenece a la sección Embrujo del SeFF y reconstruye la memoria del flamenco durante el periodo de la Guerra Civil, el franquismo y el exilio ...",
+    "medio": "ABC",
+    "fecha": "2026-11-07T15:59:00.000Z",
+    "url": "https://www.abc.es/sevilla/cultura/luis-pares-director-bailar-flamenco-estrenar-pelicula-20261108072359-nts.html"
+   },
    {
     "id": "89111447bffd",
     "tema": "Deporte",
@@ -88,13 +97,13 @@
     "url": "https://www.rtve.es/deportes/20261107/carlos-alcaraz-masters-1000-paris-casper-ruud-semifinales-final-ben-shelton/17304845.shtml"
    },
    {
-    "id": "3fe002e4e8e1",
+    "id": "37365703b823",
     "tema": "Deporte",
-    "titular": "Así queda la clasificación del Mundial de MotoGP 2026 tras la Sprint en Qatar: Marc Márquez puede ser campeón este domingo",
-    "resumen": "Consulta cómo está la clasificación del Mundial de MotoGP 2026, con las puntuaciones de Marc Márquez, Jorge Martín, Pecco Bagnaia, Marco Bezzecchi y ...",
-    "medio": "Sport",
-    "fecha": "2026-11-07T10:09:00.000Z",
-    "url": "https://www.sport.es/es/noticias/motor/moto-gp/queda-clasificacion-mundial-motogp-2026-136203979"
+    "titular": "Las cuentas de Marc Márquez para ser campeón del mundo de MotoGP en Qatar: los puntos que necesita este fin de semana y sus dos grandes rivales",
+    "resumen": "El piloto de Ducati llega con la primera oportunidad matemática para certificar su 10º título mundial (el 8º en la categoría reina). Tras remontar una desventaja de 102 puntos, el ilerdense necesita a",
+    "medio": "El Confidencial",
+    "fecha": "2026-11-07T09:52:00.000Z",
+    "url": "https://www.elconfidencial.com/deportes/motociclismo/2026-11-07/cuentas-marc-marquez-campeon-mundo-motogp-qatar-rivales_4459268/"
    },
    {
     "id": "65fa9901d3c3",
@@ -115,6 +124,15 @@
     "url": "https://www.elperiodico.com/es/ocio-y-cultura/20261107/rosalia-celebra-primer-aniversario-lux-reflexion-personal-playlist-1000-canciones-136194138"
    },
    {
+    "id": "e275ee86cb30",
+    "tema": "Música",
+    "titular": "Placebo y Residente encabezan el cartel del festival Vive Latino 2027 en Ciudad de México",
+    "resumen": "El festival Vive Latino, el encuentro de música en vivo más influyente de Iberoamérica, reveló el cartel oficial de su vigésimo séptima edición, encabezado por el rock alternativo británico de Placebo ...",
+    "medio": "EFE",
+    "fecha": "2026-11-06T13:31:00.000Z",
+    "url": "https://efe.com/cultura/2026-11-06/placebo-residente-cartel-vive-latino-2027/"
+   },
+   {
     "id": "60826ee60d08",
     "tema": "Música",
     "titular": "Loli Bahia: el fenómeno del bellezón 'andaluz' que es novia de Rosalía",
@@ -124,15 +142,6 @@
     "url": "https://www.elmundo.es/loc/famosos/2026/11/06/6aedf26de4d4d86a348b4577.html"
    },
    {
-    "id": "2b0cf93f5d87",
-    "tema": "Cine y series",
-    "titular": "RTVE y Solidarios acercan el cine español a los centros penitenciarios para impulsar la cultura y la inclusión",
-    "resumen": "RTVE y Solidarios acercan el cine español a los centros penitenciarios para impulsar la cultura y la inclusión ...",
-    "medio": "RTVE",
-    "fecha": "2026-11-06T06:49:00.000Z",
-    "url": "https://www.rtve.es/rtve/20261106/rtve-solidarios-acercan-cine-espanol-centros-penitenciarios-impulsar-cultura-inclusion/17303472.shtml"
-   },
-   {
     "id": "890332f7863f",
     "tema": "Premios",
     "titular": "La 55ª edición del FICC de Cartagena proyectará las películas ganadoras de Cannes, Berlín y San Sebastián",
@@ -140,15 +149,6 @@
     "medio": "COPE",
     "fecha": "2026-11-06T04:46:00.000Z",
     "url": "https://www.cope.es/emisoras/region-de-murcia/murcia-provincia/cartagena/noticias/55a-edicion-ficc-cartagena-proyectara-peliculas-ganadoras-cannes-berlin-san-sebastian-20261106_3470225.html"
-   },
-   {
-    "id": "e8a825a0306f",
-    "tema": "Música",
-    "titular": "Pixies se suma al cartel de Icónica Occident Sevilla Fest celebrando sus 40 años en la música",
-    "resumen": "El mítico grupo Pixies es el nuevo artista confirmado para la séptima edición de Icónica Occident Sevilla Fest 2027. La organización así lo ha anunciado este viernes, sumando así a la banda estadounid ...",
-    "medio": "ABC",
-    "fecha": "2026-11-06T03:05:00.000Z",
-    "url": "https://www.abc.es/queplan/sevilla/conciertos/pixies-suma-cartel-iconica-occident-sevilla-fest-20261106120525-nts.html"
    }
   ],
   "belgica": [
@@ -180,13 +180,13 @@
     "url": "https://www.brusselstimes.com/art-culture/2396184/cinemamed-film-festival-line-up-announced"
    },
    {
-    "id": "becdfe272c96",
+    "id": "1d80934c1457",
     "tema": "País",
     "titular": "Congo wants its human remains back. What will it take for Belgium to return them?",
     "resumen": "More than 500 human remains from the DRC, Rwanda and Burundi are still held in Belgium. Some in the AfricaMuseum, but most at the Royal Belgian Institute of Natural Sciences.",
     "medio": "The Brussels Times",
     "fecha": "2026-11-06T16:00:00.000Z",
-    "url": "https://www.brusselstimes.com/world/2396507/congo-wants-its-human-remains-back-what-will-it-take-for-belgium-to-return-them"
+    "url": "https://www.brusselstimes.com/2396507/congo-wants-its-human-remains-back-what-will-it-take-for-belgium-to-return-them"
    },
    {
     "id": "68d572f7d281",
@@ -218,6 +218,15 @@
   ],
   "marcas": [
    {
+    "id": "8ee711ee2758",
+    "tema": "Campañas y eventos",
+    "titular": "Morrisons on its ‘disruptive’ Christmas reinvention of Goldilocks and the Three Bears",
+    "resumen": "The grocer is utilising the creative idea across every one of its touchpoints, following a 40% jump in social media spend over the past year.",
+    "medio": "Marketing Week",
+    "fecha": "2026-11-07T22:00:00.000Z",
+    "url": "https://www.marketingweek.com/morrisons-christmas-goldilocks-three-bears/"
+   },
+   {
     "id": "0ee5a0a4639d",
     "tema": "Marcas globales",
     "titular": "Netflix Surfs Oscar Animated Feature Race With French-Made ‘In Waves’",
@@ -234,15 +243,6 @@
     "medio": "El Mundo",
     "fecha": "2026-11-07T15:05:00.000Z",
     "url": "https://www.elmundo.es/yodona/moda/2026/11/08/6ae9f4abe85ece022e8b4591.html"
-   },
-   {
-    "id": "00f0e22484eb",
-    "tema": "Marcas globales",
-    "titular": "A Netflix Show Returns With A Second 100% Rotten Tomatoes-Scored Season",
-    "resumen": "It’s a comedy called North of North, which has returned to Netflix after a year and a half, and two months after it aired on APTN+ and CBC. Both seasons of the show have a 100% Rotten Tomatoes score, ...",
-    "medio": "Forbes",
-    "fecha": "2026-11-07T11:49:00.000Z",
-    "url": "https://www.forbes.com/sites/paultassi/2026/11/07/a-netflix-show-returns-with-a-second-100-rotten-tomatoes-scored-season/"
    },
    {
     "id": "704ba9dc7952",
@@ -263,6 +263,15 @@
     "url": "https://www.lavanguardia.com/empresas-de-vanguardia/canal-practico/20261107/11669527/valor-invisible-patrocinios.html"
    },
    {
+    "id": "9c95d9f4cc46",
+    "tema": "Marcas globales",
+    "titular": "Struggling to spell ‘male chauvinist pig’? Apple’s grey list means your iPhone won’t help you",
+    "resumen": "There are more than 100,000 words and phrases that the tech giant has restricted its predictive text from completing, research shows ...",
+    "medio": "The Guardian",
+    "fecha": "2026-11-06T08:55:00.000Z",
+    "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you"
+   },
+   {
     "id": "2b41edb1f49e",
     "tema": "Marcas en España",
     "titular": "Amancio Ortega, fundador de Inditex, con 125.200 millones de euros: \"Si he ganado tanto es porque mi objetivo no era ganar dinero, una empresa tiene que estar viva\"",
@@ -279,15 +288,6 @@
     "medio": "Europa Press",
     "fecha": "2026-11-06T02:18:00.000Z",
     "url": "https://www.europapress.es/cantabria/noticia-santander-tan-increible-tan-real-nueva-campana-promocion-turistica-atraer-visitantes-todo-ano-20261106101751.html"
-   },
-   {
-    "id": "4e280ac70849",
-    "tema": "Campañas y eventos",
-    "titular": "‘Scouse soul is critical’: Liverpool FC launches biggest brand platform to date for Christmas",
-    "resumen": "Since joining the club in June, senior vice-president of marketing and digital Hannah Pym is building on LFC’s global brand ambitions.",
-    "medio": "Marketing Week",
-    "fecha": "2026-11-06T00:59:00.000Z",
-    "url": "https://www.marketingweek.com/liverpool-fc-biggest-brand-platform-christmas/"
    }
   ],
   "comunicacion": [
@@ -301,13 +301,13 @@
     "url": "https://hbr.org/?elqTrackId=612f6ce3967a47ca97a6b760ea580a39&elqaid=414&elqat=2&elqak=8AF63C007ECD91D96BBE006F2CB6C55A5D59B9D0EB1DF9B6810E9674A69004C61D2F"
    },
    {
-    "id": "b4014120b3fb",
+    "id": "fcb1c867c46d",
     "tema": "Empresa",
-    "titular": "The 10 Most Popular HBR Articles of October 2026",
-    "resumen": "The top 10 most-read articles from HBR in October 2026 range in topics, including board dynamics, the effects of AI on strategy and collaboration, the role of conflict on executive teams, and why it’s ...",
+    "titular": "When Something Goes Wrong with Your Most Popular Product",
+    "resumen": "Every executive wants a breakout product. What many forget, however, is that once a product becomes a hit, a new set of challenges emerges. As more customers use it, in more situations, more often, ...",
     "medio": "Harvard Business Review",
-    "fecha": "2026-10-29T05:25:00.000Z",
-    "url": "https://hbr.org/2026/10/the-10-most-popular-hbr-articles-of-october-2026"
+    "fecha": "2026-10-30T05:06:00.000Z",
+    "url": "https://hbr.org/2026/10/when-something-goes-wrong-with-your-most-popular-product"
    },
    {
     "id": "54bc4de12a07",
@@ -317,6 +317,15 @@
     "medio": "Harvard Business Review",
     "fecha": "2026-10-29T05:15:00.000Z",
     "url": "https://hbr.org/2026/10/to-make-a-new-strategy-stick-executives-need-shared-emotional-investment"
+   },
+   {
+    "id": "d8a21841826d",
+    "tema": "Comunicación",
+    "titular": "Peio Belausteguigoitia: \"La inteligencia artificial democratiza el conocimiento y nos hace replantear a todos cómo nos relacionamos\"",
+    "resumen": "BBVA y EL PERIÓDICO reúnen a representantes de la Generalitat, FemCat, la Fundació i2CAT e HIPRA para analizar cómo la inteligencia artificial puede impulsar la competitividad del tejido empresarial c ...",
+    "medio": "El Periódico",
+    "fecha": "2026-11-07T21:30:00.000Z",
+    "url": "https://www.elperiodico.com/es/economia/20261108/inteligencia-artificial-jornadas-bbva-bc-136098172"
    },
    {
     "id": "2a491d78ca4d",
@@ -335,15 +344,6 @@
     "medio": "Top Comunicación",
     "fecha": "2026-11-06T01:43:00.000Z",
     "url": "https://www.topcomunicacion.com/35-herramientas-teletrabajar-en-comunicacion/"
-   },
-   {
-    "id": "6d71419610e2",
-    "tema": "Comunicación",
-    "titular": "La medición de los intangibles busca convertir los datos en decisiones de negocio",
-    "resumen": "El CIM 2026, organizado por Corporate Excellence, pone el foco en nuevas metodologías para demostrar el impacto de la reputación, la marca y la comunicación, y aborda el papel de la IA en su gestión ...",
-    "medio": "El Publicista",
-    "fecha": "2026-11-05T16:00:00.000Z",
-    "url": "https://www.elpublicista.es/eventos3/medicion-intangibles-busca-convertir-datos-decisiones-negocio"
    }
   ]
  }
