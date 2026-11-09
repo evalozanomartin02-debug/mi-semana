@@ -1,9 +1,18 @@
 {
  "id": "2026-11-09",
  "titulo": "lunes, 9 de noviembre",
- "publicado": "2026-11-09T05:57:22.319Z",
+ "publicado": "2026-11-09T07:22:28.106Z",
  "secciones": {
   "mundo": [
+   {
+    "id": "7c697694e79f",
+    "tema": "Premios",
+    "titular": "La nueva vida de Sergio García, el primer representante español de Eurovisión Junior: dejó los escenarios y ahora es enfermero",
+    "resumen": "Una historia en la que el recuerdo sobre su madre tuvo una enorme importancia para despertar una afición que ni él mismo conocía.",
+    "medio": "AS",
+    "fecha": "2026-11-08T23:22:00.000Z",
+    "url": "https://as.com/tikitakas/famosos/la-nueva-vida-de-sergio-garcia-el-primer-representante-espanol-de-eurovision-junior-dejo-los-escenarios-y-ahora-es-enfermero-f202611-n/"
+   },
    {
     "id": "1374d8cfc35a",
     "tema": "Deporte",
@@ -12,6 +21,15 @@
     "medio": "Marca",
     "fecha": "2026-11-08T21:09:00.000Z",
     "url": "https://www.marca.com/ciclismo/2026/11/09/pogacar-quita-capa-superheroe-nunca-pense-pudiera-ganar-tour-francia.html"
+   },
+   {
+    "id": "2d8868e93fe3",
+    "tema": "Cine y series",
+    "titular": "Godzilla Minus Zero takes US box office by storm in opening weekend",
+    "resumen": "The foreign-language film topped the North American box office with $31.6m in takings, generating $63m worldwide ...",
+    "medio": "The Guardian",
+    "fecha": "2026-11-08T20:21:00.000Z",
+    "url": "https://www.theguardian.com/world/2026/nov/09/godzilla-minus-zero-takes-us-box-office-by-storm-in-opening-weekend"
    },
    {
     "id": "518368c4186e",
@@ -57,15 +75,6 @@
     "medio": "The Guardian",
     "fecha": "2026-11-07T01:00:00.000Z",
     "url": "https://www.theguardian.com/books/2026/nov/07/narrative-threads-how-to-write-a-booker-shortlisted-novel-by-marlon-james-douglas-stuart-elizabeth-strout-and-more"
-   },
-   {
-    "id": "fc41a0e13906",
-    "tema": "Premios",
-    "titular": "Jim Sheridan: «'La bola negra' es fantástica: va a recibir muchas nominaciones a los Oscar»",
-    "resumen": "El aclamado cineasta irlandés, director de Mi pie izquierdo y En el nombre del padre, visita Toledo para recoger el galardón 'Toledo de Cine' del Festival CiBRA ...",
-    "medio": "ABC",
-    "fecha": "2026-11-06T23:00:00.000Z",
-    "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/jim-sheridan-bola-negra-fantastica-recibir-nominaciones-20261106080001-nt.html"
    }
   ],
   "espana": [
@@ -88,24 +97,6 @@
     "url": "https://www.lavanguardia.com/deportes/futbol/20261108/0/laliga-primera-division-2026-2027-resultado-clasificacion-ca-jornada-12-ctx.html"
    },
    {
-    "id": "43d45877d38e",
-    "tema": "Deporte",
-    "titular": "F1 GP Brasil: resultado, resumen y clasificación de la Carrera de Fórmula 1 en Interlagos con Norris, Alonso y Sainz",
-    "resumen": "Revive la Carrera del Gran Premio de Brasil del Mundial de Fórmula 1 que se ha disputa en Interlagos ...",
-    "medio": "Mundo Deportivo",
-    "fecha": "2026-11-08T10:56:00.000Z",
-    "url": "https://www.mundodeportivo.com/motor/f1/20261108/1004248498/f1-hoy-directo-gp-brasil-carrera-alonso-sainz-interlagos.html"
-   },
-   {
-    "id": "1c16617b6174",
-    "tema": "Música",
-    "titular": "Rosalía Tárrega y Ramón Rodríguez conquistan en Safont el cross Espada Toledana",
-    "resumen": "La atleta albaceteña se impone al sprint y el madrileño domina la prueba masculina en una jornada que también acogió el Campeonato de España de la Guardia Civil ...",
-    "medio": "ABC",
-    "fecha": "2026-11-08T10:40:00.000Z",
-    "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/rosalia-tarrega-ramon-rodriguez-conquistan-safont-cross-20261108193830-nt.html"
-   },
-   {
     "id": "5f7b009994af",
     "tema": "Premios",
     "titular": "\"¿Cómo lleva su marido que haya vuelto a ganar un premio?\": el enigma Carmen Laforet, la escritora que triunfó a los 23 y luego dejó de escribir en pleno franquismo",
@@ -115,15 +106,6 @@
     "url": "https://www.elperiodico.com/es/ocio-y-cultura/20261108/lleva-marido-haya-vuelto-ganar-136182192"
    },
    {
-    "id": "33c5771b9073",
-    "tema": "Deporte",
-    "titular": "Bezzecchi arrebata la 'pole' a Marc Márquez; Martín saldrá undécimo",
-    "resumen": "El italiano Marco Bezzecchi (Aprilia RS-GP) ha arrebatado la 'pole position' al español Marc Márquez (Ducati Desmosedici GP26) para el Gran Premio de Qatar de MotoGP en el circuito de Lusail, con un nuevo récord absoluto.",
-    "medio": "La Vanguardia",
-    "fecha": "2026-11-07T08:44:00.000Z",
-    "url": "https://www.lavanguardia.com/deportes/motociclismo/20261107/11678780/bezzechi-marquez-pole-position-gp-de-qatar-moto-gp.html"
-   },
-   {
     "id": "117570092669",
     "tema": "Música",
     "titular": "Rosalía celebra el primer año de 'LUX' con una edición especial y 7 nominaciones a los Latin Grammy",
@@ -131,26 +113,26 @@
     "medio": "El Periódico",
     "fecha": "2026-11-06T23:00:00.000Z",
     "url": "https://www.elperiodico.com/es/ocio-y-cultura/20261107/rosalia-celebra-primer-ano-lux-136171077"
-   },
-   {
-    "id": "2b0cf93f5d87",
-    "tema": "Cine y series",
-    "titular": "RTVE y Solidarios acercan el cine español a los centros penitenciarios para impulsar la cultura y la inclusión",
-    "resumen": "RTVE y Solidarios acercan el cine español a los centros penitenciarios para impulsar la cultura y la inclusión ...",
-    "medio": "RTVE",
-    "fecha": "2026-11-06T06:49:00.000Z",
-    "url": "https://www.rtve.es/rtve/20261106/rtve-solidarios-acercan-cine-espanol-centros-penitenciarios-impulsar-cultura-inclusion/17303472.shtml"
    }
   ],
   "belgica": [
    {
-    "id": "946389a5caa8",
+    "id": "356d644827bf",
     "tema": "Deporte",
-    "titular": "Troisième défaite de rang pour City et United en position relégable : le week-end noir des Diables rouges de Manchester",
-    "resumen": "La 10e journée en Premier League a été impitoyable pour certaines grosses cylindrées avec un rôle majeur joué par les expatriés belges.",
+    "titular": "L’Union seule en tête : \"Cette première place c’est du bonus\" pour David Hubert",
+    "resumen": "Les Unionistes savaient que Genk allait leur donner du fil à retordre. Les Bruxellois ont dû patienter avant de trouver ...",
+    "medio": "RTBF",
+    "fecha": "2026-11-08T12:39:00.000Z",
+    "url": "https://www.rtbf.be/article/l-union-seule-en-tete-cette-premiere-place-c-est-du-bonus-pour-david-hubert-11812773"
+   },
+   {
+    "id": "86df000804fd",
+    "tema": "Deporte",
+    "titular": "Retour gagnant de Ross Sykes, décisif dans les deux rectangles : voici les bulletins de l’Union Saint-Gilloise face à Genk",
+    "resumen": "Que ce soit défensivement, avec de nombreuses interventions percutantes, ou offensivement avec son but de la tête sur un coup de coin de Zeneli, le puissant défenseur anglais a réussi son come-back, l ...",
     "medio": "Le Soir",
-    "fecha": "2026-11-08T13:08:00.000Z",
-    "url": "https://www.lesoir.be/781690/article/2026-11-08/troisieme-defaite-de-rang-pour-city-et-united-en-position-relegable-le-week-end"
+    "fecha": "2026-11-08T12:37:00.000Z",
+    "url": "https://www.lesoir.be/781689/article/2026-11-08/retour-gagnant-de-ross-sykes-decisif-dans-les-deux-rectangles-voici-les"
    },
    {
     "id": "b5ff358ac4dc",
@@ -160,9 +142,45 @@
     "medio": "RTBF",
     "fecha": "2026-11-08T07:26:00.000Z",
     "url": "https://www.rtbf.be/article/bruges-anderlecht-le-topper-en-5-enseignements-11812591"
+   },
+   {
+    "id": "d01ef00904c4",
+    "tema": "País",
+    "titular": "Why did Agatha Christie make Hercule Poirot Belgian? New exhibition offers clues",
+    "resumen": "Poirot, the meticulous, moustachioed detective who first appeared in The Mysterious Affair at Styles in 1920, became one of Christie's most enduring characters. But why is he Belgian?",
+    "medio": "The Brussels Times",
+    "fecha": "2026-11-07T15:59:00.000Z",
+    "url": "https://www.brusselstimes.com/art-culture/2396210/why-did-agatha-christie-make-hercule-poirot-belgian-new-exhibition-offers-clues"
+   },
+   {
+    "id": "2ab290b83f12",
+    "tema": "País",
+    "titular": "120 take part in ‘Sing/Fuck the Planet’ protest in Brussels",
+    "resumen": "The protest called for stronger climate justice and more ambitious policy in the run-up to the COP31 conference to be held in Türkiye.",
+    "medio": "The Brussels Times",
+    "fecha": "2026-11-07T15:59:00.000Z",
+    "url": "https://www.brusselstimes.com/brussels/2398727/120-take-part-at-sing-fuck-the-planet-protest-in-brussels"
+   },
+   {
+    "id": "6616bfd6bad4",
+    "tema": "País",
+    "titular": "US ambassador to Belgium outraged by Brussels synagogue attack",
+    "resumen": "Bill White visited the synagogue in Anderlecht on Saturday with Israel’s ambassador to Belgium, David Saranga, after the building was targeted in what White called a clear act of antisemitic vandalism ...",
+    "medio": "The Brussels Times",
+    "fecha": "2026-11-06T16:00:00.000Z",
+    "url": "https://www.brusselstimes.com/world/2397281/us-ambassador-to-belgium-outraged-by-brussels-synagogue-attack"
    }
   ],
   "marcas": [
+   {
+    "id": "b80b887f57af",
+    "tema": "Campañas y eventos",
+    "titular": "Why It Works: Air Up and the power of influencing our five senses",
+    "resumen": "Many people would agree that drinking plain water is… plain boring. Which is a problem if you’re aiming to stay nicely hydrated and drink the recommended 2l a day (or whatever the latest advice is).",
+    "medio": "Marketing Week",
+    "fecha": "2026-11-08T23:14:00.000Z",
+    "url": "https://www.marketingweek.com/why-it-works-air-up/"
+   },
    {
     "id": "dc8b2984af8c",
     "tema": "Marcas globales",
@@ -171,6 +189,15 @@
     "medio": "The Guardian",
     "fecha": "2026-11-08T21:01:00.000Z",
     "url": "https://www.theguardian.com/global-development/2026/nov/09/fashion-lagos-chanel-model-rachel-ojuromi-nigeria-thrift-style"
+   },
+   {
+    "id": "2248ed38bf6c",
+    "tema": "Marcas en España",
+    "titular": "Mercadona, El Jamón y Alsara alcanzan el 46,5% de la superficie de venta de los supermercados en Córdoba",
+    "resumen": "La cadena valenciana mantiene el liderazgo en la provincia, mientras que la onubense se implanta con fuerza tras la compra de Piedra y la cordobesa no pierde su influencia ...",
+    "medio": "ABC",
+    "fecha": "2026-11-08T16:00:00.000Z",
+    "url": "https://www.abc.es/espana/andalucia/cordoba/mercadona-jamon-alsara-alcanzan-465-superficie-venta-20261109072936-nts.html"
    },
    {
     "id": "47324e17248c",
@@ -189,15 +216,6 @@
     "medio": "Marketing Week",
     "fecha": "2026-11-06T00:59:00.000Z",
     "url": "https://www.marketingweek.com/liverpool-fc-biggest-brand-platform-christmas/"
-   },
-   {
-    "id": "c525336cbb47",
-    "tema": "Campañas y eventos",
-    "titular": "Ritz Returns for Super Bowl 61 in a Play for Casual Snackers",
-    "resumen": "The company is keeping most details of its campaign close to the vest for now. But category president for savory snacking, Steven Saenen, told ADWEEK that the goal is to maintain the momentum begun in ...",
-    "medio": "Adweek",
-    "fecha": "2026-11-05T06:00:00.000Z",
-    "url": "https://www.adweek.com/brand-marketing/ritz-returns-for-super-bowl-61-in-a-play-for-casual-snackers/"
    },
    {
     "id": "5961f35e3e9d",
@@ -229,13 +247,13 @@
     "url": "https://hbr.org/2026/10/the-10-most-popular-hbr-articles-of-october-2026"
    },
    {
-    "id": "c50ec0e28df4",
+    "id": "131575719164",
     "tema": "Empresa",
     "titular": "Your Company’s Fraud Defenses Aren’t Ready for AI Threats",
     "resumen": "Find new ideas and classic advice on strategy, innovation and leadership, for global leaders from the world's best business and management experts.",
     "medio": "Harvard Business Review",
-    "fecha": "2026-10-28T12:01:00.000Z",
-    "url": "https://hbr.org/?term=hubspot+acquires+logic"
+    "fecha": "2026-10-28T07:07:00.000Z",
+    "url": "https://hbr.org/?term=rbthrbhrhrbh"
    },
    {
     "id": "0517723b5190",
