@@ -1,9 +1,18 @@
 {
  "id": "2026-11-10",
  "titulo": "martes, 10 de noviembre",
- "publicado": "2026-11-10T05:48:11.101Z",
+ "publicado": "2026-11-10T06:56:29.565Z",
  "secciones": {
   "mundo": [
+   {
+    "id": "2820649171a7",
+    "tema": "Premios",
+    "titular": "Cuando es mejor ser 'golden boy' que balón de oro",
+    "resumen": "Mi amigo (del alma) Andoni Zubizarreta suele decir que el portero es el único que ve a los otros 21 futbolistas que hay en el campo y eso le otorga una visión (y autoridad) que no tiene nadie. Única.",
+    "medio": "El Periódico",
+    "fecha": "2026-11-09T22:22:00.000Z",
+    "url": "https://www.elperiodico.com/es/deportes/20261110/mejor-golden-boy-balon-oro-136263140"
+   },
    {
     "id": "7704f83ea1d2",
     "tema": "Premios",
@@ -21,15 +30,6 @@
     "medio": "El Mundo",
     "fecha": "2026-11-09T15:54:00.000Z",
     "url": "https://www.elmundo.es/cultura/literatura/2026/11/09/6af24b1bfc6c835f188b4590.html"
-   },
-   {
-    "id": "ec17e0d11d3e",
-    "tema": "Premios",
-    "titular": "Saviola: \"Me hubiera encantado que el Balón de Oro lo hubiese ganado Messi, pero tienen que venir los nuevos jugadores\"",
-    "resumen": "El exdelantero del Barça y del Real Madrid confiesa que le habría gustado ver a Messi ganar el premio y señala a Lamine Yamal y Mbappé como los grandes nombres del relevo generacional ...",
-    "medio": "Marca",
-    "fecha": "2026-11-09T13:31:00.000Z",
-    "url": "https://www.marca.com/futbol/barcelona/2026/11/09/saviola-me-hubiera-encantado-balon-oro-hubiese-ganado-messi-venir-nuevos-jugadores.html"
    },
    {
     "id": "376670d53482",
@@ -79,6 +79,15 @@
   ],
   "espana": [
    {
+    "id": "540638281e86",
+    "tema": "Deporte",
+    "titular": "¿Cómo les va en Europa a todos los equipos españoles de baloncesto?",
+    "resumen": "El Casademont Zaragoza y el campeón liguero Valencia Basket disputan una Euroliga femenina a la que no pudo acceder el UNI Bàsquet Girona. El equipo catalán cayó a la Eurocopa FIBA junto al Hozono ...",
+    "medio": "Sport",
+    "fecha": "2026-11-09T22:30:00.000Z",
+    "url": "https://www.sport.es/es/noticias/baloncesto/les-europa-equipos-espanoles-baloncesto-136176313"
+   },
+   {
     "id": "0e557a9f5e09",
     "tema": "Música",
     "titular": "Dani Martín anuncia las últimas 14 noches de su gira y agradece el cariño recibido tras la muerte de su padre",
@@ -97,13 +106,13 @@
     "url": "https://www.billboard.com/espanol/musica/silvana-estrada-latin-grammys-filarmonica-los-angeles-entrevista-1236378044/"
    },
    {
-    "id": "540638281e86",
+    "id": "fe401be1bb87",
     "tema": "Deporte",
-    "titular": "¿Cómo les va en Europa a todos los equipos españoles de baloncesto?",
-    "resumen": "El Casademont Zaragoza y el campeón liguero Valencia Basket disputan una Euroliga femenina a la que no pudo acceder el UNI Bàsquet Girona. El equipo catalán cayó a la Eurocopa FIBA junto al Hozono ...",
-    "medio": "Sport",
-    "fecha": "2026-11-09T08:30:00.000Z",
-    "url": "https://www.sport.es/es/noticias/baloncesto/les-europa-equipos-espanoles-baloncesto-136176313"
+    "titular": "Valentino Rossi ataca con dureza a Marc Márquez: \"Él solo luchaba para hacerme perder, y al final lo logró, todavía duele\"",
+    "resumen": "El legendario piloto italiano repasó la polémica temporada 2015, en la que Jorge Lorenzo se proclamó campeón de MotoGP.",
+    "medio": "20minutos",
+    "fecha": "2026-11-09T09:13:00.000Z",
+    "url": "https://www.20minutos.es/deportes/deportes_motor/motogp/valentino-rossi-ataca-con-dureza-marc-marquez-solo-luchaba-para-hacerme-perder-final-logro-todavia-duele_7059010_0.html"
    },
    {
     "id": "65918577264e",
@@ -113,15 +122,6 @@
     "medio": "Marca",
     "fecha": "2026-11-09T07:39:00.000Z",
     "url": "https://www.marca.com/futbol/futbol-sala/2026/11/09/espana-corona-campeona-finalissima-vencer-brasil-video.html"
-   },
-   {
-    "id": "ebfd63a24a17",
-    "tema": "Deporte",
-    "titular": "Rossi recuerda su lucha con Marc Márquez: “Aún no lo he superado, sigue doliendo”",
-    "resumen": "El nueve veces campeón del mundo admite que, más de una década después, sigue sin olvidar lo ocurrido en 2015, cuando perdió el Mundial de MotoGP frente a Jorge Lorenzo",
-    "medio": "La Vanguardia",
-    "fecha": "2026-11-09T06:03:00.000Z",
-    "url": "https://www.lavanguardia.com/clic/20261109/11679926/rossi-recuerda-lucha-marc-marquez-aun-he-superado-sigue-doliendo-lol.html"
    },
    {
     "id": "160a14afb4ac",
@@ -182,6 +182,15 @@
   ],
   "marcas": [
    {
+    "id": "8fb6a9184a66",
+    "tema": "Campañas y eventos",
+    "titular": "‘Strategic consistency’: Inside Waitrose’s Christmas rom-com return",
+    "resumen": "Waitrose is treating its Christmas marketing like a film release, as its top marketer explains how the “multi-dimensional campaign” ties back to its overarching brand platform.",
+    "medio": "Marketing Week",
+    "fecha": "2026-11-09T22:30:00.000Z",
+    "url": "https://www.marketingweek.com/waitrose-christmas-rom-com-2026/"
+   },
+   {
     "id": "0370b82cf9f0",
     "tema": "Marcas en España",
     "titular": "9 vestidos de invitada de manga larga de Zara, Mango y El Corte Inglés en los colores tendencia del otoño-invierno",
@@ -209,15 +218,6 @@
     "url": "https://www.adweek.com/brand-marketing/the-ai-or-not-debate-is-advertisings-most-pointless-argument/"
    },
    {
-    "id": "b8c7a8ec16d3",
-    "tema": "Marcas globales",
-    "titular": "A Netflix Show Returns With A Second 100% Rotten Tomatoes-Scored Season",
-    "resumen": "It’s a comedy called North of North, which has returned to Netflix after a year and a half, and two months after it aired on APTN+ and CBC. Both seasons of the show have a 100% Rotten Tomatoes score, ...",
-    "medio": "Forbes",
-    "fecha": "2026-11-09T08:49:00.000Z",
-    "url": "https://www.forbes.com/sites/paultassi/2026/11/09/a-netflix-show-returns-with-a-second-100-rotten-tomatoes-scored-season/"
-   },
-   {
     "id": "8cdde146360a",
     "tema": "Campañas y eventos",
     "titular": "Stop Putting Branded Merchandise at the End of the Brief",
@@ -225,15 +225,6 @@
     "medio": "Adweek",
     "fecha": "2026-11-09T08:30:00.000Z",
     "url": "https://www.adweek.com/sponsored/stop-putting-branded-merchandise-at-the-end-of-the-brief/"
-   },
-   {
-    "id": "5367dc2fe1fc",
-    "tema": "Campañas y eventos",
-    "titular": "Your Brand Is Your Most Powerful Differentiator",
-    "resumen": "Most of us offer some combination of strategy, creative, media, production and now AI. And if we don’t have it all (and we’re smart), we have an explanation for how we can scale up when needed. So ...",
-    "medio": "Adweek",
-    "fecha": "2026-11-09T06:25:00.000Z",
-    "url": "https://www.adweek.com/brand-marketing/your-brand-is-your-most-powerful-differentiator/"
    }
   ],
   "comunicacion": [
@@ -265,6 +256,15 @@
     "url": "https://hbr.org/2026/11/why-leaders-need-to-rethink-their-approach-to-ai-oversight"
    },
    {
+    "id": "1e8962a2309d",
+    "tema": "Comunicación",
+    "titular": "Los ‘niños bonitos’ del PSPV siguen copando la comunicación de Adif y Transportes",
+    "resumen": "Ambos, como ya hemos venido señalando en PRNoticias.com, son dos 'pata negra' criados en la incubadora del socialismo valenciano y ...",
+    "medio": "PRNoticias",
+    "fecha": "2026-11-09T16:00:00.000Z",
+    "url": "https://prnoticias.com/2026/11/10/los-ninos-bonitos-del-pspv-siguen-copando-la-comunicacion-de-adif-y-transportes/"
+   },
+   {
     "id": "5c9a3a1ca5ac",
     "tema": "Comunicación",
     "titular": "“Hace 25 años éramos tres consultoras de Asuntos Públicos en España y no nos conocíamos”",
@@ -274,22 +274,13 @@
     "url": "https://prnoticias.com/2026/11/10/hace-25-anos-eramos-tres-consultoras-de-asuntos-publicos-en-espana-y-no-nos-conociamos/"
    },
    {
-    "id": "dd7a2bd2dbba",
+    "id": "5a5c1ab19a9e",
     "tema": "Comunicación",
-    "titular": "Nuevos Directores de Marketing: ¿Cuáles son los últimos cambios en las empresas españolas?",
-    "resumen": "POR REDACCIÓN, 9 DE NOVIEMBRE DE 2026 Estos son algunos de los cambios más importantes producidos en las direcciones de marketing en empresas españolas en las últimas semanas. ARTÍCULO PATROCINADO POR HALLON, INTELIGENCIA DE MEDIOS MARCOS DE LA TORRE Mahou…",
-    "medio": "Top Comunicación",
-    "fecha": "2026-11-09T12:50:36.000Z",
-    "url": "https://www.topcomunicacion.com/nuevos-directores-de-marketing-noviembre-2026/"
-   },
-   {
-    "id": "dfa9f52f3244",
-    "tema": "Comunicación",
-    "titular": "David Acosta (INNN): \"La independencia no es el argumento. Lo que haces con ella sí\"",
-    "resumen": "David, te defines como 'CEO creativo', una combinación que puede parecer contradictoria cuando las decisiones empresariales y las aspiraciones creativas no siempre apuntan en la misma dirección. ¿Qué ...",
+    "titular": "Tres cambios que deben tener en cuenta los dircoms con la llegada de los LLMs",
+    "resumen": "Conviene no minimizar lo que está pasando. Dos de cada tres consumidores en España ya usan herramientas como ChatGPT para informarse antes de comprar. Más del 60% de las consultas se resuelven sin un ...",
     "medio": "El Publicista",
     "fecha": "2026-11-05T16:00:00.000Z",
-    "url": "https://www.elpublicista.es/agencias/david-acosta-innn-independencia-no-argumento-haces-ella"
+    "url": "https://www.elpublicista.es/articulos/tres-cambios-deben-tener-cuenta-dircoms-llegada-llms"
    }
   ]
  }
