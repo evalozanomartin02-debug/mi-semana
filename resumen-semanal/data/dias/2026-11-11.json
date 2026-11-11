@@ -1,9 +1,45 @@
 {
  "id": "2026-11-11",
  "titulo": "miércoles, 11 de noviembre",
- "publicado": "2026-11-11T05:53:07.189Z",
+ "publicado": "2026-11-11T06:59:48.690Z",
  "secciones": {
   "mundo": [
+   {
+    "id": "14f90e02c515",
+    "tema": "Premios",
+    "titular": "Rio Ngumoha, el nuevo talento inglés que ya piensa en el Balón de Oro: \"Lo que Lamine Yamal está haciendo ha cambiado el fútbol para los jugadores jóvenes\"",
+    "resumen": "El joven jugador del Liverpool mencionó a jugadores como Neymar, Eden Hazard y Mohamed Salah como sus mayores inspiraciones ...",
+    "medio": "Sport",
+    "fecha": "2026-11-10T22:30:00.000Z",
+    "url": "https://www.sport.es/es/noticias/futbol-internacional/rio-ngumoha-nuevo-talento-ingles-136308054"
+   },
+   {
+    "id": "16a132d6019a",
+    "tema": "Deporte",
+    "titular": "Wales prop Francis targets fourth World Cup",
+    "resumen": "Wales prop Tomas Francis says the prospect of playing in a fourth World Cup drives him on. Francis, 34, could become part of an exclusive Welsh group next year if he is named for ...",
+    "medio": "BBC",
+    "fecha": "2026-11-10T22:18:00.000Z",
+    "url": "https://www.bbc.com/sport/rugby-union/articles/ckyvrvz5jz7yo"
+   },
+   {
+    "id": "7e414f736f30",
+    "tema": "Deporte",
+    "titular": "Alex Mumbrú, el “innovador” elogiado en la NBA: “Buen rollo, su experiencia como jugador y entrenador habla por sí misma”",
+    "resumen": "El entrenador español está de moda en la NBA, sobre todo el catalán. Es la presencia de Jordi Fernández como primer técnico del país que dirige un equipo -en este ...",
+    "medio": "Mundo Deportivo",
+    "fecha": "2026-11-10T21:22:00.000Z",
+    "url": "https://www.mundodeportivo.com/baloncesto/nba/20261111/1004249736/alex-mumbru-innovador-elogiado-nba-buen-rollo-experiencia-jugador-entrenador-habla.html"
+   },
+   {
+    "id": "9dfea5d34a73",
+    "tema": "Premios",
+    "titular": "‘We are dream-walking into a desperate situation’: the Booker prize winner on his sci-fi alien invasion wakeup call",
+    "resumen": "He is a sci-fi titan but M John Harrison has just exploded into the mainstream with The End of Everything, an apocalyptic novel set on the Kent coast. Does he really think we have no hope left?",
+    "medio": "The Guardian",
+    "fecha": "2026-11-10T21:00:00.000Z",
+    "url": "https://www.theguardian.com/books/2026/nov/11/m-john-harrison-booker-prize-winner-sci-fi-alien-invasion-kent"
+   },
    {
     "id": "1c2cfbd0571f",
     "tema": "Música",
@@ -32,49 +68,13 @@
     "url": "https://areajugones.sport.es/series/habra-temporada-2-de-grande-de-espana-en-netflix-sus-creadores-ya-han-hablado-de-su-futuro/"
    },
    {
-    "id": "b881b0974b73",
-    "tema": "Deporte",
-    "titular": "F1 confirma que se disputarán los dos grandes premios previstos, Catar y Abu Dabi",
-    "resumen": "El presidente de la FIA confirma que las dos últimas citas de la temporada se celebraran en los circuitos esperados | Cadena SER ...",
-    "medio": "Cadena SER",
-    "fecha": "2026-11-10T14:59:00.000Z",
-    "url": "https://cadenaser.com/nacional/2026/11/10/f1-confirma-que-se-disputaran-los-dos-grandes-premios-previstos-catar-y-abu-dabi-cadena-ser/"
-   },
-   {
-    "id": "a1ac52045512",
-    "tema": "Deporte",
-    "titular": "UEFA Women's Champions League Matchday 4 Tuesday highlights, round-up: Bayern, Man City, Real Madrid, Roma win as Häcken hold Chelsea",
-    "resumen": "Bayern München, Manchester City, Real Madrid and Roma secured valuable wins as the fourth set of games in the league phase of the UEFA Women's Champions League began on Tuesday with Häcken shutting ...",
-    "medio": "UEFA",
-    "fecha": "2026-11-10T14:26:00.000Z",
-    "url": "https://www.uefa.com/womenschampionsleague/news/02ab-220a5d617502-a5029344b1eb-1000--uefa-women-s-champions-league-matchday-4-tuesday-highlight/"
-   },
-   {
-    "id": "6800afb23810",
-    "tema": "Deporte",
-    "titular": "El Supremo de Brasil ordena a la ciudad de São Paulo publicar cuánto paga por la Fórmula 1",
-    "resumen": "La Corte Suprema de Brasil ordenó al Ayuntamiento de São Paulo publicar los contratos firmados para organizar el Gran Premio de Fórmula 1 en el circuito de Interlagos, según lo indica un fallo publica ...",
-    "medio": "EFE",
-    "fecha": "2026-11-10T09:20:00.000Z",
-    "url": "https://efe.com/deportes/2026-11-10/supremo-brasil-orden-sao-paulo-contratos-f1/"
-   },
-   {
-    "id": "3efcc93db370",
+    "id": "edc02529e9e4",
     "tema": "Premios",
-    "titular": "Unai Simón, sobre su emotivo discurso en la gala del Balón de Oro: \"Me salió del alma\"",
-    "resumen": "Con el recuerdo del emotivo discurso que dio Unai Simón tras recibir el Trofeo Yashin al mejor portero de la temporada en la pasada gala del Balón de Oro, el guardameta ...",
-    "medio": "Mundo Deportivo",
-    "fecha": "2026-11-10T07:48:00.000Z",
-    "url": "https://www.mundodeportivo.com/seleccion-espanola/20261110/1004249424/unai-simon.html"
-   },
-   {
-    "id": "bb463dbe1e99",
-    "tema": "Premios",
-    "titular": "Un Premio Nobel de Física contesta a Elon Musk sobre la \"inminente\" colonización de Marte: \"Es una estupidez\"",
-    "resumen": "\"¿Qué pasa cuando un premio Nobel contradice a un multibillonario ultra rico que va diciendo por ahí que colonizar Marte es cuestión de tiempo porque es exclusivamente cuestión de dinero?\" es la pregu ...",
-    "medio": "Cadena SER",
-    "fecha": "2026-11-10T01:24:00.000Z",
-    "url": "https://cadenaser.com/nacional/2026/11/10/un-premio-nobel-de-fisica-contesta-a-elon-musk-sobre-la-inminente-colonizacion-de-marte-es-una-estupidez-cadena-ser/"
+    "titular": "Ngumoha has Ballon d'Or in his sights after taking inspiration from Kane's triumph",
+    "resumen": "Liverpool winger Rio Ngumoha said Harry Kane's Ballon d'Or victory can inspire a new generation of ​English footballers, including himself, to follow in ‌the Bayern Munich striker's footsteps and be recognised as the world's best.",
+    "medio": "Reuters",
+    "fecha": "2026-11-10T16:00:00.000Z",
+    "url": "https://www.reuters.com/sports/soccer/ngumoha-has-ballon-dor-his-sights-after-taking-inspiration-kanes-triumph-2026-11-11/"
    }
   ],
   "espana": [
@@ -97,15 +97,6 @@
     "url": "https://www.elperiodico.com/es/ocio-y-cultura/20261110/raul-garcia-la-violinista-estreno-animacion-oscar-136300346"
    },
    {
-    "id": "c6c7ef04a18d",
-    "tema": "Deporte",
-    "titular": "Alcaraz se apunta a Laver Cup 2027",
-    "resumen": "El murciano repetirá en el equipo continental en la próxima edición, que se celebrará en Los Ángeles del 24 al 26 de septiembre ...",
-    "medio": "Sport",
-    "fecha": "2026-11-10T09:30:00.000Z",
-    "url": "https://www.sport.es/es/noticias/tenis/alcaraz-apunta-laver-cup-2027-136296490"
-   },
-   {
     "id": "d67fa904ebe4",
     "tema": "Premios",
     "titular": "Latin Grammys 2026: ¿Quién ganará los premios más importantes?",
@@ -113,6 +104,15 @@
     "medio": "Billboard",
     "fecha": "2026-11-10T09:08:00.000Z",
     "url": "https://www.billboard.com/espanol/musica/latin-grammys-2026-quien-ganara-predicciones-1236378273/"
+   },
+   {
+    "id": "79b912895e33",
+    "tema": "Premios",
+    "titular": "El Institut d'Estudis Baleàrics participa en la octava edición del festival LABO XL de San Sebastián",
+    "resumen": "El Institut d'Estudis Baleàrics (IEB) participará por primera vez en el festival LABO XL, el festival de nuevos espacios y lenguajes escénicos de San Sebastián, que tendrá lugar del 12 al 15 de ...",
+    "medio": "Europa Press",
+    "fecha": "2026-11-10T08:35:00.000Z",
+    "url": "https://www.europapress.es/illes-balears/noticia-institut-destudis-balearics-participa-octava-edicion-festival-labo-xl-san-sebastian-20261110163509.html"
    },
    {
     "id": "0f15fbfac444",
@@ -124,15 +124,6 @@
     "url": "https://www.elmundo.es/madrid/2026/11/10/6ae9c843e4d4d8701a8b45a0.html"
    },
    {
-    "id": "69c0e60c1da8",
-    "tema": "Música",
-    "titular": "Dani Martín anuncia 14 nuevas fechas de su gira '25 P*t*s años'",
-    "resumen": "Dani Martín ha anunciado 14 nuevos conciertos para 2027 dentro de su gira '25 P*t*s años', que serán las últimas de este tour. En palabras del propio artista, se tratará de decir adiós a una etapa art ...",
-    "medio": "Europa Press",
-    "fecha": "2026-11-10T06:00:00.000Z",
-    "url": "https://www.europapress.es/cultura/musica-00129/noticia-dani-martin-anuncia-14-nuevas-fechas-gira-25-pts-anos-20261110140004.html"
-   },
-   {
     "id": "98bd1e836cb9",
     "tema": "Música",
     "titular": "Rockstar lleva el universo de ‘GTA VI’ a la realidad con un macrofestival de música que reunirá a estrellas internacionales.",
@@ -140,6 +131,15 @@
     "medio": "La Vanguardia",
     "fecha": "2026-11-10T05:55:00.000Z",
     "url": "https://www.lavanguardia.com/neo/videojuegos/20261110/11680802/rockstar-universo-gta-vi-realidad-macrofestival-musica-estrellas-internacionales.html"
+   },
+   {
+    "id": "87d762c5f388",
+    "tema": "Música",
+    "titular": "Toda la música de Actual 2027: 24 propuestas en siete espacios de Logroño y algunas novedades",
+    "resumen": "Esta edición de actual incorpora dos novedades: Distrito Actual y DJ Weekend Lab, que amplían tanto la oferta de conciertos como las posibilidades de participación en el festival\" ...",
+    "medio": "elDiario.es",
+    "fecha": "2026-11-10T05:31:00.000Z",
+    "url": "https://www.eldiario.es/la-rioja/musica-actual-2027-24-propuestas-siete-espacios-logrono-novedades_1_13652182.html"
    },
    {
     "id": "0dc58cbf482e",
@@ -153,13 +153,13 @@
   ],
   "belgica": [
    {
-    "id": "a78ee99d6dc4",
+    "id": "0eb7503176d3",
     "tema": "Deporte",
-    "titular": "Hugo Cuypers : « Un des moments de ma carrière où je m’attendais le moins à être repris chez les Diables rouges »",
-    "resumen": "A 29 ans, l’attaquant de Monterrey a été appelé pour la première fois chez les Diables rouges. Une longue attente a pris fin pour Cuypers.",
+    "titular": "Coup dur pour l’Italie avant d’affronter les Diables rouges : un attaquant quitte le rassemblement pour des raisons personnelles",
+    "resumen": "L’Italie devra se passer de Nicolo Zaniolo pour ses deux prochaines rencontres de Nations League, dont celle face à la Belgique ce dimanche à Bruxelles.",
     "medio": "Le Soir",
-    "fecha": "2026-11-10T11:00:00.000Z",
-    "url": "https://www.lesoir.be/782103/article/2026-11-10/hugo-cuypers-un-des-moments-de-ma-carriere-ou-je-mattendais-le-moins-etre-repris"
+    "fecha": "2026-11-10T14:24:00.000Z",
+    "url": "https://www.lesoir.be/782122/article/2026-11-10/coup-dur-pour-litalie-avant-daffronter-les-diables-rouges-un-attaquant-quitte-le"
    },
    {
     "id": "b631aceb3928",
@@ -207,13 +207,22 @@
     "url": "https://www.brusselstimes.com/art-culture/2400662/raising-the-gaze-romani-cinema-takes-center-stage-at-seville-film-festival/"
    },
    {
-    "id": "e4d062a025a9",
+    "id": "a3e074a40cc0",
     "tema": "Deporte",
-    "titular": "Jupiler Pro League - L'Union Saint-Gilloise s'impose face à Genk et s'empare de la tête du général",
-    "resumen": "L'Union Saint-Gilloise l'a emporté par la plus petite des marges face à Genk (1-0) dimanche dans le cadre de la 11e journée de Jupiler Pro League.",
-    "medio": "DH",
-    "fecha": "2026-11-08T12:06:00.000Z",
-    "url": "https://www.dhnet.be/dernieres-depeches/2026/11/08/jupiler-pro-league-lunion-saint-gilloise-simpose-face-a-genk-et-sempare-de-la-tete-du-general-5ND4WPTYUZAQHFIRJSHTPWRX34/"
+    "titular": "Une fâcheuse erreur jugée par le Conseil disciplinaire : et si Anderlecht perdait son point obtenu au Club Bruges ?",
+    "resumen": "En Pro League, chaque club doit renseigner au moins 6 joueurs belges sur la feuille de match. Le problème ? Anderlecht ...",
+    "medio": "RTBF",
+    "fecha": "2026-11-09T08:21:00.000Z",
+    "url": "https://www.rtbf.be/article/une-facheuse-erreur-sur-la-feuille-de-match-et-si-anderlecht-perdait-son-point-obtenu-face-au-club-bruges-11813207"
+   },
+   {
+    "id": "00fe27a173bd",
+    "tema": "País",
+    "titular": "Grève du 17 novembre : une intersyndicale de la fonction publique appelle à une nouvelle journée de mobilisation",
+    "resumen": "De son côté, la CGT a appelé « l’ensemble des salariés, des retraités [et] des jeunes » à faire du 17 novembre une nouvelle grande journée de grève et de manifestation.",
+    "medio": "Le Monde",
+    "fecha": "2026-11-09T06:03:00.000Z",
+    "url": "https://www.lemonde.fr/politique/article/2026/11/09/une-intersyndicale-de-la-fonction-publique-appelle-a-la-greve-le-17-novembre_6808657_823448.html"
    }
   ],
   "marcas": [
@@ -225,15 +234,6 @@
     "medio": "20minutos",
     "fecha": "2026-11-10T21:00:00.000Z",
     "url": "https://www.20minutos.es/gastronomia/productos/mercadona-arrasa-con-esta-pizza-que-cuesta-menos-3-euros-ha-conquistado-las-redes-sociales-con-maiz-lista-menos-15-minutos_7056173_0.html"
-   },
-   {
-    "id": "54319a01aeac",
-    "tema": "Campañas y eventos",
-    "titular": "Omnicom Makes Tom Schwenger CEO of Omnicom Health Marketing",
-    "resumen": "Omnicom appointed Tom Schwenger as chief executive officer of Omnicom Health’s marketing branch, the company announced last week. Schwenger will manage Omnicom Health’s global marketing agencies. This ...",
-    "medio": "Adweek",
-    "fecha": "2026-11-10T10:10:00.000Z",
-    "url": "https://www.adweek.com/brand-marketing/omnicom-makes-tom-schwenger-ceo-of-omnicom-health-marketing/"
    },
    {
     "id": "06a73faeb575",
@@ -254,15 +254,6 @@
     "url": "https://www.adweek.com/brand-marketing/beyond-the-cookie-how-ai-is-transforming-marketing-performance/"
    },
    {
-    "id": "761138d93eaa",
-    "tema": "Marcas globales",
-    "titular": "How a Lagos-Based Content Creator Made it onto Chanel’s Runway",
-    "resumen": "Rachel Ojuromi and her stylist friend Debby Fasingha recreated high-end designs in effortlessly cool videos shot around the city. Then Chanel came calling.",
-    "medio": "Business of Fashion",
-    "fecha": "2026-11-10T06:25:00.000Z",
-    "url": "https://www.businessoffashion.com/news/global-markets/how-a-lagos-based-content-creator-made-it-onto-chanels-runway/"
-   },
-   {
     "id": "4355aef961dc",
     "tema": "Campañas y eventos",
     "titular": "Maybelline Rewrites Its 35-Year-Old Tagline for Gen Z",
@@ -270,6 +261,15 @@
     "medio": "Adweek",
     "fecha": "2026-11-10T06:15:00.000Z",
     "url": "https://www.adweek.com/creativity/maybelline-rewrites-its-35-year-old-tagline-for-gen-z/"
+   },
+   {
+    "id": "8a53fe6d2648",
+    "tema": "Campañas y eventos",
+    "titular": "This Arty Netflix Campaign Sells You on the Shows You Didn’t Know You’d Love",
+    "resumen": "Netflix’s Magno Herran explains why it’s celebrating the titles people stumble on after big shows like ‘Stranger Things’.",
+    "medio": "Adweek",
+    "fecha": "2026-11-10T05:00:00.000Z",
+    "url": "https://www.adweek.com/brand-marketing/this-arty-netflix-campaign-sells-you-on-the-shows-you-didnt-know-youd-love/"
    },
    {
     "id": "900bb44e3025",
@@ -288,6 +288,15 @@
     "medio": "The Guardian",
     "fecha": "2026-11-09T23:01:00.000Z",
     "url": "https://www.theguardian.com/technology/2026/nov/10/apple-macbook-pro-review-lighter-thinner-stunning-oled-touchscreen"
+   },
+   {
+    "id": "7fde53e6b343",
+    "tema": "Marcas globales",
+    "titular": "Samsung Is Loving Apple’s Ongoing iPhone Duo Problems",
+    "resumen": "Samsung is mocking the iPhone Duo's screen cracks and pitching Fold 8 durability to reviewers. Apple's first foldable has handed its rival a gift.",
+    "medio": "Forbes",
+    "fecha": "2026-11-08T09:13:00.000Z",
+    "url": "https://www.forbes.com/sites/jaymcgregor/2026/11/08/apple-iphone-duo-hinge-screen-crack-vs-samsung-galaxy-z-fold-8-ads/"
    }
   ],
   "comunicacion": [
