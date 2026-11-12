@@ -1,7 +1,7 @@
 {
  "id": "2026-11-12",
  "titulo": "jueves, 12 de noviembre",
- "publicado": "2026-11-12T05:55:21.139Z",
+ "publicado": "2026-11-12T07:03:56.184Z",
  "secciones": {
   "mundo": [
    {
@@ -59,6 +59,15 @@
     "url": "https://www.theguardian.com/film/2026/nov/11/irma-p-hall-actor-dies"
    },
    {
+    "id": "1ff32a8267dd",
+    "tema": "Personalidades",
+    "titular": "Última hora. Muere la cantante Helena Bianco a causa de un cáncer neuroendocrino muy agresivo",
+    "resumen": "El mundo de la canción española se viste de luto, ya que apenas una semana después de salir el complicado trance de salud que estaba atravesando Helena Bianco, la artista ha muerto a los 78 años vícti ...",
+    "medio": "Europa Press",
+    "fecha": "2026-11-11T09:50:00.000Z",
+    "url": "https://www.europapress.es/chance/gente/noticia-ultima-hora-muere-cantante-helena-bianco-causa-cancer-neuroendocrino-muy-agresivo-20261112074937.html"
+   },
+   {
     "id": "db2e0f514ae1",
     "tema": "Personalidades",
     "titular": "Muere Stacy Keach, el actor que interpretó al detective Mike Hammer y ganó un Globo de Oro por dar vida a Ernest Hemingway",
@@ -66,18 +75,18 @@
     "medio": "Marca",
     "fecha": "2026-11-11T09:24:00.000Z",
     "url": "https://www.marca.com/tiramillas/series/2026/11/11/muere-stacy-keach-actor-interpreto-detective-mike-hammer-gano-globo-oro-dar-vida-ernest-hemingway.html"
-   },
-   {
-    "id": "bb09d5b1bc78",
-    "tema": "Deporte",
-    "titular": "La rabia de Aday Mara: su épica secuencia con grito incluido que mete pánico en la NBA",
-    "resumen": "Además de bueno, Aday Mara tiene mucho carácter. Ha tenido que sacarlo para llegar hasta la NBA después de unos dos primeros años en la NCAA con UCLA y el pívot ...",
-    "medio": "Mundo Deportivo",
-    "fecha": "2026-11-10T23:56:00.000Z",
-    "url": "https://www.mundodeportivo.com/baloncesto/nba/20261111/1004249755/rabia-aday-mara-epica-secuencia-grito-incluido-mete-panico-nba.html"
    }
   ],
   "espana": [
+   {
+    "id": "4f2dd7cb9d26",
+    "tema": "Premios",
+    "titular": "Flick, Nadal y Rodri, protagonistas de la Gala Valores de SPORT",
+    "resumen": "Hansi, Rafa Nadal y la Selección, encabezan la novena Gala Valores del Deporte de SPORT, que se celebra el lunes 16 en La Pedrera. También serán premiados Carolina Marín, Laia Sanz, Santi Cazorla, Ton ...",
+    "medio": "Sport",
+    "fecha": "2026-11-11T22:29:00.000Z",
+    "url": "https://www.sport.es/es/noticias/premio-valores/flick-nadal-rodri-protagonistas-gala-136349465"
+   },
    {
     "id": "d75950473f10",
     "tema": "Premios",
@@ -86,6 +95,15 @@
     "medio": "ABC",
     "fecha": "2026-11-11T16:00:00.000Z",
     "url": "https://www.abc.es/bienestar/cantante-natalia-jimenez-elogia-daddy-yankee-alfombra-20261112051932-nt.html"
+   },
+   {
+    "id": "77632f875fdb",
+    "tema": "Premios",
+    "titular": "Rudi Rosenberg: «'Palabras de amor' es un homenaje a las madres, también a la mía. Es mi forma de animar a decir 'te quiero'»",
+    "resumen": "El director francés presenta en el SeFF su segundo largometraje, una historia que combina humor familiar y amor para reivindicar el afecto maternal ...",
+    "medio": "ABC",
+    "fecha": "2026-11-11T16:00:00.000Z",
+    "url": "https://www.abc.es/sevilla/cultura/rudi-rosenberg-palabras-amor-homenaje-madres-forma-20261112072208-nts.html"
    },
    {
     "id": "3e3e9dd364ec",
@@ -106,24 +124,6 @@
     "url": "https://www.marca.com/tenis/copa-masters/2026/11/11/alcaraz-tendra-test-numeros-1-jueves-zverev-turin.html"
    },
    {
-    "id": "4f2dd7cb9d26",
-    "tema": "Premios",
-    "titular": "Flick, Nadal y Rodri, protagonistas de la Gala Valores de SPORT",
-    "resumen": "Hansi, Rafa Nadal y la Selección, encabezan la novena Gala Valores del Deporte de SPORT, que se celebra el lunes 16 en La Pedrera. También serán premiados Carolina Marín, Laia Sanz, Santi Cazorla, Ton ...",
-    "medio": "Sport",
-    "fecha": "2026-11-11T08:30:00.000Z",
-    "url": "https://www.sport.es/es/noticias/premio-valores/flick-nadal-rodri-protagonistas-gala-136349465"
-   },
-   {
-    "id": "3d1c61271eca",
-    "tema": "Música",
-    "titular": "Bad Gyal y Las Petunias, representación española en el festival Coachella 2027",
-    "resumen": "La artista catalana Bad Gyal y la banda madrileña Las Petunias actuarán en el festival Coachella 2027, según el cartel oficial para su próxima edición, que se celebrará en Indio (California) durante ...",
-    "medio": "Europa Press",
-    "fecha": "2026-11-11T07:37:00.000Z",
-    "url": "https://www.europapress.es/cultura/musica-00129/noticia-bad-gyal-petunias-representacion-espanola-festival-coachella-2027-20261111153713.html"
-   },
-   {
     "id": "2eeb207a3ea7",
     "tema": "Arte y libros",
     "titular": "La incidencia de la huelga en museos: cierre del Reina Sofía y apertura habitual de Prado y Thyssen",
@@ -133,16 +133,25 @@
     "url": "https://www.europapress.es/cultura/exposiciones-00131/noticia-incidencia-huelga-museos-cierre-reina-sofia-apertura-habitual-prado-thyssen-20261111140835.html"
    },
    {
-    "id": "d94f30823e44",
+    "id": "1f57d5e2654c",
     "tema": "Deporte",
-    "titular": "Resultados jornada 14LALIGA EA Sports 2026/2027",
-    "resumen": "Simeone, contento con el esfuerzo de sus jugadores, alabó el trabajo de Julián Alvarez en el encuentro en una noche gris del delantero argentino: “Sin Julián no vamos a llegar. Tiene toda nuestra ...",
-    "medio": "El País",
-    "fecha": "2026-11-10T15:00:00.000Z",
-    "url": "https://elpais.com/deportes/resultados/futbol/primera/2026_2027/jornada/regular-a-14/"
+    "titular": "Alcaraz le gana una carrera a Nadal: le quedan dos Masters 1.000 para el pleno",
+    "resumen": "El español tiene hambre y prisa: rompe techos a toda velocidad y mira con ambición la lista de récords de los tres grandes entre los grandes: Djokovic, Nadal y Federer ...",
+    "medio": "ABC",
+    "fecha": "2026-11-09T16:00:00.000Z",
+    "url": "https://www.abc.es/deportes/tenis/alcaraz-gana-carrera-nadal-quedan-dos-masters-20261109011155-nt.html"
    }
   ],
   "belgica": [
+   {
+    "id": "a8eed0629201",
+    "tema": "Arte y libros",
+    "titular": "Que faire ce week-end en Belgique ? Notre agenda des 14 et 15 novembre",
+    "resumen": "On fait quoi ce week-end ? Le Vif Weekend vous donne des idées pour passer du bon temps, à Bruxelles et en Wallonie. Bon amusement !",
+    "medio": "Le Vif",
+    "fecha": "2026-11-11T16:00:00.000Z",
+    "url": "https://weekend.levif.be/voyage/belgique-alentours/agenda-week-end-belgique/"
+   },
    {
     "id": "73aafcb9d377",
     "tema": "Deporte",
@@ -160,15 +169,6 @@
     "medio": "Le Soir",
     "fecha": "2026-11-11T14:17:00.000Z",
     "url": "https://www.lesoir.be/782238/article/2026-11-11/pro-league-le-sk-beveren-se-separe-de-tim-bakens"
-   },
-   {
-    "id": "f27f2ca5e120",
-    "tema": "Arte y libros",
-    "titular": "Les activités du week-end du 13 au 15 novembre en Wallonie et à Bruxelles",
-    "resumen": "Pour un deuxième week-end de suite, En l’Air Festival Cirque fête sa 15e édition au PAMexpo à Court-Saint-Étienne. Durant ces moments suspendus, oubliez les lois de la physique : les artistes ...",
-    "medio": "RTBF",
-    "fecha": "2026-11-11T07:08:00.000Z",
-    "url": "https://www.rtbf.be/article/les-activites-du-week-end-du-13-au-15-novembre-en-wallonie-et-a-bruxelles-11814108"
    },
    {
     "id": "77a9d95d3e5d",
@@ -189,6 +189,15 @@
     "url": "https://www.lefigaro.fr/bons-plans/culture/prix-goncourt-2026-l-inconnue-du-quai-de-javel-voit-ses-ventes-exploser-sur-amazon-20261111"
    },
    {
+    "id": "f8f020848c22",
+    "tema": "País",
+    "titular": "Armistice Day: What is it and what's open in Belgium?",
+    "resumen": "Armistice Day is commemorated across Europe, but only three countries on the continent observe it as a public holiday.",
+    "medio": "The Brussels Times",
+    "fecha": "2026-11-10T16:00:00.000Z",
+    "url": "https://www.brusselstimes.com/art-culture/2400797/armistice-day-what-is-it-and-whats-open-in-belgium"
+   },
+   {
     "id": "f508111ec07a",
     "tema": "País",
     "titular": "EU launches Mediterranean initiatives to fight organised crime, border trafficking",
@@ -198,25 +207,25 @@
     "url": "https://www.brusselstimes.com/2402737/eu-launches-mediterranean-initiatives-to-fight-organised-crime-border-trafficking"
    },
    {
-    "id": "857f106f28a2",
+    "id": "32ddcdf886d3",
     "tema": "País",
     "titular": "NATO pushes for faster, cheaper precision strike systems to bolster alliance defence",
     "resumen": "NATO demands cost-effective, future-proof precision strike systems as Allies prioritise deterrence strategies.",
     "medio": "The Brussels Times",
     "fecha": "2026-11-10T16:00:00.000Z",
-    "url": "https://www.brusselstimes.com/2402700/nato-pushes-for-faster-cheaper-precision-strike-systems-to-bolster-alliance-defence"
-   },
-   {
-    "id": "581c682382ef",
-    "tema": "País",
-    "titular": "Armistice Day: What is it and what's open in Belgium?",
-    "resumen": "Armistice Day is commemorated across Europe, but only three countries on the continent observe it as a public holiday.",
-    "medio": "The Brussels Times",
-    "fecha": "2026-11-10T16:00:00.000Z",
-    "url": "https://www.brusselstimes.com/belgium/2400797/armistice-day-what-is-it-and-whats-open-in-belgium"
+    "url": "https://www.brusselstimes.com/eu-affairs/2402700/nato-pushes-for-faster-cheaper-precision-strike-systems-to-bolster-alliance-defence"
    }
   ],
   "marcas": [
+   {
+    "id": "880b35a0a5d7",
+    "tema": "Campañas y eventos",
+    "titular": "‘It’s evolution not revolution’: Jet2’s top marketer on growing after viral success",
+    "resumen": "For Jet2, winning on value means investing in service rather than racing to the bottom on price, says Chief Customer Officer David Hills.",
+    "medio": "Marketing Week",
+    "fecha": "2026-11-11T22:54:00.000Z",
+    "url": "https://www.marketingweek.com/evolution-not-revolution-jet2/"
+   },
    {
     "id": "d6714a0e7879",
     "tema": "Marcas en España",
@@ -236,13 +245,22 @@
     "url": "https://www.forbes.com/sites/paultassi/2026/11/11/netflixs-best-new-show-has-a-100-rotten-tomatoes-score-and-is-out-now/"
    },
    {
-    "id": "9dfcbe34879c",
+    "id": "612adcf536b3",
     "tema": "Campañas y eventos",
     "titular": "ADWEEK Brand Advantage: Prediction Markets Grabbed Midterm Attention. Super Bowl Is Their Next Test",
     "resumen": "In mid-October, a Times Square billboard displayed the odds of Democrats winning the Senate in the U.S. midterm elections. The sign didn’t belong to a polling firm or cable broadcaster; it was an ad ...",
     "medio": "Adweek",
     "fecha": "2026-11-11T03:00:00.000Z",
-    "url": "https://www.adweek.com/brand-marketing/adweek-brand-advantage-prediction-markets-grabbed-midterm-attention-the-super-bowl-is-their-next-branding-test/?itm_source=homepage&itm_medium=the-latest-left&itm_campaign=4"
+    "url": "https://www.adweek.com/brand-marketing/adweek-brand-advantage-prediction-markets-grabbed-midterm-attention-the-super-bowl-is-their-next-branding-test/"
+   },
+   {
+    "id": "1e92ea5723c9",
+    "tema": "Marcas en España",
+    "titular": "Estados Unidos encumbra el liderazgo empresarial de Mercadona: «Es un fenómeno cultural»",
+    "resumen": "Un informe del Departamento de Agricultura estadounidense destaca la hegemonía de la marca de Juan Roig en el mercado español pero avisa de un consumidor que fragmenta más sus compras ...",
+    "medio": "ABC",
+    "fecha": "2026-11-10T03:40:00.000Z",
+    "url": "https://www.abc.es/espana/comunidad-valenciana/estados-unidos-encumbra-liderazgo-empresarial-mercadona-fenomeno-20261110124029-nt.html"
    },
    {
     "id": "5367dc2fe1fc",
@@ -252,15 +270,6 @@
     "medio": "Adweek",
     "fecha": "2026-11-09T06:25:00.000Z",
     "url": "https://www.adweek.com/brand-marketing/your-brand-is-your-most-powerful-differentiator/"
-   },
-   {
-    "id": "414edc28747d",
-    "tema": "Campañas y eventos",
-    "titular": "Disney looks to revive Christmas magic with 2026 festive short",
-    "resumen": "With music from Robin Hood, shots from Frozen and toys from Toy Story, Disney has leant on its rich catalogue of classics for its Christmas short.",
-    "medio": "Marketing Week",
-    "fecha": "2026-11-09T05:00:00.000Z",
-    "url": "https://www.marketingweek.com/disnry-brings-the-magic/"
    },
    {
     "id": "ee4db8fd9e01",
@@ -283,6 +292,15 @@
     "url": "https://hbr.org/?term=HU+market"
    },
    {
+    "id": "9f48c5dcae9a",
+    "tema": "Empresa",
+    "titular": "Build Trust with a New C-Suite Leader",
+    "resumen": "When new executives take the reins, they quickly form opinions about whom to trust and rely on. If you’ve spent years building relationships with their predecessors, you may feel like you’re starting ...",
+    "medio": "Harvard Business Review",
+    "fecha": "2026-11-11T16:00:00.000Z",
+    "url": "https://hbr.org/tip/2026/11/build-trust-with-a-new-c-suite-leader"
+   },
+   {
     "id": "21f8c26073ee",
     "tema": "Empresa",
     "titular": "Too Big to Tackle Alone: Why Strategic Alliances Matter More Now",
@@ -292,13 +310,22 @@
     "url": "https://hbr.org/sponsored/2026/11/too-big-to-tackle-alone-why-strategic-alliances-matter-more-now"
    },
    {
-    "id": "ceac133a512c",
-    "tema": "Empresa",
-    "titular": "Physical AI Gains Ground in Health Care and Life Sciences",
-    "resumen": "The life sciences are heavily regulated industries under relentless pressure to improve clinical outcomes while holding down costs. In recent years, biopharma and medtech companies have pushed AI ...",
-    "medio": "Harvard Business Review",
-    "fecha": "2026-11-11T10:58:00.000Z",
-    "url": "https://hbr.org/sponsored/2026/11/physical-ai-gains-ground-in-health-care-and-life-sciences"
+    "id": "faf3f7dbabdb",
+    "tema": "Comunicación",
+    "titular": "¿Quiénes son los CEOs de las principales empresas de clipping?",
+    "resumen": "Antes de contratar una empresa de clipping y seguimiento de medios, te interesa conocer además el perfil profesional de los CEOs de las empresas del sector.",
+    "medio": "Top Comunicación",
+    "fecha": "2026-11-12T06:00:00.000Z",
+    "url": "https://www.topcomunicacion.com/quienes-son-los-ceos-empresas-de-clipping-seguimiento-medios-monitorizacion/"
+   },
+   {
+    "id": "a247c6193d92",
+    "tema": "Comunicación",
+    "titular": "David Ricoy (Newlink Spain): “Un director creativo debe ayudar a definir el problema, no solo a decidir cómo contarlo”",
+    "resumen": "La incorporación de David Ricoy como director creativo ejecutivo de Newlink Spain abre una nueva etapa en la que la creatividad busca ganar peso desde las primeras fases de los proyectos, más allá del ...",
+    "medio": "El Publicista",
+    "fecha": "2026-11-11T16:00:00.000Z",
+    "url": "https://www.elpublicista.es/entrevistas/david-ricoy-newlink-spain-director-creativo-debe-ayudar-definir"
    },
    {
     "id": "ec6df8ad0eee",
@@ -308,24 +335,6 @@
     "medio": "Top Comunicación",
     "fecha": "2026-11-11T08:07:24.000Z",
     "url": "https://www.topcomunicacion.com/oktobertech-2026-reune-70-periodistas-quinta-edicion/"
-   },
-   {
-    "id": "1cec5d453ab2",
-    "tema": "Comunicación",
-    "titular": "¿Entienden los consumidores las políticas de sostenibilidad de las empresas?",
-    "resumen": "POR REDACCIÓN, 11 DE NOVIEMBRE DE 2026 Uno de los principales puntos analizados en el III Observatorio de Sostenibilidad y Comunicación Empresarial, realizado por la agencia ESENCIAL en colaboración con Top Comunicación, es en qué medida puede existir…",
-    "medio": "Top Comunicación",
-    "fecha": "2026-11-11T06:10:00.000Z",
-    "url": "https://www.topcomunicacion.com/consumidores-politicas-sostenibilidad-empresas/"
-   },
-   {
-    "id": "fe837310719c",
-    "tema": "Comunicación",
-    "titular": "Joaquín Mouriz (Dircom de BNP Paribas Personal Finance y Presidente de Dircom): “Para innovar y salirte de la caja necesitas un entorno de confianza”",
-    "resumen": "COMUNICANDO EL FUTURO: DIRCOMS E INNOVACIÓN / Joaquín Mouriz dirige la comunicación de BNP Paribas Personal Finance España desde hace quince años y preside Dircom, la asociación que agrupa a más de 1.200 profesionales de la comunicación y los asuntos…",
-    "medio": "Top Comunicación",
-    "fecha": "2026-11-11T06:00:00.000Z",
-    "url": "https://www.topcomunicacion.com/joaquin-mouriz-dircom-bnp-paribas-personal-finance-entrevista/"
    }
   ]
  }
