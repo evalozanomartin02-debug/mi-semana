@@ -1,7 +1,7 @@
 {
  "id": "2026-11-13",
  "titulo": "viernes, 13 de noviembre",
- "publicado": "2026-11-13T05:54:47.630Z",
+ "publicado": "2026-11-13T07:01:57.870Z",
  "secciones": {
   "mundo": [
    {
@@ -14,22 +14,22 @@
     "url": "https://www.elmundo.es/cultura/literatura/2026/11/13/6af6541021efa0e33c8b4578.html"
    },
    {
-    "id": "849348eeb6d2",
+    "id": "9213e1bebc67",
     "tema": "Premios",
-    "titular": "El listado de los ganadores de la 27º edición de los Latin Grammy",
-    "resumen": "Las Vegas (EE.UU.) (EFE).- La española Rosalía conquistó con seis premios la 27º edición de los Latin Grammy, seguido del cantautor argentino Milo J con cuatro galardones. Esta es la lista de ...",
-    "medio": "EFE",
+    "titular": "All the 2026 Latin Grammys Performances, Ranked",
+    "resumen": "The 2026 Latin Grammy Awards brought together some of the biggest names in Latin music for a night celebrating the sounds, stories and artists shaping the global music landscape. Presented Thursday (Nov.",
+    "medio": "Billboard",
     "fecha": "2026-11-12T16:00:00.000Z",
-    "url": "https://efe.com/cultura/2026-11-13/listado-completo-ganadores-27-edicion-latin-grammy/"
+    "url": "https://www.billboard.com/lists/all-2026-latin-grammys-performances-ranked/"
    },
    {
-    "id": "ad4210b3ec90",
+    "id": "078d16286d2e",
     "tema": "Premios",
-    "titular": "Balón de Oro: Julián Quiñones revela lo que representa esta nominación",
-    "resumen": "© De conformidad con lo previsto en el artículo 67.3 del Real Decreto - ley 24/2021, de 2 de noviembre, la reproducción y utilización de las obras y otras prestaciones disponibles en este portal web m ...",
+    "titular": "Latin Grammy 2026 lista de ganadores: ¿Quiénes se llevaron los premios en la edición 27 de los Grammy Latinos?",
+    "resumen": "Los Latin Grammy 2026 celebran su edición 27 en Las Vegas, con Rosalía, Karol G, Edgar Barrera y CA7RIEL & Paco Amoroso entre los protagonistas de la noche.",
     "medio": "Marca",
     "fecha": "2026-11-12T16:00:00.000Z",
-    "url": "https://www.marca.com/mx/futbol/seleccion-mx/2026/11/13/balon-oro-julian-quinones-revela-representa-nominacion-video.html"
+    "url": "https://www.marca.com/mx/trending/musica/2026/11/13/latin-grammy-2026-lista-ganadores-quienes-llevaron-premios-edicion-27-grammy-latinos.html"
    },
    {
     "id": "dbc09e490428",
@@ -70,13 +70,31 @@
   ],
   "espana": [
    {
+    "id": "0f948b3e8e9a",
+    "tema": "Deporte",
+    "titular": "Marc Márquez y Toni Bou se retan... en motocross: \"Ya hablamos más de médicos que de motos\"",
+    "resumen": "Marc Márquez y Toni Bou se retaron a algo diferente. Para evitar que cada uno compitiera en su disciplina, MotoGP o motociclismo de velocidad, y trial, ambos llegaron al acuerdo de medirse... en motoc ...",
+    "medio": "Marca",
+    "fecha": "2026-11-12T22:19:00.000Z",
+    "url": "https://www.marca.com/motor/motogp/gp-portugal/2026/11/13/marc-marquez-toni-bou-retan-motocross-hablamos-medicos-motos.html"
+   },
+   {
     "id": "6053c41d3c64",
-    "tema": "Premios",
+    "tema": "Música",
     "titular": "Rosalía se corona en los Latin Grammy 2026 con álbum y canción del año: \"'Lux' ha sido un salto al vacío\"",
-    "resumen": "La 27.ª edición de los Latin Grammy ha coronado a la artista española Rosalía con seis galardones, incluidos Mejor Álbum por Lux y Mejor Canción por La Perla, en una gala celebrada en el MGM Grand ...",
+    "resumen": "La 27.ª edición de los Latin Grammy ha coronado a la artista española Rosalía con seis galardones, incluidos Mejor Álbum por Lux y Mejor Canción por La Perla, en una gala celebrada en el MGM Grand Garden Arena de Las Vegas.",
     "medio": "RTVE",
     "fecha": "2026-11-12T21:40:00.000Z",
     "url": "https://www.rtve.es/noticias/20261113/latin-grammy-2026-lista-premios-ganadores/17311922.shtml"
+   },
+   {
+    "id": "e28c87e18462",
+    "tema": "Premios",
+    "titular": "Las mejores imágenes de los Premios Radio San Sebastián a la Excelencia 2026: una noche de reconocimientos en el Kursaal",
+    "resumen": "La novena edición de los galardones reúne en Donostia a representantes de la cultura, el deporte, la investigación, la gastronomía y la sociedad guipuzcoana | Cadena SER ...",
+    "medio": "Cadena SER",
+    "fecha": "2026-11-12T11:51:00.000Z",
+    "url": "https://cadenaser.com/euskadi/2026/11/12/las-mejores-imagenes-de-los-premios-radio-san-sebastian-a-la-excelencia-2026-una-noche-de-reconocimientos-en-el-kursaal-radio-san-sebastian/"
    },
    {
     "id": "4ea3e3211028",
@@ -97,15 +115,6 @@
     "url": "https://www.vanitatis.elconfidencial.com/estilo/ocio/2026-11-12/can-yaman-serie-espanola-turismo-turquia-aumento-entrevista_4463855/"
    },
    {
-    "id": "5598bd2c0327",
-    "tema": "Música",
-    "titular": "Viva Suecia, Marlena y Puño Dragón abren el cartel del Polar Sound 2027",
-    "resumen": "El festival celebrado en la Estación de Esquí de Baqueira Beret los días 12 y 13 de marzo de 2027 ha empezado a revelar su cartel.",
-    "medio": "20minutos",
-    "fecha": "2026-11-12T07:33:00.000Z",
-    "url": "https://www.20minutos.es/musica/viva-suecia-marlena-puno-dragon-abren-cartel-polar-sound-2027_7060337_0.html"
-   },
-   {
     "id": "d28bb2cc6f4c",
     "tema": "Música",
     "titular": "Share Festival, el mayor festival dirigido a público joven, revela los primeros nombres de su cartel 2027",
@@ -115,15 +124,6 @@
     "url": "https://www.mundodeportivo.com/elotromundo/20261112/1004250247/share-festival-mayor-festival-dirigido-publico-joven-revela-primeros-nombres-cartel-2027-dct.html"
    },
    {
-    "id": "da954476fb93",
-    "tema": "Deporte",
-    "titular": "El Río Breogán de Lugo pone a prueba su solidez ante un Burgos “trampa” en la Liga Endesa",
-    "resumen": "El equipo lucense, con un balance de 4-3, busca una victoria clave en el Pazo para mirar hacia arriba en la clasificación ...",
-    "medio": "COPE",
-    "fecha": "2026-11-12T04:55:00.000Z",
-    "url": "https://www.cope.es/emisoras/galicia/lugo-provincia/lugo/noticias/rio-breogan-lugo-pone-prueba-solidez-burgos-trampa-liga-endesa-20261112_3473686.html"
-   },
-   {
     "id": "142fa3cda43f",
     "tema": "Personalidades",
     "titular": "Muere la cantante Helena Bianco, la voz de Los Mismos, solo unos días después de revelar que padecía cáncer",
@@ -131,15 +131,6 @@
     "medio": "El Confidencial",
     "fecha": "2026-11-12T02:16:00.000Z",
     "url": "https://www.vanitatis.elconfidencial.com/famosos/2026-11-12/muere-cantante-helena-bianco-voz-los-mismos-cuatro-dias-anunciar-cancer_4463349/"
-   },
-   {
-    "id": "20960d52eba2",
-    "tema": "Deporte",
-    "titular": "Ciabiatti, un exjefe de Ducati en MotoGP: \"Más allá de que ya no sea un piloto muy joven, los resultados confirman que Marc Márquez fue la decisión acertada en su momento ...",
-    "resumen": "Hace unos años Ducati tenía tres hombres en el que se basaba la dirección del proyecto. A día de hoy siguen Gigi Dall'Igna y Davide Tardozzi siendo personas clave en ...",
-    "medio": "Mundo Deportivo",
-    "fecha": "2026-11-12T02:16:00.000Z",
-    "url": "https://www.mundodeportivo.com/motor/motogp/20261112/1004250151/ciabiatti-exjefe-ducati-motogp.html"
    }
   ],
   "belgica": [
@@ -160,15 +151,6 @@
     "medio": "Le Soir",
     "fecha": "2026-11-12T12:08:00.000Z",
     "url": "https://www.lesoir.be/782450/article/2026-11-12/kody-la-serie-presque-normal-raconte-ma-fausse-vraie-vie"
-   },
-   {
-    "id": "2e4034e6565e",
-    "tema": "Arte y libros",
-    "titular": "\"Bruxelles 1900\" ou la Belgique visionnaire",
-    "resumen": "Le Petit Palais à Paris présente une exposition magistrale Bruxelles 1900. Le lieu choisi n'est pas un hasard. Le Petit Palais a été bâti pour l'Exposition universelle de 1900 quand Bruxelles fut ...",
-    "medio": "La Libre",
-    "fecha": "2026-11-12T09:30:00.000Z",
-    "url": "https://www.lalibre.be/culture/arts/2026/11/12/bruxelles-1900-ou-la-belgique-visionnaire-GBDR3MNMZ5CFBNPQPMBSGD2S2I/"
    },
    {
     "id": "dc5e6b168885",
@@ -214,6 +196,15 @@
     "medio": "RTBF",
     "fecha": "2026-11-12T01:00:00.000Z",
     "url": "https://www.rtbf.be/article/3-marches-de-noel-insolites-a-ne-pas-manquer-en-wallonie-11814002"
+   },
+   {
+    "id": "eef884765a77",
+    "tema": "País",
+    "titular": "Academic Freedom, Nathan Cofnas, and uncomfortable questions",
+    "resumen": "Since the first reports of Nathan Cofnas’s affiliation with Ghent University, the controversy has attracted the sort of attention universities normally reserve for campus occupations, Nobel Prizes and ...",
+    "medio": "The Brussels Times",
+    "fecha": "2026-11-11T16:00:00.000Z",
+    "url": "https://www.brusselstimes.com/2404952/academic-freedom-nathan-cofnas-and-uncomfortable-questions"
    }
   ],
   "marcas": [
@@ -254,6 +245,15 @@
     "url": "https://www.adweek.com/media/openai-borrows-googles-playbook-and-crashes-the-geo-party/"
    },
    {
+    "id": "48f22a4b97b0",
+    "tema": "Marcas en España",
+    "titular": "El dulce de Mercadona que esconde un relleno inspirado en la Navidad y combina dos texturas",
+    "resumen": "La berlina rellena de crema de turrón recupera uno de los sabores tradicionales de estas fechas y lo combina con una cobertura glaseada y trozos de almendra ...",
+    "medio": "El Confidencial",
+    "fecha": "2026-11-12T09:43:00.000Z",
+    "url": "https://www.vanitatis.elconfidencial.com/gastronomia/2026-11-13/dulce-mercadona-relleno-navidad-texturas-1qrt_4463791/"
+   },
+   {
     "id": "26c76c8e2680",
     "tema": "Marcas globales",
     "titular": "The battle for soccer’s billion-dollar business: how Mbappé, Nike and Adidas are shaping the next era of soccer gear",
@@ -279,18 +279,18 @@
     "medio": "Variety",
     "fecha": "2026-11-12T07:30:00.000Z",
     "url": "https://variety.com/2026/biz/news/will-netflix-make-acquisition-move-nbcuniversal-spinoff-1236946048/"
-   },
-   {
-    "id": "4c0525b93b0d",
-    "tema": "Marcas globales",
-    "titular": "The Apple HomeView Fixed My Family’s Biggest Scheduling Problem",
-    "resumen": "The Apple HomeView helped solve my family’s biggest scheduling challenge with shared calendars, smart home controls and privacy-first features. Here's how.",
-    "medio": "Forbes",
-    "fecha": "2026-11-12T06:36:00.000Z",
-    "url": "https://www.forbes.com/sites/forbes-personal-shopper/article/apple-homeview-review/"
    }
   ],
   "comunicacion": [
+   {
+    "id": "7790ee072f5e",
+    "tema": "Empresa",
+    "titular": "Making the Business-Unit Model Work",
+    "resumen": "Giving business units greater autonomy can speed up decisions and bring your company closer to customers. But restructuring alone won’t deliver these benefits. If you’re decentralizing your ...",
+    "medio": "Harvard Business Review",
+    "fecha": "2026-11-12T16:00:00.000Z",
+    "url": "https://hbr.org/tip/2026/11/making-the-business-unit-model-work"
+   },
    {
     "id": "59fc16cdb870",
     "tema": "Empresa",
@@ -308,15 +308,6 @@
     "medio": "Harvard Business Review",
     "fecha": "2026-11-12T05:24:00.000Z",
     "url": "https://hbr.org/2026/11/leaders-shouldnt-underestimate-time-based-rewards"
-   },
-   {
-    "id": "503b3197f6fb",
-    "tema": "Empresa",
-    "titular": "How AI Erodes People’s Sense of Value at Work",
-    "resumen": "As organizations adopt AI to increase efficiency and capability, they risk undermining employees’ sense that they matter at work. This feeling of mattering —those experiences that help people feel ...",
-    "medio": "Harvard Business Review",
-    "fecha": "2026-11-12T05:05:00.000Z",
-    "url": "https://hbr.org/2026/11/how-ai-erodes-peoples-sense-of-value-at-work"
    },
    {
     "id": "8bf8cde70ac9",
