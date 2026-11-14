@@ -1,7 +1,7 @@
 {
  "id": "2026-11-14",
  "titulo": "sábado, 14 de noviembre",
- "publicado": "2026-11-14T05:43:53.288Z",
+ "publicado": "2026-11-14T06:51:11.583Z",
  "secciones": {
   "mundo": [
    {
@@ -32,6 +32,15 @@
     "url": "https://www.elmundo.es/como/2026/11/13/6af74d2121efa09e228b4584.html"
    },
    {
+    "id": "0d0b5eaedde9",
+    "tema": "Deporte",
+    "titular": "LeBron James, con 24 temporadas en la NBA: \"Existe la teoría de que gasto un millón de dólares en mi cuerpo cada año, pero...\"",
+    "resumen": "El alero de Philadelphia 76ers rompe su silencio respecto a la idea extendida entre los aficionados al baloncesto sobre la inversión anual que destina a la preparación de su físico para la competición ...",
+    "medio": "Sport",
+    "fecha": "2026-11-13T10:32:00.000Z",
+    "url": "https://www.sport.es/es/noticias/baloncesto/lebron-james-24-temporadas-nba-136419005"
+   },
+   {
     "id": "6f2152fd5fc5",
     "tema": "Deporte",
     "titular": "El Gran Premio de España de F1 genera un impacto económico de 544 millones de euros en Madrid: \"Un 88% de los turistas declararon la posibilidad de volver a la ciudad\"",
@@ -50,15 +59,6 @@
     "url": "https://es.euronews.com/2026/11/13/robyn-tacha-eurovision-de-una-mierda-y-vergonzoso"
    },
    {
-    "id": "c2c9ba9dda27",
-    "tema": "Deporte",
-    "titular": "La NBA suspende tres partidos a Marcus Smart por soltarle un puñetazo a Charles Bassey",
-    "resumen": "\"Marcus Smart ha sido suspendido tres partidos sin sueldo por lanzar un puñetazo que impactó en el rostro de Charles Bassey\" ...",
-    "medio": "Marca",
-    "fecha": "2026-11-12T19:58:00.000Z",
-    "url": "https://www.marca.com/baloncesto/nba/2026/11/13/nba-suspende-tres-partidos-marcus-smart-soltarle-punetazo-charles-bassey.html"
-   },
-   {
     "id": "1732deb99e0b",
     "tema": "Personalidades",
     "titular": "Muere a los 78 años Helena Bianco, la cantante de 'Los Mismos'",
@@ -70,6 +70,24 @@
   ],
   "espana": [
    {
+    "id": "30e8cdb5b3ad",
+    "tema": "Deporte",
+    "titular": "Marc Márquez, flipando con la potencia de su Ducati: \"Qué motor hoy. ¡Me daba hasta vergüenza!\"",
+    "resumen": "Marc Márquez no pudo ganar en Qatar, pero seguramente acabó siendo uno de los pilotos más felices del fin de semana en Lusail. No es para menos. El piloto catalán ...",
+    "medio": "Mundo Deportivo",
+    "fecha": "2026-11-13T22:00:00.000Z",
+    "url": "https://www.mundodeportivo.com/motor/motogp/20261114/1004250687/marc-marquez-flipando-potencia-ducati-motor-hoy-me-daba-vergueenza.html"
+   },
+   {
+    "id": "68d3b4d1dfbf",
+    "tema": "Cine y series",
+    "titular": "Can Yaman estrena serie española: «He tomado decisiones difíciles para no ser encasillado»",
+    "resumen": "Can Yaman defiende en una entrevista con EFE la necesidad de reinventarse para escapar de las etiquetas. Ahora en la serie 'El laberinto de las mariposas'.",
+    "medio": "EFE",
+    "fecha": "2026-11-13T16:00:00.000Z",
+    "url": "https://efe.com/cultura/2026-11-14/can-yaman-serie-espanola-el-laberinto-de-las-mariposas/"
+   },
+   {
     "id": "922e3b2cf436",
     "tema": "Premios",
     "titular": "Rosalía arrasa en los Latin Grammy de Daddy Yankee: \"Tengo todo lo que hace falta para ser la mejor\"",
@@ -79,13 +97,13 @@
     "url": "https://www.elperiodico.com/es/ocio-y-cultura/20261113/rosalia-latin-grammy-premios-daddy-yankee-136394643"
    },
    {
-    "id": "d9c2649c2169",
-    "tema": "Deporte",
-    "titular": "Los últimos test privados de MotoGP 2027, buenas noticias para Marc Márquez y Pedro Acosta",
-    "resumen": "La nueva era de MotoGP está a la vuelta de la esquina. Solo faltan dos Grandes Premios para finalizar la época de las 1000cc y dar paso a las motos de 850cc. Se trata ...",
-    "medio": "Mundo Deportivo",
-    "fecha": "2026-11-13T07:10:00.000Z",
-    "url": "https://www.mundodeportivo.com/motor/motogp/20261113/1004250645/ultimos-test-privados-motogp-2027-buenas-noticias-marc-marquez-pedro-acosta.html"
+    "id": "bb6a37d26e70",
+    "tema": "Música",
+    "titular": "Rosalía, cantante, sobre su abuela: \"Es una mujer muy espiritual, una mujer que me ha influido, que la admiro y la quiero. Ella es una motomami\"",
+    "resumen": "Rosalía lo ha vuelto a hacer. La cantante de Sant Esteve Sesrovires (Barcelona) ha hecho historia tras convertirse en la artista más premiada de los Latin Grammy 2026 con",
+    "medio": "El Mundo",
+    "fecha": "2026-11-13T04:34:00.000Z",
+    "url": "https://www.elmundo.es/como/2026/11/13/6af6e068e9cf4a3a778b45ad.html"
    },
    {
     "id": "d0ed6a0a3256",
@@ -131,7 +149,7 @@
     "titular": "Diables rouges : un dernier tour de passe-passe contre l’Italie pour éviter la sortie",
     "resumen": "Devancés au classement par une Squadra ressuscitée, les Diables rouges n’ont plus le luxe de calculer : il faudra gagner pour accrocher les quarts de finale en mars. Et rien d’autre ! Avec Roméo Lavia ...",
     "medio": "Le Soir",
-    "fecha": "2026-11-13T16:00:00.000Z",
+    "fecha": "2026-11-13T22:00:00.000Z",
     "url": "https://www.lesoir.be/782694/article/2026-11-14/diables-rouges-un-dernier-tour-de-passe-passe-contre-litalie-pour-eviter-la"
    },
    {
@@ -218,6 +236,15 @@
     "url": "https://www.adweek.com/brand-marketing/home-depot-espn-among-2026-brand-hall-of-fame-inductees/"
    },
    {
+    "id": "6a26db54634d",
+    "tema": "Campañas y eventos",
+    "titular": "Los candidatos inauguran la campaña atreviéndose con los grandes mítines y los nuevos formatos digitales",
+    "resumen": "La campaña electoral ha comenzado oficialmente este viernes con grandes actos y los tradicionales mítines. Alberto Núñez Feijóo ha arrancado en Madrid junto a los jóvenes del PP y la presidenta de la ...",
+    "medio": "RTVE",
+    "fecha": "2026-11-13T06:41:00.000Z",
+    "url": "https://www.rtve.es/noticias/20261113/diario-campana-29n-13-noviembre/17309170.shtml"
+   },
+   {
     "id": "8e6e4f600b2b",
     "tema": "Campañas y eventos",
     "titular": "Pamela Anderson on How Skincare Brand Sonsie’s First Holiday Ad Reflects Her World",
@@ -225,15 +252,6 @@
     "medio": "Adweek",
     "fecha": "2026-11-13T06:20:00.000Z",
     "url": "https://www.adweek.com/brand-marketing/pamela-anderson-on-how-skincare-brand-sonsies-first-holiday-ad-reflects-her-world/"
-   },
-   {
-    "id": "66b7ff296d16",
-    "tema": "Campañas y eventos",
-    "titular": "El Ayuntamiento de Andújar presenta Anducab 2027 con una nueva imagen de marca y web propia",
-    "resumen": "El Ayuntamiento de Andújar presentará las novedades de la vigésima tercera edición del Concurso Morfológico-Funcional de Caballos de Pura Raza Española en SICAB, el principal escaparate internacional ...",
-    "medio": "Cadena SER",
-    "fecha": "2026-11-13T05:57:00.000Z",
-    "url": "https://cadenaser.com/andalucia/2026/11/13/el-ayuntamiento-de-andujar-presenta-anducab-2027-con-una-nueva-imagen-de-marca-y-web-propia-ser-andujar/"
    },
    {
     "id": "4c0525b93b0d",
@@ -301,31 +319,31 @@
     "url": "https://hbr.org/sponsored/2026/11/procurement-2030-reimagining-the-professions-role-after-ai-webinar"
    },
    {
-    "id": "c106c5fbb005",
+    "id": "903856b18364",
     "tema": "Comunicación",
-    "titular": "PR Boutiques International amplía su presencia en Europa con V3rtice y AFF Comunicazione",
-    "resumen": "POR REDACCIÓN, 13 DE NOVIEMBRE DE 2026 PR Boutiques International (PRBI), una red global sin ánimo de lucro que agrupa a firmas independientes de relaciones públicas, ha anunciado",
-    "medio": "Top Comunicación",
-    "fecha": "2026-11-13T16:24:42.000Z",
-    "url": "https://www.topcomunicacion.com/pr-boutiques-international-v3rtice-aff-comunicazione/"
+    "titular": "David García Núñez renueva la presidencia del Club Español de Directores de Relaciones Institucionales y Comunicación",
+    "resumen": "David García Núñez ha sido reelegido presidente del Club Español de Directores de Relaciones Institucionales y Comunicación extendiendo su mandato ...",
+    "medio": "PRNoticias",
+    "fecha": "2026-11-12T01:47:00.000Z",
+    "url": "https://prnoticias.com/2026/11/12/david-garcia-nunez-renueva-la-presidencia-del-club-espanol-de-directores-de-relaciones-institucionales-y-comunicacion/"
    },
    {
-    "id": "6792232b8a3e",
+    "id": "8970917e03c2",
     "tema": "Comunicación",
-    "titular": "ROC·PR celebra su quinto aniversario y lanza su nueva imagen de marca",
-    "resumen": "POR REDACCIÓN, 12 DE NOVIEMBRE DE 2026 Cinco años, 23 profesionales, más de 150 marcas con las que ha trabajado y muchas historias aún por contar. La agencia, fundada en 2021 por Rocío Carasso, cumple sus 5º aniversario en un gran momento. Y para celebrarlo,…",
-    "medio": "Top Comunicación",
-    "fecha": "2026-11-13T11:13:46.000Z",
-    "url": "https://www.topcomunicacion.com/roc%c2%b7pr-celebra-su-quinto-aniversario-y-lanza-su-nueva-imagen-de-marca/"
+    "titular": "Neville Brody se incorpora a Toaster como responsable de dirección creativa",
+    "resumen": "Toaster ha anunciado la incorporación de Neville Brody como 'creative chair', un nombramiento con el que la agencia de marketing creativo de producto busca reforzar su propuesta de construcción de ...",
+    "medio": "El Publicista",
+    "fecha": "2026-11-10T16:00:00.000Z",
+    "url": "https://www.elpublicista.es/agencias/neville-brody-incorpora-toaster-como-responsable-direccion"
    },
    {
-    "id": "89a25cc6a0a9",
+    "id": "225f384b828e",
     "tema": "Comunicación",
-    "titular": "Verisure España busca Consultor/a de Comunicación Externa",
-    "resumen": "La persona que se incorpore tendrá la oportunidad de participar en proyectos de comunicación de gran visibilidad, contribuir al posicionamiento y la reputación de una marca líder y desarrollar iniciativas que conecten la comunicación con los objetivos de…",
-    "medio": "Top Comunicación",
-    "fecha": "2026-11-13T08:00:00.000Z",
-    "url": "https://www.topcomunicacion.com/oferta-de-empleo-sector-comunicacion-eventos/"
+    "titular": "Nvidia CEO Jensen Huang’s Apology Offers Urgent Crisis-Communication Lessons",
+    "resumen": "Nvidia CEO Jensen Huang’s apology for an affair offers crisis management lessons for corporate leaders and boards seeking to protect their companies and investors.",
+    "medio": "Forbes",
+    "fecha": "2026-11-10T14:16:00.000Z",
+    "url": "https://www.forbes.com/sites/edwardsegal/2026/11/10/what-executives-can-learn-from-nvidia-ceo-jensen-huangs--apology/"
    }
   ]
  }
