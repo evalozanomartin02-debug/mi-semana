@@ -1,0 +1,332 @@
+{
+ "id": "2026-11-14",
+ "titulo": "sábado, 14 de noviembre",
+ "publicado": "2026-11-14T05:43:53.288Z",
+ "secciones": {
+  "mundo": [
+   {
+    "id": "7e0caee51f15",
+    "tema": "Premios",
+    "titular": "One night in Bangkok: Eurovision goes global with Asian spin-off",
+    "resumen": "Eleven countries will participate in the grand final of the first Asian edition of Eurovision in the Thai capital of Bangkok on Saturday, as a Korean act battles it out with Bhutanese folk pop and a ...",
+    "medio": "Financial Times",
+    "fecha": "2026-11-13T16:00:00.000Z",
+    "url": "https://www.ft.com/content/2fd24c04-135f-4b0d-92b3-05587180bb01?syn-25a6b1a6=1"
+   },
+   {
+    "id": "83c3f0fa0862",
+    "tema": "Deporte",
+    "titular": "NBA, NFL, NCAA y NHL paralizadas por la suspensión de vuelos en Estados Unidos",
+    "resumen": "La suspensión nacional por un problema de comunicación en el control aéreo dejó a varios equipos varados y amenaza con alterar partidos importantes.",
+    "medio": "AS",
+    "fecha": "2026-11-13T15:51:00.000Z",
+    "url": "https://as.com/us/baloncesto/nba-nfl-ncaa-y-nhl-paralizadas-por-la-suspension-de-vuelos-en-estados-unidos-f202611-n/"
+   },
+   {
+    "id": "242f379d5ed9",
+    "tema": "Premios",
+    "titular": "Sean Baker, director ganador de cuatro Oscar, sobre La Bola Negra: \"Épica en cuanto a la historia, los temas y la realización. Estoy deseando volver a verla\"",
+    "resumen": "No cabe duda de que La bola negra ya es todo un fenómeno mundial. La película de Javier Calvo y Javier Ambrossi no solo ha conquistado al público y a la crítica, sino ...",
+    "medio": "El Mundo",
+    "fecha": "2026-11-13T12:39:00.000Z",
+    "url": "https://www.elmundo.es/como/2026/11/13/6af74d2121efa09e228b4584.html"
+   },
+   {
+    "id": "6f2152fd5fc5",
+    "tema": "Deporte",
+    "titular": "El Gran Premio de España de F1 genera un impacto económico de 544 millones de euros en Madrid: \"Un 88% de los turistas declararon la posibilidad de volver a la ciudad\"",
+    "resumen": "La Fórmula 1 ha vuelto a Madrid 45 años después dejando una huella que va mucho más allá de la pista. La primera edición del Gran Premio de España en Madring se ha traducido en un importante impulso ...",
+    "medio": "El Mundo",
+    "fecha": "2026-11-13T10:21:00.000Z",
+    "url": "https://www.elmundo.es/madrid/2026/11/13/6af744d4e4d4d8d4628b45ba.html"
+   },
+   {
+    "id": "5bca672072a9",
+    "tema": "Premios",
+    "titular": "Robyn tacha Eurovisión de 'una mierda' y 'vergonzoso'",
+    "resumen": "La estrella sueca del pop Robyn, conocida por éxitos como 'With Every Heartbeat' y 'Dancing On My Own', dio su veredicto sobre Eurovisión en el pódcast de Amy Poehler. Dijo que desde la participación ...",
+    "medio": "Euronews",
+    "fecha": "2026-11-13T01:17:00.000Z",
+    "url": "https://es.euronews.com/2026/11/13/robyn-tacha-eurovision-de-una-mierda-y-vergonzoso"
+   },
+   {
+    "id": "c2c9ba9dda27",
+    "tema": "Deporte",
+    "titular": "La NBA suspende tres partidos a Marcus Smart por soltarle un puñetazo a Charles Bassey",
+    "resumen": "\"Marcus Smart ha sido suspendido tres partidos sin sueldo por lanzar un puñetazo que impactó en el rostro de Charles Bassey\" ...",
+    "medio": "Marca",
+    "fecha": "2026-11-12T19:58:00.000Z",
+    "url": "https://www.marca.com/baloncesto/nba/2026/11/13/nba-suspende-tres-partidos-marcus-smart-soltarle-punetazo-charles-bassey.html"
+   },
+   {
+    "id": "1732deb99e0b",
+    "tema": "Personalidades",
+    "titular": "Muere a los 78 años Helena Bianco, la cantante de 'Los Mismos'",
+    "resumen": "Bianco será despedida este jueves en el tanatorio Memora Majadahonda a partir de las 12:00 horas de este jueves ...",
+    "medio": "elDiario.es",
+    "fecha": "2026-11-12T02:56:00.000Z",
+    "url": "https://www.eldiario.es/castilla-y-leon/cultura/fallece-78-anos-helena-bianco-cantante_1_13657279.html"
+   }
+  ],
+  "espana": [
+   {
+    "id": "922e3b2cf436",
+    "tema": "Premios",
+    "titular": "Rosalía arrasa en los Latin Grammy de Daddy Yankee: \"Tengo todo lo que hace falta para ser la mejor\"",
+    "resumen": "La artista se lleva cinco premios, incluido el de mejor álbum y canción, en una noche convertida en homenaje al padre del reguetón ...",
+    "medio": "El Periódico",
+    "fecha": "2026-11-13T08:18:00.000Z",
+    "url": "https://www.elperiodico.com/es/ocio-y-cultura/20261113/rosalia-latin-grammy-premios-daddy-yankee-136394643"
+   },
+   {
+    "id": "d9c2649c2169",
+    "tema": "Deporte",
+    "titular": "Los últimos test privados de MotoGP 2027, buenas noticias para Marc Márquez y Pedro Acosta",
+    "resumen": "La nueva era de MotoGP está a la vuelta de la esquina. Solo faltan dos Grandes Premios para finalizar la época de las 1000cc y dar paso a las motos de 850cc. Se trata ...",
+    "medio": "Mundo Deportivo",
+    "fecha": "2026-11-13T07:10:00.000Z",
+    "url": "https://www.mundodeportivo.com/motor/motogp/20261113/1004250645/ultimos-test-privados-motogp-2027-buenas-noticias-marc-marquez-pedro-acosta.html"
+   },
+   {
+    "id": "d0ed6a0a3256",
+    "tema": "Deporte",
+    "titular": "DAZN GO reúne fútbol, motor y baloncesto en un plan especial",
+    "resumen": "La suscripción combina partidos de LaLiga, la NBA y la Liga Endesa con entrenamientos y clasificaciones de Fórmula 1 y MotoGP ...",
+    "medio": "Marca",
+    "fecha": "2026-11-13T04:06:00.000Z",
+    "url": "https://www.marca.com/futbol/primera-division/2026/11/13/dazn-go-reune-futbol-motor-baloncesto-plan-especial.html"
+   },
+   {
+    "id": "d94f30823e44",
+    "tema": "Deporte",
+    "titular": "Resultados jornada 14LALIGA EA Sports 2026/2027",
+    "resumen": "Quizá haya algún estudio que concluya que chicos de familias acomodadas tengan un talento especial para guardar la pelota, eran esos niños que llevaban el balón al patio ...",
+    "medio": "El País",
+    "fecha": "2026-11-13T03:00:00.000Z",
+    "url": "https://elpais.com/deportes/resultados/futbol/primera/2026_2027/jornada/regular-a-14/"
+   },
+   {
+    "id": "0e3e4f19d0f1",
+    "tema": "Premios",
+    "titular": "Una semana en Netflix y se mantiene en el top 1 de España: una serie basada en la novela de Sonsoles Ónega, ganadora del Premio Planeta",
+    "resumen": "La ficción, un drama ambientado a principios del siglo XX que adapta la obra literaria de la famosa periodista y presentadora de televisión, se ha convertido en lo más visto de la plataforma ...",
+    "medio": "ABC",
+    "fecha": "2026-11-12T20:45:00.000Z",
+    "url": "https://www.abc.es/play/series/noticias/semana-netflix-mantiene-top-espana-serie-basada-20261113054500-nt.html"
+   },
+   {
+    "id": "32fe2cc5e10e",
+    "tema": "Cine y series",
+    "titular": "Estreno del documental \"200 vidas, Paco Rabal\" en el Festival de Cine de Sevilla",
+    "resumen": "Durante la recta final del Festival de Cine Europeo de Sevilla, nos fijamos en el retrato de actor referente del cine español, a través del ...",
+    "medio": "RTVE",
+    "fecha": "2026-11-12T16:00:00.000Z",
+    "url": "https://www.rtve.es/play/videos/noticias-andalucia/estreno-del-documental-200-vidas-paco-rabal-festival-cine-sevilla/17312914/"
+   }
+  ],
+  "belgica": [
+   {
+    "id": "d85e5dd75256",
+    "tema": "Deporte",
+    "titular": "Diables rouges : un dernier tour de passe-passe contre l’Italie pour éviter la sortie",
+    "resumen": "Devancés au classement par une Squadra ressuscitée, les Diables rouges n’ont plus le luxe de calculer : il faudra gagner pour accrocher les quarts de finale en mars. Et rien d’autre ! Avec Roméo Lavia ...",
+    "medio": "Le Soir",
+    "fecha": "2026-11-13T16:00:00.000Z",
+    "url": "https://www.lesoir.be/782694/article/2026-11-14/diables-rouges-un-dernier-tour-de-passe-passe-contre-litalie-pour-eviter-la"
+   },
+   {
+    "id": "eea81c8b8646",
+    "tema": "País",
+    "titular": "Trapped in the English bubble: Living in Belgium for years without French or Dutch",
+    "resumen": "Many international students and young professionals arrive in Belgium with little to no preparation regarding the country’s three official languages: Dutch, French and German. Although English has no ...",
+    "medio": "The Brussels Times",
+    "fecha": "2026-11-13T16:00:00.000Z",
+    "url": "https://www.brusselstimes.com/belgium/2405632/trapped-in-the-english-bubble-living-in-belgium-for-years-without-french-or-dutch"
+   },
+   {
+    "id": "464eb283effa",
+    "tema": "Deporte",
+    "titular": "L'infraction d'Anderlecht dans le Topper face au Club Bruges sera examinée le vendredi 20 novembre",
+    "resumen": "Le Conseil disciplinaire pour le football professionnel de l'Union Belge (URBSFA) examinera le vendredi 20 novembre l'infraction d'Anderlecht lors du match contre le Club Bruges dimanche dernier. Le ...",
+    "medio": "RTBF",
+    "fecha": "2026-11-13T11:48:00.000Z",
+    "url": "https://www.rtbf.be/article/l-infraction-d-anderlecht-dans-le-topper-face-au-club-bruges-sera-examinee-le-vendredi-20-novembre-11815402"
+   },
+   {
+    "id": "1803643572fb",
+    "tema": "Arte y libros",
+    "titular": "Que faire ce week-end en Belgique ?",
+    "resumen": "La traditionnelle Fête de la Saint-Hubert revient pour célébrer l’une des plus belles traditions de notre région. Bien plus qu’une fête religieuse, la Saint-Hubert est un rendez-vous incontournable de ...",
+    "medio": "Le Soir",
+    "fecha": "2026-11-13T01:33:00.000Z",
+    "url": "https://soirmag.lesoir.be/782520/article/2026-11-13/que-faire-ce-week-end-en-belgique"
+   },
+   {
+    "id": "da63fc0987d2",
+    "tema": "País",
+    "titular": "Household spending growth slows in EU, alcohol and tobacco drop again",
+    "resumen": "EU households spent 3.3% more on tech and communication in 2025, driving growth in consumer spending. Alcohol and tobacco purchases fell for the second straight year.",
+    "medio": "The Brussels Times",
+    "fecha": "2026-11-12T16:00:00.000Z",
+    "url": "https://www.brusselstimes.com/eu-affairs/2405856/household-spending-growth-slows-in-eu-alcohol-and-tobacco-drop-again"
+   },
+   {
+    "id": "7afbf8e2dbcd",
+    "tema": "País",
+    "titular": "What to do in Brussels this weekend: 13 - 15 November",
+    "resumen": "Whether you want to brave the cold for a walking tour or are looking for cosy indoor activities, here are The Brussels Times top picks for this weekend.",
+    "medio": "The Brussels Times",
+    "fecha": "2026-11-12T16:00:00.000Z",
+    "url": "https://www.brusselstimes.com/brussels/2403936/what-to-do-in-brussels-this-weekend-13-15-november"
+   },
+   {
+    "id": "2e4034e6565e",
+    "tema": "Arte y libros",
+    "titular": "\"Bruxelles 1900\" ou la Belgique visionnaire",
+    "resumen": "Le Petit Palais à Paris présente une exposition magistrale Bruxelles 1900. Le lieu choisi n'est pas un hasard. Le Petit Palais a été bâti pour l'Exposition universelle de 1900 quand Bruxelles fut ...",
+    "medio": "La Libre",
+    "fecha": "2026-11-12T09:30:00.000Z",
+    "url": "https://www.lalibre.be/culture/arts/2026/11/12/bruxelles-1900-ou-la-belgique-visionnaire-GBDR3MNMZ5CFBNPQPMBSGD2S2I/"
+   },
+   {
+    "id": "f27f2ca5e120",
+    "tema": "Arte y libros",
+    "titular": "Les activités du week-end du 13 au 15 novembre en Wallonie et à Bruxelles",
+    "resumen": "Visible jusqu’au 20 décembre, l’exposition Lost and Found explore les thèmes de la mémoire, de la catastrophe, de la disparition et du renouveau dans la photographie japonaise à travers un ensemble d’ ...",
+    "medio": "RTBF",
+    "fecha": "2026-11-11T08:08:00.000Z",
+    "url": "https://www.rtbf.be/article/les-activites-du-week-end-du-13-au-15-novembre-en-wallonie-et-a-bruxelles-11814108"
+   }
+  ],
+  "marcas": [
+   {
+    "id": "721b325e84ff",
+    "tema": "Marcas en España",
+    "titular": "9 vestidos largos de Zara, Mango y El Corte Inglés que comprarán las que más saben de moda este otoño",
+    "resumen": "En la colección tanto de Zara como de Mango y de El Corte Inglés, encontrarás estos vestidos largos que son elegantes e ideales para otoño. Las que más saben de moda ya t ...",
+    "medio": "El Mundo",
+    "fecha": "2026-11-13T15:01:00.000Z",
+    "url": "https://www.elmundo.es/yodona/moda/2026/11/14/6af2c971e9cf4a7d1d8b459a.html"
+   },
+   {
+    "id": "8a98dc7df968",
+    "tema": "Campañas y eventos",
+    "titular": "Home Depot, ESPN Among 2026 Brand Hall of Fame Inductees",
+    "resumen": "The Brand Hall of Fame has inducted five new members for 2026. The Home Depot, ESPN, Disney, Budweiser, and Chick-fil-A are the five inductees. They join the inaugural 2024 class of honorees including ...",
+    "medio": "Adweek",
+    "fecha": "2026-11-13T08:19:00.000Z",
+    "url": "https://www.adweek.com/brand-marketing/home-depot-espn-among-2026-brand-hall-of-fame-inductees/"
+   },
+   {
+    "id": "8e6e4f600b2b",
+    "tema": "Campañas y eventos",
+    "titular": "Pamela Anderson on How Skincare Brand Sonsie’s First Holiday Ad Reflects Her World",
+    "resumen": "Anderson and chief brand officer Dylan Jagger Lee discuss the brand’s garden-inspired debut holiday film, crafted over eight months by 23 creators.",
+    "medio": "Adweek",
+    "fecha": "2026-11-13T06:20:00.000Z",
+    "url": "https://www.adweek.com/brand-marketing/pamela-anderson-on-how-skincare-brand-sonsies-first-holiday-ad-reflects-her-world/"
+   },
+   {
+    "id": "66b7ff296d16",
+    "tema": "Campañas y eventos",
+    "titular": "El Ayuntamiento de Andújar presenta Anducab 2027 con una nueva imagen de marca y web propia",
+    "resumen": "El Ayuntamiento de Andújar presentará las novedades de la vigésima tercera edición del Concurso Morfológico-Funcional de Caballos de Pura Raza Española en SICAB, el principal escaparate internacional ...",
+    "medio": "Cadena SER",
+    "fecha": "2026-11-13T05:57:00.000Z",
+    "url": "https://cadenaser.com/andalucia/2026/11/13/el-ayuntamiento-de-andujar-presenta-anducab-2027-con-una-nueva-imagen-de-marca-y-web-propia-ser-andujar/"
+   },
+   {
+    "id": "4c0525b93b0d",
+    "tema": "Marcas globales",
+    "titular": "The Apple HomeView Fixed My Family’s Biggest Scheduling Problem",
+    "resumen": "The Apple HomeView helped solve my family’s biggest scheduling challenge with shared calendars, smart home controls and privacy-first features. Here's how.",
+    "medio": "Forbes",
+    "fecha": "2026-11-12T06:36:00.000Z",
+    "url": "https://www.forbes.com/sites/forbes-personal-shopper/article/apple-homeview-review/"
+   },
+   {
+    "id": "a989bac8b8ca",
+    "tema": "Marcas en España",
+    "titular": "La empresa de Estrella Galicia entra en el negocio del whisky con una marca escocesa que distribuirá en exclusiva en España",
+    "resumen": "Hijos de Rivera se alía con Hisúmer y la destilería Tomatin para comercializar un whisky de malta diseñado específicamente para el mercado español ...",
+    "medio": "ABC",
+    "fecha": "2026-11-12T05:33:00.000Z",
+    "url": "https://www.abc.es/espana/galicia/empresa-estrella-galicia-entra-negocio-whisky-marca-20261112143321-nt.html"
+   },
+   {
+    "id": "5c44d9c95447",
+    "tema": "Marcas en España",
+    "titular": "Una mujer visita el nuevo Mercadona de Málaga y muestra lo que ha cambiado: «Ya no hay nadie cortándote el jamón»",
+    "resumen": "El supermercado ha estrenado el modelo de tienda 9 con una nueva organización de las secciones, más espacio para los productos frescos y una zona de comida preparada ...",
+    "medio": "ABC",
+    "fecha": "2026-11-12T03:59:00.000Z",
+    "url": "https://www.abc.es/espana/andalucia/malaga/mujer-visita-nuevo-mercadona-malaga-muestra-cambiado-20261112125956-nts.html"
+   },
+   {
+    "id": "5b61e38bd8be",
+    "tema": "Marcas globales",
+    "titular": "New apple named after road where it was discovered",
+    "resumen": "A previously unidentified apple variety grown in a back garden has officially been named after the road where it was discovered. The apple, now known as the Clarendon Blush, was found on Clarendon ...",
+    "medio": "BBC",
+    "fecha": "2026-11-11T22:07:00.000Z",
+    "url": "https://www.bbc.co.uk/news/articles/ckjwewg5p4gno"
+   }
+  ],
+  "comunicacion": [
+   {
+    "id": "b6c8e0929667",
+    "tema": "Empresa",
+    "titular": "How Nvidia Can Move Forward Without Its Founder",
+    "resumen": "When a celebrated founder leaves abruptly, the board must stabilize the business, communicate clearly, and find a successor who can lead through uncertainty. In this Q&A with Harvard Business Review ...",
+    "medio": "Harvard Business Review",
+    "fecha": "2026-11-13T13:40:00.000Z",
+    "url": "https://hbr.org/2026/11/how-nvidia-can-move-forward-without-its-founder"
+   },
+   {
+    "id": "6eb88465b43e",
+    "tema": "Empresa",
+    "titular": "How Boards Detect and Prevent Internal Misconduct",
+    "resumen": "Corporate misconduct can expose companies to enormous financial, legal, and reputational damage, making oversight of ethical standards a critical responsibility for boards. Drawing on cases including ...",
+    "medio": "Harvard Business Review",
+    "fecha": "2026-11-13T12:50:00.000Z",
+    "url": "https://hbr.org/2026/11/how-boards-detect-and-prevent-internal-misconduct"
+   },
+   {
+    "id": "b1b579bc8219",
+    "tema": "Empresa",
+    "titular": "Procurement 2030: Reimagining the Profession’s Role After AI Webinar",
+    "resumen": "Featuring Tigran Avakian, VP, Head of Procurement at Gap, Jason Powell, Managing Director, Enterprise Transformation at Zip and Todd Pruzan, Senior Editor, Research and Special Projects at Harvard ...",
+    "medio": "Harvard Business Review",
+    "fecha": "2026-11-13T10:56:00.000Z",
+    "url": "https://hbr.org/sponsored/2026/11/procurement-2030-reimagining-the-professions-role-after-ai-webinar"
+   },
+   {
+    "id": "c106c5fbb005",
+    "tema": "Comunicación",
+    "titular": "PR Boutiques International amplía su presencia en Europa con V3rtice y AFF Comunicazione",
+    "resumen": "POR REDACCIÓN, 13 DE NOVIEMBRE DE 2026 PR Boutiques International (PRBI), una red global sin ánimo de lucro que agrupa a firmas independientes de relaciones públicas, ha anunciado",
+    "medio": "Top Comunicación",
+    "fecha": "2026-11-13T16:24:42.000Z",
+    "url": "https://www.topcomunicacion.com/pr-boutiques-international-v3rtice-aff-comunicazione/"
+   },
+   {
+    "id": "6792232b8a3e",
+    "tema": "Comunicación",
+    "titular": "ROC·PR celebra su quinto aniversario y lanza su nueva imagen de marca",
+    "resumen": "POR REDACCIÓN, 12 DE NOVIEMBRE DE 2026 Cinco años, 23 profesionales, más de 150 marcas con las que ha trabajado y muchas historias aún por contar. La agencia, fundada en 2021 por Rocío Carasso, cumple sus 5º aniversario en un gran momento. Y para celebrarlo,…",
+    "medio": "Top Comunicación",
+    "fecha": "2026-11-13T11:13:46.000Z",
+    "url": "https://www.topcomunicacion.com/roc%c2%b7pr-celebra-su-quinto-aniversario-y-lanza-su-nueva-imagen-de-marca/"
+   },
+   {
+    "id": "89a25cc6a0a9",
+    "tema": "Comunicación",
+    "titular": "Verisure España busca Consultor/a de Comunicación Externa",
+    "resumen": "La persona que se incorpore tendrá la oportunidad de participar en proyectos de comunicación de gran visibilidad, contribuir al posicionamiento y la reputación de una marca líder y desarrollar iniciativas que conecten la comunicación con los objetivos de…",
+    "medio": "Top Comunicación",
+    "fecha": "2026-11-13T08:00:00.000Z",
+    "url": "https://www.topcomunicacion.com/oferta-de-empleo-sector-comunicacion-eventos/"
+   }
+  ]
+ }
+}
