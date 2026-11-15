@@ -1,7 +1,7 @@
 {
  "id": "2026-11-15",
  "titulo": "domingo, 15 de noviembre",
- "publicado": "2026-11-15T05:47:44.180Z",
+ "publicado": "2026-11-15T06:54:47.187Z",
  "secciones": {
   "mundo": [
    {
@@ -32,15 +32,6 @@
     "url": "https://www.theguardian.com/football/2026/nov/14/declan-rice-england-spain-nations-league-world-cup-thomas-tuchel"
    },
    {
-    "id": "f155b4efe72f",
-    "tema": "Premios",
-    "titular": "Indígenas de Guatemala honran los restos del premio Nobel Miguel Ángel Asturias",
-    "resumen": "Ciudad de Guatemala, 14 nov (EFE).- Representantes de los pueblos indígenas, diplomáticos y familiares rindieron honores espirituales este sábado ante las cenizas del Premio Nobel de Literatura Miguel ...",
-    "medio": "ABC",
-    "fecha": "2026-11-14T12:59:00.000Z",
-    "url": "https://www.abc.es/cultura/libros/indigenas-guatemala-honran-restos-premio-nobel-miguel-20261114220052-nt.html"
-   },
-   {
     "id": "cec613c5d28e",
     "tema": "Premios",
     "titular": "Filipinas gana Eurovisión en Asia con Carmelle",
@@ -48,6 +39,15 @@
     "medio": "La Vanguardia",
     "fecha": "2026-11-14T12:33:00.000Z",
     "url": "https://www.lavanguardia.com/television/20261114/11684341/filipinas-gana-eurovision-asia-carmelle.html"
+   },
+   {
+    "id": "5e14dbc08be9",
+    "tema": "Cine y series",
+    "titular": "El fructífero idilio entre las series de Atresmedia y Netflix",
+    "resumen": "‘Las hijas de la criada’, que acaba de aterrizar en la plataforma, se sitúa entre sus contenidos más vistos y prolonga la exitosa alianza iniciada con ‘La casa de papel’ ...",
+    "medio": "La Vanguardia",
+    "fecha": "2026-11-14T09:00:00.000Z",
+    "url": "https://www.lavanguardia.com/television/20261115/11683465/fructifero-idilio-series-atresmedia-netflix.html"
    },
    {
     "id": "fe40400e8971",
@@ -68,13 +68,13 @@
     "url": "https://www.marca.com/videojuegos/juegos/2026/11/14/nuevo-rey-subidon-espanoles-nba-2k27-primera-actualizacion-medias-aqui.html"
    },
    {
-    "id": "53d4a8c589bf",
-    "tema": "Música",
-    "titular": "KPop Demon Hunters’ HUNTR/X World Tour Announces Dates",
-    "resumen": "Netflix and AEG Presents have scheduled 61 arena performances for the upcoming KPop Demon Hunters Golden World Tour.",
-    "medio": "Forbes",
-    "fecha": "2026-11-13T13:14:00.000Z",
-    "url": "https://www.forbes.com/sites/hannahabraham/2026/11/13/kpop-demon-hunters-huntrx-world-tour-announces-dates/"
+    "id": "bd4d77abfc27",
+    "tema": "Premios",
+    "titular": "'La bola negra' arrasa en los premios del cine europeo con 10 nominaciones",
+    "resumen": "La representación española la completan Javier Bardem, nominado a mejor actor por 'El ser querido', Penélope Cruz por 'Búnker, la música de Alberto Iglesias en 'Amarga Navidad' y la coproducción 'Ensa ...",
+    "medio": "Cadena SER",
+    "fecha": "2026-11-14T02:15:00.000Z",
+    "url": "https://cadenaser.com/nacional/2026/11/14/la-bola-negra-arrasa-en-los-premios-del-cine-europeo-con-10-nominaciones-cadena-ser/"
    }
   ],
   "espana": [
@@ -117,13 +117,13 @@
   ],
   "belgica": [
    {
-    "id": "426a22cd6ecb",
+    "id": "5b9af012b94e",
     "tema": "Deporte",
-    "titular": "Diables Rouges - Un match couperet contre l'Italie attend les Diables Rouges",
-    "resumen": "Les Diables Rouges achèveront la phase de groupe de la Ligue des Nations par un match couperet contre l'Italie dimanche au stade Roi Baudouin ...",
-    "medio": "DH",
-    "fecha": "2026-11-14T16:00:00.000Z",
-    "url": "https://www.dhnet.be/dernieres-depeches/2026/11/15/diables-rouges-un-match-couperet-contre-litalie-attend-les-diables-rouges-M62ODWOV6FAXZCBMBRBHLRWXPY/"
+    "titular": "Un gros défi pour les Diables contre l'Italie : \"On a gagné à Rome, mais c'est une équipe très différente à présent\"",
+    "resumen": "Buteur en Turquie il y a trois jours, Charles De Ketelaere était présent pour les activités médias afin de préfacer le duel entre les Diables Rouges et l'Italie, programmé ce dimanche soir (20H45) à ...",
+    "medio": "RTBF",
+    "fecha": "2026-11-14T22:04:00.000Z",
+    "url": "https://www.rtbf.be/article/un-gros-defi-pour-les-diables-contre-l-italie-on-a-gagne-a-rome-mais-c-est-une-equipe-tres-differente-a-present-11815372"
    },
    {
     "id": "209c52ec1fe5",
@@ -160,6 +160,15 @@
     "medio": "RTBF",
     "fecha": "2026-11-14T08:06:00.000Z",
     "url": "https://www.rtbf.be/article/le-premier-marche-de-noel-de-wallonie-s-ouvre-a-maredsous-11815633"
+   },
+   {
+    "id": "414370a93b05",
+    "tema": "Deporte",
+    "titular": "Thibaut Courtois évoque son avenir chez les Diables rouges et ferme la porte à un retour comme joueur à Genk",
+    "resumen": "Dans l’émission « De Tafel van Gert » sur Play, Thibaut Courtois s’est exprimé sur son avenir au Real Madrid, son investissement au Racing Genk et son éventuel retour chez les Diables Rouges à l’appro ...",
+    "medio": "Le Soir",
+    "fecha": "2026-11-14T06:06:00.000Z",
+    "url": "https://www.lesoir.be/782739/article/2026-11-14/thibaut-courtois-evoque-son-avenir-chez-les-diables-rouges-et-ferme-la-porte-un"
    },
    {
     "id": "97f2e78b897a",
@@ -227,6 +236,15 @@
     "url": "https://www.adweek.com/commerce/targets-new-cmo-wants-the-brand-to-get-its-edge-back/"
    },
    {
+    "id": "baad0b0ecbb0",
+    "tema": "Marcas en España",
+    "titular": "Hijos de Rivera (Estrella Galicia) entra en la categoría de whisky y distribuirá en España la escocesa Tomatin",
+    "resumen": "El grupo cervecero refuerza su apuesta por los espirituosos premium e incorpora a su portfolio Tomatin Double Cask, que fabrica la destilería escocesa Tomatin y que tendrá una receta adaptada al merca ...",
+    "medio": "20minutos",
+    "fecha": "2026-11-12T06:33:00.000Z",
+    "url": "https://www.20minutos.es/lainformacion/empresas/hijos-rivera-estrella-galicia-categoria-whisky-distribuira-espana-escocesa-tomatin_7060269_0.html"
+   },
+   {
     "id": "dacac44578be",
     "tema": "Marcas en España",
     "titular": "Inditex redobla su ofensiva en China y desembarca con Zara en JD.com para atacar el online",
@@ -234,15 +252,6 @@
     "medio": "Modaes",
     "fecha": "2026-11-12T02:40:00.000Z",
     "url": "https://www.modaes.com/empresas/inditex-redobla-su-ofensiva-en-china-y-desembarca-con-zara-en-jdcom-para-atacar-el-online"
-   },
-   {
-    "id": "4176ad55bd02",
-    "tema": "Marcas en España",
-    "titular": "La colección preferida de Marta Ortega llega a Zara: así es lo nuevo de SRPLS con 2 jerséis ideales, un abrigo de tweed y los pantalones tendencia",
-    "resumen": "Impulsada por la presidenta no ejecutiva de Inditex, Zara acaba de presentar su nueva colección SRPLS con prendas perfectas para esta temporada ...",
-    "medio": "El Confidencial",
-    "fecha": "2026-11-12T01:54:00.000Z",
-    "url": "https://www.vanitatis.elconfidencial.com/estilo/moda/2026-11-12/zara-coleccion-marta-ortega-novedades-jerseis-abrigo-pantalones_4463296/"
    }
   ],
   "comunicacion": [
@@ -274,31 +283,31 @@
     "url": "https://hbr.org/?term=Montsegur+Holdings+review"
    },
    {
-    "id": "4217ef798040",
+    "id": "1996a6b6c941",
     "tema": "Comunicación",
-    "titular": "La caída mundial de Microsoft pone en jaque a las empresas: \"La principal consecuencia es la pérdida temporal de la capacidad de comunicación\"",
-    "resumen": "La incidencia, que también afecta a Teams y OneDrive, obliga a las compañías a buscar alternativas para no paralizar por completo su actividad ...",
-    "medio": "COPE",
-    "fecha": "2026-11-12T21:10:00.000Z",
-    "url": "https://www.cope.es/emisoras/castilla-y-leon/burgos-provincia/burgos/noticias/caida-mundial-microsoft-pone-jaque-empresas-principal-consecuencia-perdida-temporal-capacidad-comunicacion-20261113_3474853.html"
+    "titular": "Guía de expertos en comunicación de moda, belleza y lifestyle",
+    "resumen": "Publicamos la tercera edición de la Guía de profesionales de comunicación expertos en moda, belleza y lifestyle, en la que figuran muchos de los principales profesionales de esta especialidad en España. En próximas ediciones iremos ampliando y actualizando la lista.",
+    "medio": "Top Comunicación",
+    "fecha": "2026-11-14T10:05:00.000Z",
+    "url": "https://www.topcomunicacion.com/guia-de-expertos-en-comunicacion-de-moda-belleza-y-lifestyle/"
    },
    {
-    "id": "6f5b5c86814b",
+    "id": "c106c5fbb005",
     "tema": "Comunicación",
-    "titular": "Medtronic confía su estrategia de comunicación y relaciones públicas a True",
-    "resumen": "Medtronic ha seleccionado a Jungle True como agencia responsable de su estrategia de comunicación, relaciones públicas y posicionamiento corporativo.",
-    "medio": "El Publicista",
-    "fecha": "2026-11-09T16:00:00.000Z",
-    "url": "https://www.elpublicista.es/comunicacion-y-rrpp2/medtronic-confia-estrategia-comunicacion-relaciones-publicas"
+    "titular": "PR Boutiques International amplía su presencia en Europa con V3rtice y AFF Comunicazione",
+    "resumen": "POR REDACCIÓN, 13 DE NOVIEMBRE DE 2026 PR Boutiques International (PRBI), una red global sin ánimo de lucro que agrupa a firmas independientes de relaciones públicas, ha anunciado",
+    "medio": "Top Comunicación",
+    "fecha": "2026-11-13T16:24:42.000Z",
+    "url": "https://www.topcomunicacion.com/pr-boutiques-international-v3rtice-aff-comunicazione/"
    },
    {
-    "id": "2bfe0c146174",
+    "id": "6792232b8a3e",
     "tema": "Comunicación",
-    "titular": "Los pedazos rotos del jarrón de porcelana",
-    "resumen": "Benjamin Franklin fue una figura clave en la historia de los Estados Unidos por sus muchas contribuciones en campos tan variados como la política, la ciencia, la tecnología, la impresión, la filosofía ...",
-    "medio": "El Publicista",
-    "fecha": "2026-11-09T16:00:00.000Z",
-    "url": "https://www.elpublicista.es/articulos/pedazos-rotos-jarron-porcelana"
+    "titular": "ROC·PR celebra su quinto aniversario y lanza su nueva imagen de marca",
+    "resumen": "POR REDACCIÓN, 12 DE NOVIEMBRE DE 2026 Cinco años, 23 profesionales, más de 150 marcas con las que ha trabajado y muchas historias aún por contar. La agencia, fundada en 2021 por Rocío Carasso, cumple sus 5º aniversario en un gran momento. Y para celebrarlo,…",
+    "medio": "Top Comunicación",
+    "fecha": "2026-11-13T11:13:46.000Z",
+    "url": "https://www.topcomunicacion.com/roc%c2%b7pr-celebra-su-quinto-aniversario-y-lanza-su-nueva-imagen-de-marca/"
    }
   ]
  }
