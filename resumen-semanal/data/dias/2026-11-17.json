@@ -1,7 +1,7 @@
 {
  "id": "2026-11-17",
  "titulo": "martes, 17 de noviembre",
- "publicado": "2026-11-17T05:54:37.098Z",
+ "publicado": "2026-11-17T07:05:26.130Z",
  "secciones": {
   "mundo": [
    {
@@ -14,6 +14,15 @@
     "url": "https://as.com/ciclismo/mas_ciclismo/paul-seixas-ganar-el-tour-de-francia-es-mi-sueno-a-largo-plazo-f202611-n/"
    },
    {
+    "id": "f40b52a6d31a",
+    "tema": "Premios",
+    "titular": "Premios Grammy 2027: lista completa de nominados",
+    "resumen": "Rosalía busca hacer historia en las categorías generales gracias a su disco ‘Lux’; Taylor Swift, Bruno Mars, Olivia Rodrigo y Olivia Dean parten como principales favoritos",
+    "medio": "elDiario.es",
+    "fecha": "2026-11-16T08:09:00.000Z",
+    "url": "https://www.eldiario.es/cultura/musica/premios-grammy-2027-lista-completa-nominados_1_13667148.html"
+   },
+   {
     "id": "f2f8d0cb11d1",
     "tema": "Premios",
     "titular": "Grammys 2027: Raye, Rosalía and Olivia Rodrigo lead female-heavy nominations",
@@ -21,15 +30,6 @@
     "medio": "The Guardian",
     "fecha": "2026-11-16T08:06:00.000Z",
     "url": "https://www.theguardian.com/music/2026/nov/16/grammy-nominations-2027-female-artists"
-   },
-   {
-    "id": "e382e0897432",
-    "tema": "Cine y series",
-    "titular": "‘Reasonable Doubt’ Gets Early Season 5 Renewal As Season 4 Becomes Hulu Series’ Most Watched",
-    "resumen": "Reasonable Doubt' has received an early Season 5 Renewal as Season 4 of the legal drama has become Hulu series' most watched.",
-    "medio": "Deadline",
-    "fecha": "2026-11-16T05:01:00.000Z",
-    "url": "https://deadline.com/2026/11/reasonable-doubt-renewed-season-5-season-4-ratings-hulu-1237225565/"
    },
    {
     "id": "3c095cfaf51b",
@@ -41,33 +41,42 @@
     "url": "https://www.elmundo.es/loc/famosos/2026/11/16/6afadb6cfdddff823c8b4577.html"
    },
    {
-    "id": "f7d57f7f4d05",
+    "id": "20256f6eb2a4",
     "tema": "Deporte",
-    "titular": "Resumen y resultado del Suns - Lakers: Doncic en la NBA 2026-27",
-    "resumen": "Sigue la retransmisión en directo del partido entre Suns y Lakers, correspondiente a la temporada 2026-27 de la NBA; hoy, a las 22:00, en As.com.",
-    "medio": "AS",
+    "titular": "Beyond the Grandstands: MotoGP Premier introduces new ways to experience the world's most exciting motorcycle racing events",
+    "resumen": "From exclusive pit lane access and rider meet-and-greets to premium trackside hospitality, MotoGP Premier unveils refreshed bucket-list experiences for the 2027 racing season ...",
+    "medio": "MotoGP",
     "fecha": "2026-11-15T16:00:00.000Z",
-    "url": "https://as.com/baloncesto/nba/suns-lakers-en-directo-doncic-en-la-nba-2026-27-en-vivo-hoy-f202611-n/"
+    "url": "https://www.motogp.com/en/news/2026/11/16/beyond-the-grandstands-motogp-premier-introduces-new-ways-to-experience-the-worlds-most-exciting-motorcycle-racing-events/1185432"
    },
    {
-    "id": "c6615c47dd54",
-    "tema": "Premios",
-    "titular": "Rosalía, a un paso del asalto final a los Grammy",
-    "resumen": "Con los seis galardones de este año, la cantante catalana ya suma 17 premios Grammy Latinos, convirtiéndose en una de las artistas más premiadas de la academia. Desde que empezó a atesorar gramófonos",
-    "medio": "La Vanguardia",
-    "fecha": "2026-11-15T10:57:00.000Z",
-    "url": "https://www.lavanguardia.com/cultura/20261115/11684865/rosalia-paso-asalto-final-grammy.html"
+    "id": "b26a4506d7e9",
+    "tema": "Deporte",
+    "titular": "Could AI help decide medals at the 2028 Olympics?",
+    "resumen": "Use BBC.com or the new BBC App to listen to BBC podcasts, Radio 4 and the World Service outside the UK.",
+    "medio": "BBC",
+    "fecha": "2026-11-15T16:00:00.000Z",
+    "url": "https://www.bbc.co.uk/sounds/play/w3ct98yf"
    }
   ],
   "espana": [
    {
-    "id": "ecd4dbb808a2",
+    "id": "d3f8f8b26a45",
     "tema": "Deporte",
-    "titular": "El nuevo Alcaraz tras la lesión con saques a 195 km/h, más cerca de las líneas y más dentro de la pista: \"Ha tenido la paciencia que hay que tener\"",
-    "resumen": "Este verano, no hace tanto, Carlos Alcaraz aún entrenaba con raquetas sin cuerdas y golpeaba pelotas fáciles con la izquierda; la muñeca derecha todavía no estaba",
-    "medio": "El Mundo",
-    "fecha": "2026-11-16T14:42:00.000Z",
-    "url": "https://www.elmundo.es/deportes/tenis/2026/11/16/6afb432cfc6c83ea548b4588.html"
+    "titular": "Marc Márquez explota como nadie los sábados",
+    "resumen": "El de Ducati puede sellar de forma matemática su décima corona en el Sprint de Portimao. Precisamente en el formato corto es donde ha marcado más la diferencia en el curso 2026 ...",
+    "medio": "Marca",
+    "fecha": "2026-11-16T21:50:00.000Z",
+    "url": "https://www.marca.com/motor/motogp/gp-portugal/2026/11/17/marc-marquez-explota-nadie-sabados.html"
+   },
+   {
+    "id": "579eceac957c",
+    "tema": "Música",
+    "titular": "Rosalía hace historia con nueve nominaciones en los Grammy 2027 (solo por detrás de Raye)",
+    "resumen": "Mejor álbum del año, por Lux, mejor canción del año, por Berghain, y mejor grabación del año, también por Berghain, son solo tres ...",
+    "medio": "El País",
+    "fecha": "2026-11-16T16:00:00.000Z",
+    "url": "https://elpais.com/expres/2026-11-17/rosalia-hace-historia-con-nueve-nominaciones-en-los-grammy-2027-solo-por-detras-de-raye.html"
    },
    {
     "id": "0cf63d6530de",
@@ -77,15 +86,6 @@
     "medio": "Cadena SER",
     "fecha": "2026-11-16T14:09:00.000Z",
     "url": "https://cadenaser.com/nacional/2026/11/16/nadal-ha-recibido-el-premio-valores-leyenda-2026-han-sido-anos-de-momentos-inolvidables-cadena-ser/"
-   },
-   {
-    "id": "0fdfbdc91b45",
-    "tema": "Música",
-    "titular": "La historia tras 'The Mirror Maker (Rosalía)', la canción que U2 dedica a la catalana: una palabra inventada y el papel de Penélope Cruz",
-    "resumen": "De escuchar a U2 en su infancia a inspirarles una de las canciones más especiales del 50 aniversario de la banda: así es 'The Mirror Maker', el inesperado tributo de Bono a la cantante Rosalía",
-    "medio": "El Confidencial",
-    "fecha": "2026-11-16T12:08:00.000Z",
-    "url": "https://www.elconfidencial.com/cultura/2026-11-16/historia-the-mirror-maker-cancion-u2-a-rosalia-papel-penelope-cruz-1qrt_4466307/"
    },
    {
     "id": "2d52abca320c",
@@ -115,15 +115,6 @@
     "url": "https://www.20minutos.es/cinemania/series/trailer-fecha-estreno-regreso-su-majestad-con-anna-castillo_7061629_0.html"
    },
    {
-    "id": "26f610815acf",
-    "tema": "Premios",
-    "titular": "Rosalía en la pasada gala de los Latin Grammy donde obtuvo seis gramófonos",
-    "resumen": "Además, Rosalía también está nominada a mejor interpretación pop solista, por «Sauvignon Blanc»; mejor interpretación de música global, por «Porcelana», junto a Dougie F.; mejor canción latina, por ...",
-    "medio": "RTVE",
-    "fecha": "2026-11-16T06:58:00.000Z",
-    "url": "https://www.rtve.es/noticias/20261116/premios-grammy-2027-lista-nominaciones/17315914.shtml"
-   },
-   {
     "id": "61343cf7a2af",
     "tema": "Deporte",
     "titular": "Michael Forrest lidera al UCAM Murcia CB y se convierte en el francotirador de la Liga Endesa",
@@ -131,6 +122,15 @@
     "medio": "COPE",
     "fecha": "2026-11-16T05:30:00.000Z",
     "url": "https://www.cope.es/emisoras/region-de-murcia/murcia-provincia/murcia-san-javier/deportes-cope-en-murcia/noticias/michael-forrest-lidera-ucam-murcia-cb-convierte-francotirador-liga-endesa-20261116_3475823.html"
+   },
+   {
+    "id": "5508e45aef85",
+    "tema": "Personalidades",
+    "titular": "Arturo Pérez-Reverte (74), escritor español: “Me voy a morir comprendiendo, lo peor del mundo es morir sin comprender”",
+    "resumen": "Arturo Pérez-Reverte (74), escritor español, reflexiona sobre la vida y la muerte: “Me voy a morir comprendiendo, lo peor del mundo es morir sin comprender” ...",
+    "medio": "AS",
+    "fecha": "2026-11-16T04:45:00.000Z",
+    "url": "https://as.com/meristation/libros/arturo-perez-reverte-74-escritor-espanol-me-voy-a-morir-comprendiendo-lo-peor-del-mundo-es-morir-sin-comprender-f202611-n/"
    }
   ],
   "belgica": [
@@ -171,25 +171,34 @@
     "url": "https://www.rtbf.be/article/prix-goncourt-ne-contre-l-academisme-il-en-est-devenu-le-symbole-11816088"
    },
    {
-    "id": "7b6ab9bb15a7",
+    "id": "96e7e4ee8c2d",
     "tema": "Música",
-    "titular": "Les Foo Fighters et Iggy Pop en tête d’affiche : Werchter Parklife 2027 dévoile une programmation explosive",
-    "resumen": "Les Foo Fighters porteront la troisième édition du festival Werchter Parklife 2027, le 19 juin prochain. Le groupe de Dave Grohl partagera l’affiche avec Iggy Pop, The Hives, Violet Grohl, Florence Ro ...",
-    "medio": "RTBF",
-    "fecha": "2026-11-16T01:01:00.000Z",
-    "url": "https://www.rtbf.be/article/foo-fighters-et-iggy-pop-en-tete-d-affiche-werchter-parklife-2027-devoile-une-programmation-explosive-11815788"
+    "titular": "Les Foo Fighters en tête d'affiche du Werchter Parklife 2027",
+    "resumen": "Le festival Werchter Parklife, qui se déroule sur une journée, reviendra le samedi 19 juin prochain avec le groupe de rock américain Foo Fighters en ...",
+    "medio": "DH",
+    "fecha": "2026-11-16T02:25:00.000Z",
+    "url": "https://www.dhnet.be/dernieres-depeches/2026/11/16/les-foo-fighters-en-tete-daffiche-du-werchter-parklife-2027-PLQR7URWN5B3HHM7XUT23KUITM/"
    },
    {
-    "id": "ab3ad8eaa53f",
+    "id": "b1ad88d91088",
     "tema": "País",
-    "titular": "Azerbaijani presidential aide briefs Brussels on peace, energy and EU ties",
-    "resumen": "Hikmat Hajiyev sets out Baku's view of the peace process with Armenia, regional connectivity, gas and green energy supplies to Europe, and a changing regional security picture.",
+    "titular": "Hergé auction in Paris raises over €1 billion",
+    "resumen": "A single preparatory drawing for a page of the comic album 'Coke in Stock' by Hergé goes for €120,240 at a Paris auction dedicated to the Belgian comic writer. A ...",
     "medio": "The Brussels Times",
     "fecha": "2026-11-15T16:00:00.000Z",
-    "url": "https://www.brusselstimes.com/2409864/azerbaijani-presidential-aide-briefs-brussels-on-peace-energy-and-eu-ties"
+    "url": "https://www.brusselstimes.com/art-culture/2409824/herge-auction-raises-over-e1-billion-at-paris-auction"
    }
   ],
   "marcas": [
+   {
+    "id": "d8f201df5cf4",
+    "tema": "Marcas en España",
+    "titular": "Tatiana Santo Domingo y Amelia Windsor, de cita en Londres con la marca española que llevan Letizia y Leonor",
+    "resumen": "Empresarias e influencers coincidieron en la capital británica para apoyar a Heimat Atlantica, la firma española que lleva nuestra familia real ...",
+    "medio": "El Confidencial",
+    "fecha": "2026-11-16T21:00:00.000Z",
+    "url": "https://www.vanitatis.elconfidencial.com/estilo/moda/2026-11-17/tatiana-santo-domingo-amelia-windsor-londres-marca-espanola-letizia-leonor_4465555/"
+   },
    {
     "id": "273a4920e3bb",
     "tema": "Marcas en España",
@@ -218,15 +227,6 @@
     "url": "https://www.adweek.com/brand-marketing/harlem-globetrotters-team-with-sprite-in-rivalry-tour-sponsorship/"
    },
    {
-    "id": "78fe7bfc83f5",
-    "tema": "Campañas y eventos",
-    "titular": "Today Plaza Becomes a Key Integration Point for Audiences and Brands",
-    "resumen": "Today is one of the few media environments where brands move seamlessly from awareness to engagement to real-world action.",
-    "medio": "Adweek",
-    "fecha": "2026-11-16T10:44:00.000Z",
-    "url": "https://www.adweek.com/brand-marketing/today-plaza-becomes-a-key-integration-point-for-audiences-and-brands/"
-   },
-   {
     "id": "06214ea7aff3",
     "tema": "Marcas en España",
     "titular": "Cambios en las etiquetas y en las tablas de nutrición: las novedades de Mercadona para entender mejor la información de los productos",
@@ -236,13 +236,13 @@
     "url": "https://www.20minutos.es/gastronomia/productos/cambios-etiquetas-tablas-nutricion-novedades-mercadona-entender-mejor-informacion-productos_7057612_0.html"
    },
    {
-    "id": "7efe15fa016d",
-    "tema": "Marcas en España",
-    "titular": "Iberia y el puente Madrid-Buenos Aires: 80 años conectando familias",
-    "resumen": "Buenos Aires, 16 nov (EFE).- La aerolínea española Iberia ha apostado por Argentina \"siempre, en los buenos y en los malos momentos\", afirmó este lunes su director corporativo, Juan Cierco, al ...",
-    "medio": "ABC",
-    "fecha": "2026-11-16T09:32:00.000Z",
-    "url": "https://www.abc.es/viajar/iberia-puente-madridbuenos-aires-anos-conectando-familias-20261116183224-nt.html"
+    "id": "16bbfa96d69a",
+    "tema": "Campañas y eventos",
+    "titular": "Unilever puts emphasis on content scale as it reveals next stage of transformation",
+    "resumen": "Unilever says it is now producing 12 times more content than it was in 2024, but average cost per asset has reduced by around 90%.",
+    "medio": "Marketing Week",
+    "fecha": "2026-11-16T08:15:00.000Z",
+    "url": "https://www.marketingweek.com/unilever-content-scale-transformation/"
    },
    {
     "id": "9abde35f1e7b",
@@ -283,13 +283,13 @@
     "url": "https://hbr.org/tip/2026/11/as-you-adopt-ai-ensure-employees-still-feel-like-they-matter"
    },
    {
-    "id": "9c39a94ba3a8",
+    "id": "6a4ee973fc55",
     "tema": "Empresa",
-    "titular": "To Land a C-Suite Job, Craft Your Career Story",
-    "resumen": "Landing a C-suite role takes more than an impressive resume and a record of strong results. Executive candidates need to develop a concise, compelling personal narrative that demonstrates not only ...",
+    "titular": "As Your Company Evolves, Hold On to What Makes It Unique",
+    "resumen": "What makes a company truly distinctive—and how can it evolve without losing what makes it special? Its essence lies not in its mission statement or brand identity but in capabilities that competitors ...",
     "medio": "Harvard Business Review",
-    "fecha": "2026-11-09T05:15:00.000Z",
-    "url": "https://hbr.org/2026/11/to-land-a-c-suite-job-craft-your-career-story"
+    "fecha": "2026-11-10T05:05:00.000Z",
+    "url": "https://hbr.org/2026/11/as-your-company-evolves-hold-on-to-what-makes-it-unique"
    },
    {
     "id": "654afe0b9c42",
@@ -310,13 +310,13 @@
     "url": "https://prnoticias.com/2026/11/17/como-se-hace-marketing-de-algo-que-nadie-quiere-necesitar/"
    },
    {
-    "id": "2c96244482c3",
+    "id": "016e4c93b04a",
     "tema": "Comunicación",
-    "titular": "Anticipar, no adivinar: las empresas ante el 29-N",
-    "resumen": "POR EVA SILVÁN, FUNDADORA Y CEO DE SILVÁN & MIRACLE Todas las miradas están puestas en la carrera electoral. Encuestas, trackings diarios y debates alimentan una conversación pública centrada en quién ganará el 29 de noviembre y con quién podrá gobernar: si…",
-    "medio": "Top Comunicación",
-    "fecha": "2026-11-16T15:20:11.000Z",
-    "url": "https://www.topcomunicacion.com/anticipar-no-adivinar-las-empresas-ante-el-29-n/"
+    "titular": "Portavoz suma a su cartera de clientes al Grupo Cajamar",
+    "resumen": "La entidad financiera confía en la creatividad y la estrategia de la agencia para fortalecer su presencia en redes sociales y eventos corporativos Grupo Cajamar ha elegido a Portavoz como agencia de r ...",
+    "medio": "El Publicista",
+    "fecha": "2026-11-15T16:00:00.000Z",
+    "url": "https://www.elpublicista.es/comunicacion-y-rrpp2/portavoz-suma-cartera-clientes-grupo-cajamar"
    }
   ]
  }
