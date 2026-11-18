@@ -1,7 +1,7 @@
 {
  "id": "2026-11-18",
  "titulo": "miércoles, 18 de noviembre",
- "publicado": "2026-11-18T05:57:18.328Z",
+ "publicado": "2026-11-18T07:12:21.999Z",
  "secciones": {
   "mundo": [
    {
@@ -23,22 +23,13 @@
     "url": "https://www.elperiodico.com/es/deportes/20261117/alexia-putellas-legado-ganar-tercer-136553805"
    },
    {
-    "id": "10958042e563",
+    "id": "d209e050296f",
     "tema": "Deporte",
-    "titular": "Hunter Bell eyeing middle-distance double at Olympics",
-    "resumen": "Georgia Hunter Bell talks to BBC Breakfast about her hopes for the 2028 Olympics in Los Angeles. Hunter Bell eyeing middle-distance double at Olympics. Video, 00:00:34Hunter Bell eyeing ...",
-    "medio": "BBC",
-    "fecha": "2026-11-17T04:26:00.000Z",
-    "url": "https://www.bbc.com/sport/olympics/videos/c5n4ex9zn2xpo"
-   },
-   {
-    "id": "f18ec865dd22",
-    "tema": "Premios",
-    "titular": "Ganó un Oscar a los 72 años y celebró el premio de una forma que nadie esperaba",
-    "resumen": "Con motivo de los 20 años de la muerte de Jack Palance, Sucedió una noche dedicó un programa especial a un actor al que la mayoría del público identifica con personajes de villano. Nos contaban su pro ...",
-    "medio": "Cadena SER",
-    "fecha": "2026-11-17T03:46:00.000Z",
-    "url": "https://cadenaser.com/nacional/2026/11/17/gano-un-oscar-a-los-72-anos-y-celebro-el-premio-de-una-forma-que-nadie-esperaba-cadena-ser/"
+    "titular": "Marlen Reusser cuestiona el trato del Tour al pelotón femenino: \"No quiero ser un adorno\"",
+    "resumen": "La ciclista del Movistar pide a los grandes patrocinadores que inviertan más en el pelotón femenino y explica cómo encajará Paula Blasi en el equipo ...",
+    "medio": "Marca",
+    "fecha": "2026-11-17T07:49:00.000Z",
+    "url": "https://www.marca.com/ciclismo/2026/11/17/marlen-reusser-cuestiona-trato-tour-peloton-femenino-quiero-adorno.html"
    },
    {
     "id": "d6b311278a2e",
@@ -57,18 +48,18 @@
     "medio": "RTVE",
     "fecha": "2026-11-16T16:00:00.000Z",
     "url": "https://www.rtve.es/play/videos/noticias-de-extremadura/peliculas-galardonadas-cannes-seminci-festival-cine-inedito-merida/17318190/"
-   },
-   {
-    "id": "40ffe927f382",
-    "tema": "Premios",
-    "titular": "Raye and Rosalia lead nominations for music's Grammy Awards",
-    "resumen": "British singer Raye, the artist behind the genre-mixing ​hit that asks \"Where Is My Husband!,\" landed at the top of the list of ‌Grammy Award nominees on Monday, ahead of Spanish musician Rosalia and \"Choosin' Texas\" artist Ella Langley.",
-    "medio": "Reuters",
-    "fecha": "2026-11-16T05:53:00.000Z",
-    "url": "https://www.reuters.com/business/media-telecom/raye-and-rosalia-lead-nominations-for-musics-grammy-awards-2026-11-16/"
    }
   ],
   "espana": [
+   {
+    "id": "59d922bb2d44",
+    "tema": "Deporte",
+    "titular": "Resultados jornada 15LALIGA EA Sports 2026/2027",
+    "resumen": "El delantero de la Real Sociedad se rompió en el último encuentro liguero ante el Rayo Vallecano y causó baja en la convocatoria de España ...",
+    "medio": "El País",
+    "fecha": "2026-11-17T21:30:00.000Z",
+    "url": "https://elpais.com/deportes/resultados/futbol/primera/2026_2027/jornada/regular-a-15/"
+   },
    {
     "id": "31aa59a494f1",
     "tema": "Música",
@@ -77,15 +68,6 @@
     "medio": "La Vanguardia",
     "fecha": "2026-11-17T16:15:00.000Z",
     "url": "https://www.lavanguardia.com/cultura/musica/20261118/11686878/estopa-anuncia-nuevos-conciertos-valencia-barcelona-madrid-agotar-entradas.html"
-   },
-   {
-    "id": "2e43f1d043cd",
-    "tema": "Deporte",
-    "titular": "Fernando Alonso, el desafío de juntar el Dakar y la F1 en el mismo año",
-    "resumen": "Será el segundo piloto de la historia que corra en las dos categorías la misma temporada. Regresa al desierto siete años después con la marca a la que vinculará su futuro, Aston Martin ...",
-    "medio": "ABC",
-    "fecha": "2026-11-17T16:00:00.000Z",
-    "url": "https://www.abc.es/deportes/alonso-junta-dakar-ano-20261117011440-nt.html"
    },
    {
     "id": "9515d3892521",
@@ -218,15 +200,6 @@
   ],
   "marcas": [
    {
-    "id": "461ff341f339",
-    "tema": "Campañas y eventos",
-    "titular": "Brands could boost ad awareness by 30% by shifting media spend, study finds",
-    "resumen": "The research suggests that to drive increased awareness brands ought to shift spend away from social media and towards TV.",
-    "medio": "Marketing Week",
-    "fecha": "2026-11-17T16:01:00.000Z",
-    "url": "https://www.marketingweek.com/ad-awareness-media-spend/"
-   },
-   {
     "id": "ea2b12186900",
     "tema": "Marcas globales",
     "titular": "Nike’s Long Road Back to Growth",
@@ -234,6 +207,15 @@
     "medio": "Business of Fashion",
     "fecha": "2026-11-17T16:00:00.000Z",
     "url": "https://www.businessoffashion.com/articles/sports/nikes-long-road-back-to-growth/"
+   },
+   {
+    "id": "d9f623fcc6c4",
+    "tema": "Campañas y eventos",
+    "titular": "PLD Space refuerza su futuro cohete Miura 5 al contratar el lanzamiento de un satélite de su socio Mitsubishi Electric",
+    "resumen": "El grupo japonés lideró la ronda de 288 millones de la ‘start-up’ española, cerrada en septiembre pasado PLD Space, compañía española de transporte espacial, ha firmado con Mitsubishi Electric Corpora ...",
+    "medio": "Cinco Días",
+    "fecha": "2026-11-17T16:00:00.000Z",
+    "url": "https://cincodias.elpais.com/companias/2026-11-18/pld-space-refuerza-su-futuro-cohete-miura-5-al-contratar-el-lanzamiento-de-un-satelite-de-su-socio-mitsubishi-electric.html"
    },
    {
     "id": "818332c932fd",
@@ -247,38 +229,20 @@
    {
     "id": "d4ef9b25c8f4",
     "tema": "Marcas globales",
-    "titular": "Gmail and Apple’s apps suffer outages days after major Microsoft disruptions",
+    "titular": "Apple outage: iPhone apps suffer disruption days after major Microsoft issues",
     "resumen": "Reports come on heels of major disruptions in technological infrastructure in the US and worldwide ...",
     "medio": "The Guardian",
     "fecha": "2026-11-17T11:45:00.000Z",
     "url": "https://www.theguardian.com/technology/2026/nov/17/gmail-apple-outage-major-disruption"
    },
    {
-    "id": "39012b2a160f",
+    "id": "d300b77edcc5",
     "tema": "Marcas globales",
-    "titular": "OpenAI’s New Hacking Model Found Dozens Of Holes In Apple Tech",
-    "resumen": "Researchers have used GPT-6 Cyber to uncover some 35 vulnerabilities across an array of Apple hardware, including some that could let hackers hijack iPhones and Macs through a malicious website.",
-    "medio": "Forbes",
-    "fecha": "2026-11-17T11:24:00.000Z",
-    "url": "https://www.forbes.com/sites/thomasbrewster/2026/11/17/openai-gpt-cyber-finds-dozens-of-vulnerabilities-in-apple-tech/"
-   },
-   {
-    "id": "4d19d9f4f2ec",
-    "tema": "Campañas y eventos",
-    "titular": "Amazon’s New Christmas Ad Is a Bet Against Itself",
-    "resumen": "This is “Joy Delivered”, Amazon’s new holiday ad, which launched earlier this month and runs like a proper movie. A new version of the Beatles’ “Golden Slumbers” does a lot of the emotional heavy ...",
-    "medio": "Adweek",
-    "fecha": "2026-11-17T10:48:00.000Z",
-    "url": "https://www.adweek.com/brand-marketing/amazons-new-christmas-ad-is-a-bet-against-itself/"
-   },
-   {
-    "id": "66b77b03b9e9",
-    "tema": "Campañas y eventos",
-    "titular": "A Crash Course in Marketing to Machines",
-    "resumen": "Customers increasingly ask AI assistants what to buy. Here’s how to make sure the evidence they find points to your brand.",
-    "medio": "Adweek",
-    "fecha": "2026-11-17T10:17:00.000Z",
-    "url": "https://www.adweek.com/brand-marketing/a-crash-course-in-marketing-to-machines/"
+    "titular": "NIKE, Inc. Announces Full Stride Ahead Strategy and 2031 Financial Framework at Investor Day",
+    "resumen": "NIKE, Inc. (NYSE: NKE) today will host its 2026 Investor Day at the Philip H. Knight Campus in Beaverton, Oregon, at 8:30 a.m. PT. The Company will introduce Full Stride Ahead, its strategy to get ...",
+    "medio": "Financial Times",
+    "fecha": "2026-11-17T06:00:00.000Z",
+    "url": "https://markets.ft.com/data/announce/detail?dockey=600-202611170900BIZWIRE_USPRX____20261117_BW380781-1"
    },
    {
     "id": "9b177bf0f3d2",
@@ -288,17 +252,26 @@
     "medio": "ABC",
     "fecha": "2026-11-16T16:00:00.000Z",
     "url": "https://www.abc.es/espana/comunidad-valenciana/mercadona-busca-personal-almacen-horas-semanales-1759-20261117075945-nt.html"
+   },
+   {
+    "id": "ecede9fd374b",
+    "tema": "Marcas en España",
+    "titular": "Iberia subraya que Argentina forma parte de su ADN y reafirma su apuesta por el país",
+    "resumen": "Buenos Aires, 16 nov (EFE).- La aerolínea española Iberia ha apostado por Argentina \"siempre, en los buenos y en los malos momentos\", afirmó este lunes su director corporativo, Juan Cierco, al cumplir ...",
+    "medio": "ABC",
+    "fecha": "2026-11-16T09:45:00.000Z",
+    "url": "https://www.abc.es/viajar/iberia-subraya-argentina-forma-parte-adn-reafirma-20261116184528-nt.html"
    }
   ],
   "comunicacion": [
    {
-    "id": "e8aa020479cf",
+    "id": "b086d7002f87",
     "tema": "Empresa",
     "titular": "Your Long-Term Succession Plan Won’t Save You in a Crisis",
     "resumen": "Find new ideas and classic advice on strategy, innovation and leadership, for global leaders from the world's best business and management experts.",
     "medio": "Harvard Business Review",
-    "fecha": "2026-11-17T14:43:00.000Z",
-    "url": "https://hbr.org/?term=should+i+always+do+that+on+a+test"
+    "fecha": "2026-11-17T22:01:00.000Z",
+    "url": "https://hbr.org/?term=the+main+retailer"
    },
    {
     "id": "a85a4941d9f7",
@@ -308,15 +281,6 @@
     "medio": "Harvard Business Review",
     "fecha": "2026-11-17T05:25:00.000Z",
     "url": "https://hbr.org/2026/11/is-your-company-ready-for-decentralization"
-   },
-   {
-    "id": "9c39a94ba3a8",
-    "tema": "Empresa",
-    "titular": "To Land a C-Suite Job, Craft Your Career Story",
-    "resumen": "Landing a C-suite role takes more than an impressive resume and a record of strong results. Executive candidates need to develop a concise, compelling personal narrative that demonstrates not only ...",
-    "medio": "Harvard Business Review",
-    "fecha": "2026-11-09T05:15:00.000Z",
-    "url": "https://hbr.org/2026/11/to-land-a-c-suite-job-craft-your-career-story"
    },
    {
     "id": "5f29de4bd629",
@@ -337,13 +301,22 @@
     "url": "https://prnoticias.com/2026/11/18/atrevia-lanza-informes-semanales-de-variacion-de-narrativas-sociales-en-medios-y-redes/"
    },
    {
-    "id": "5df6bb179cd5",
+    "id": "b77358a5009e",
+    "tema": "Empresa",
+    "titular": "Rita McGrath, experta en estrategia de Columbia: \"Para pedir una subida salarial, utilizo el truco de la 'mamá osa'\"",
+    "resumen": "Profesora señalada en el ranking Thinkers50 como una de las mentes más influyentes del management, asesora a grandes firmas de Fortune 1000. Más información: Helen Blair Simpson, psiquiatra de la Univ ...",
+    "medio": "El Español",
+    "fecha": "2026-11-17T16:00:00.000Z",
+    "url": "https://www.elespanol.com/mujer/protagonistas/20261118/rita-mcgrath-experta-estrategia-columbia-pedir-subida-salarial-utilizo-truco-mama-osa/1003744461686_0.html"
+   },
+   {
+    "id": "c21bb0757f39",
     "tema": "Comunicación",
-    "titular": "ATREVIA refuerza su apuesta por la inteligencia de datos de cara al 29N",
-    "resumen": "POR REDACCIÓN, 17 DE NOVIEMBRE DE 2026 De cara a las elecciones generales que tendrá lugar en España el 29 de noviembre, ATREVIA ha lanzado un dispositivo especial de inteligencia de datos e investigación social para ofrecer a instituciones, medios, empresas…",
-    "medio": "Top Comunicación",
-    "fecha": "2026-11-17T14:46:32.000Z",
-    "url": "https://www.topcomunicacion.com/atrevia-refuerza-su-apuesta-por-la-inteligencia-de-datos-de-cara-al-29n/"
+    "titular": "Dircom inicia una nueva etapa: estrena denominación y sede en Madrid",
+    "resumen": "Tras su aprobación en la Asamblea General Extraordinaria del pasado 20 de octubre, la asociación pasa a denominarse Asociación Profesional de Directivos de Comunicación y Asuntos Corporativos, manteniendo Dircom como marca de referencia. Esta actualización…",
+    "medio": "Dircom",
+    "fecha": "2026-11-17T11:23:29.000Z",
+    "url": "https://www.dircom.org/2026/11/17/dircom-inicia-una-nueva-etapa-estrena-denominacion-y-sede/"
    }
   ]
  }
