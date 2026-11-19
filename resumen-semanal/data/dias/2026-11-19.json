@@ -1,35 +1,44 @@
 {
  "id": "2026-11-19",
  "titulo": "jueves, 19 de noviembre",
- "publicado": "2026-11-19T05:56:47.227Z",
+ "publicado": "2026-11-19T07:10:30.379Z",
  "secciones": {
   "mundo": [
    {
-    "id": "ffc2e49aacdc",
+    "id": "bd7f3b17c736",
     "tema": "Deporte",
-    "titular": "UEFA Women's Champions League Matchday 5 Wednesday highlights, round-up: Chelsea, Manchester City, Real Madrid and Juventus through",
-    "resumen": "Matchday 5 of the 2026/27 UEFA Women's Champions League kicked off on Wednesday, with four sides booking their spots in the knockout phase.",
-    "medio": "UEFA",
-    "fecha": "2026-11-18T14:14:00.000Z",
-    "url": "https://www.uefa.com/womenschampionsleague/news/02ab-221a71651fbd-4d9a4e74964a-1000--uefa-women-s-champions-league-matchday-5-wednesday-highli/"
-   },
-   {
-    "id": "f8e6526a6b31",
-    "tema": "Deporte",
-    "titular": "Valtteri Bottas: Cadillac confirm Finnish driver to stay with team for 2027 Formula 1 season ahead of Las Vegas Grand Prix",
-    "resumen": "Cadillac have confirmed Valtteri Bottas will stay on at the team for the 2027 Formula 1 season, ending speculation about the Finnish drivers future.",
+    "titular": "Formula 1 drivers back return of 'very cool' V8 engines in the future ahead of Las Vegas Grand Prix",
+    "resumen": "Several Formula 1 drivers have backed the possibility of V8 engines returning to the sport as early as 2030; watch the Las Vegas GP weekend on Sky Sports F1, with Fridays practice sessions at 12.30am ...",
     "medio": "Sky Sports",
-    "fecha": "2026-11-18T12:14:00.000Z",
-    "url": "https://www.skysports.com/f1/news/13611531/valtteri-bottas-cadillac-confirm-finnish-driver-to-stay-with-team-for-2027-formula-1-season-ahead-of-las-vegas-grand-prix"
+    "fecha": "2026-11-18T22:47:00.000Z",
+    "url": "https://www.skysports.com/f1/news/13613632/formula-1-drivers-back-return-of-very-cool-v8-engines-in-the-future-ahead-of-las-vegas-grand-prix"
    },
    {
-    "id": "8a2ac847a666",
+    "id": "20d2896ca1a0",
+    "tema": "Premios",
+    "titular": "A Glastonbury and Grammys 2027 Debrief",
+    "resumen": "It’s been a big week for music announcements, from the Glastonbury headliners to the Grammy Award Nominations. Show more It’s been a big week for music announcements, from the Glastonbury headliners ...",
+    "medio": "BBC",
+    "fecha": "2026-11-18T16:01:00.000Z",
+    "url": "https://www.bbc.co.uk/programmes/m0035ckg"
+   },
+   {
+    "id": "d030fefa78ad",
     "tema": "Deporte",
-    "titular": "Spanish FA chief: '2030 World Cup final can only be held in Spain'",
-    "resumen": "Spain's Football Federation president Rafael Louzán insists the 2030 World Cup final \"can and will only be held\" in the home of the reigning world champions.",
-    "medio": "ESPN",
-    "fecha": "2026-11-18T03:31:00.000Z",
-    "url": "https://www.espn.com/soccer/story/_/id/50519670/2030-world-cup-final-spain-portugal-morocco-infantino"
+    "titular": "Women's Champions League: Chelsea score late to see off Paris St-Germain",
+    "resumen": "Manchester City striker Vivianne Miedema joined Ellen and Ben on this week’s episode of BBC's Women's Football Weekly, covering the defeat to Chelsea on her return: \"I think it was a typical top of ...",
+    "medio": "BBC",
+    "fecha": "2026-11-18T06:02:00.000Z",
+    "url": "https://www.bbc.com/sport/football/live/c9zrdej3njdzt?page=9"
+   },
+   {
+    "id": "f559b7539001",
+    "tema": "Deporte",
+    "titular": "Fifa’s World Cup TV rights documents indicate hydration breaks will stay in 2030",
+    "resumen": "Fifa’s tender documents for TV rights for the 2030 World Cup reference the potential for broadcasters to sell adverts during hydration breaks ...",
+    "medio": "The Guardian",
+    "fecha": "2026-11-18T03:40:00.000Z",
+    "url": "https://www.theguardian.com/football/2026/nov/18/fifa-hydration-breaks-2030-world-cup-tv-right-documents"
    },
    {
     "id": "4877eaa478c0",
@@ -41,25 +50,16 @@
     "url": "https://www.rtve.es/noticias/20261117/premio-grammy-latino-mejor-diseno-empaque-vuela-bilbao-adrian-romero/17317777.shtml"
    },
    {
-    "id": "a623e395f576",
+    "id": "f18ec865dd22",
     "tema": "Premios",
-    "titular": "Grammys 2027: the nominations in all the major categories",
-    "resumen": "With numerous nods for Raye, Rosalía, Olivia Rodrigo, Olivia Dean and others, check out the nominated artists for the 2027 Grammy awards for album of the year and more ...",
-    "medio": "The Guardian",
-    "fecha": "2026-11-16T13:14:00.000Z",
-    "url": "https://www.theguardian.com/music/2026/nov/16/grammy-nominations-2027-album-of-the-year"
+    "titular": "Ganó un Oscar a los 72 años y celebró el premio de una forma que nadie esperaba",
+    "resumen": "Con motivo de los 20 años de la muerte de Jack Palance, Sucedió una noche dedicó un programa especial a un actor al que la mayoría del público identifica con personajes de villano. Nos contaban su pro ...",
+    "medio": "Cadena SER",
+    "fecha": "2026-11-17T03:46:00.000Z",
+    "url": "https://cadenaser.com/nacional/2026/11/17/gano-un-oscar-a-los-72-anos-y-celebro-el-premio-de-una-forma-que-nadie-esperaba-cadena-ser/"
    }
   ],
   "espana": [
-   {
-    "id": "31305ea1e8b6",
-    "tema": "Deporte",
-    "titular": "No es 2/3, sino 2/5: Carlos Alcaraz coge velocidad de crucero... si el cuerpo se lo permite en las ATP Finals",
-    "resumen": "El tenista español sigue demostrando por qué es el rival a batir en las ATP Finals, pero un inesperado problema físico en su pierna izquierda, por el que tuvo que ser atendido y vendado, deja ciertas",
-    "medio": "El Confidencial",
-    "fecha": "2026-11-18T21:00:00.000Z",
-    "url": "https://www.elconfidencial.com/deportes/tenis/2026-11-19/carlos-alcaraz-atp-finals-titulo-alexander-zverev-pista-rapida-indoor_4467444/"
-   },
    {
     "id": "fef43bf8872c",
     "tema": "Deporte",
@@ -79,13 +79,13 @@
     "url": "https://www.elespanol.com/el-cultural/20261119/tupac-rosalia-gta-saga-convertido-emisoras-radio-escaparate-musical/1003744463451_0.html"
    },
    {
-    "id": "867ea8ced06d",
+    "id": "fb82c50badaa",
     "tema": "Deporte",
-    "titular": "La victoria de Tiafoe ante Cobolli clasifica a Alcaraz para semifinales como primero de grupo",
-    "resumen": "Frances Tiafoe, víctima de Carlos Alcaraz el lunes en la primera jornada del grupo Ivan Lendll, mantiene intactas sus opciones de clasificación tras derrotar este miércoles a Flavio Cobolli, por 7-6 (6) y 6-0. El italiano queda eliminado y Tiaofe se la jugará…",
-    "medio": "Marca",
-    "fecha": "2026-11-18T13:35:00.000Z",
-    "url": "https://www.marca.com/tenis/copa-masters/2026/11/18/victoria-tiafoe-cobolli-clasifica-alcaraz-primero-grupo.html"
+    "titular": "Alcaraz vence a Medvedev y se acerca a las semifinales de Turín pese a unas molestias en el muslo",
+    "resumen": "Carlos Alcaraz se ha impuesto a Daniil Medvedev en la rápida pista de Turín y está ya muy cerca de las semifinales. El murciano ha ganado en dos sets",
+    "medio": "El País",
+    "fecha": "2026-11-18T16:01:00.000Z",
+    "url": "https://elpais.com/expres/2026-11-19/alcaraz-vence-a-medvedev-y-se-acerca-a-las-semifinales-de-turin-pese-a-unas-molestias-en-el-muslo.html"
    },
    {
     "id": "cafc72adb548",
@@ -97,13 +97,31 @@
     "url": "https://www.elperiodico.com/es/tele/yotele/20261118/benidorm-fest-2027-fecha-precio-entradas-rtve-pone-136590183"
    },
    {
-    "id": "21832f86fcd3",
+    "id": "c2217c4abec9",
+    "tema": "Deporte",
+    "titular": "Martínez Valero – 25.562 espectadores",
+    "resumen": "© Quedan reservados todos los derechos tanto sobre programas radiofónicos y las obras y prestaciones que formen parte de ellos, como sobre los contenidos publicados ...",
+    "medio": "Cadena SER",
+    "fecha": "2026-11-18T06:45:00.000Z",
+    "url": "https://cadenaser.com/resultados/futbol/primera/2026_2027/jornada/regular_a_4/"
+   },
+   {
+    "id": "349c1aad01c2",
+    "tema": "Premios",
+    "titular": "Roberto Álamo, ganador de dos Goya, recibirá el Premio FICC55 del Festival de Cine de Cartagena",
+    "resumen": "El actor Roberto Álamo, ganador de dos Premios Goya y un Premio Max, recibirá el Premio FICC55 del Festival Internacional de Cine de Cartagena (FICC) en reconocimiento a sus tres décadas de trayectori ...",
+    "medio": "Europa Press",
+    "fecha": "2026-11-18T01:38:00.000Z",
+    "url": "https://www.europapress.es/murcia/noticia-roberto-alamo-ganador-dos-goya-recibira-premio-ficc55-festival-cine-cartagena-20261118093801.html"
+   },
+   {
+    "id": "47dcf7175913",
     "tema": "Música",
-    "titular": "El festival Glastonbury anuncia su cartel para 2027 con Harry Styles, Billie Eilish, Sam Fender y Cher a la cabeza",
-    "resumen": "Este famoso festival al aire libre regresará del 23 al 27 de junio de 2027 en la granja Worthy, en Pilton (Somerset, oeste inglés).",
-    "medio": "20minutos",
-    "fecha": "2026-11-18T03:35:00.000Z",
-    "url": "https://www.20minutos.es/musica/festival-glastonbury-anuncia-su-cartel-para-2027-con-harry-styles-billie-eilish-sam-fender-cher-cabeza_7062583_0.html"
+    "titular": "Rosalía confirma su salto a Hollywood: rodará la película 'Wet' con Javier Bardem",
+    "resumen": "Actuará bajo las órdenes de la directora Alma Har'el junto a otras actrices como Rebecca Ferguson y Odessa A'zionl ...",
+    "medio": "ABC",
+    "fecha": "2026-11-17T07:26:00.000Z",
+    "url": "https://www.abc.es/gente/rosalia-confirma-salto-hollywood-rodara-pelicula-wet-20261117161318-nt.html"
    },
    {
     "id": "77ad4a62275b",
@@ -113,18 +131,18 @@
     "medio": "Sport",
     "fecha": "2026-11-16T14:17:00.000Z",
     "url": "https://www.sport.es/es/videos/premio-valores/20261116/rafa-nadal-recibido-premio-valores/136517863.shtml"
-   },
-   {
-    "id": "e4bfa6f867cd",
-    "tema": "Arte y libros",
-    "titular": "El Museo del Prado indaga en la huella del arte español en la obra del poeta Rainer Maria Rilke",
-    "resumen": "Madrid, 16 nov (EFE).- El Museo Nacional del Prado ha presentado hoy la muestra \"Rainer Maria Rilke y el arte español\", una exposición que llega con motivo del centenario del fallecimiento del poeta y ...",
-    "medio": "ABC",
-    "fecha": "2026-11-16T06:06:00.000Z",
-    "url": "https://www.abc.es/cultura/arte/museo-prado-indaga-huella-arte-espanol-obra-20261116150709-nt.html"
    }
   ],
   "belgica": [
+   {
+    "id": "27bc54b56ace",
+    "tema": "Arte y libros",
+    "titular": "Que faire ce week-end en Belgique ? Notre agenda des 21 et 22 novembre",
+    "resumen": "On fait quoi ce week-end ? Le Vif Weekend vous donne des idées pour passer du bon temps, à Bruxelles et en Wallonie. Bon amusement !",
+    "medio": "Le Vif",
+    "fecha": "2026-11-18T16:01:00.000Z",
+    "url": "https://weekend.levif.be/voyage/belgique-alentours/agenda-week-end-belgique-2/"
+   },
    {
     "id": "1b7597927b49",
     "tema": "Deporte",
@@ -151,15 +169,6 @@
     "medio": "Le Soir",
     "fecha": "2026-11-18T07:25:00.000Z",
     "url": "https://www.lesoir.be/783483/article/2026-11-18/la-date-de-vente-et-le-prix-des-tickets-pour-tomorrowland-2027-sont-disponibles"
-   },
-   {
-    "id": "2b3c19ed5b2c",
-    "tema": "Arte y libros",
-    "titular": "Les activités du week-end du 20 au 22 novembre en Wallonie et à Bruxelles",
-    "resumen": "Musique Le Listen Festival fête son 10e anniversaire avec 24 h de musique non-stop Du samedi 21 novembre à 14h ...",
-    "medio": "RTBF",
-    "fecha": "2026-11-18T05:01:00.000Z",
-    "url": "https://www.rtbf.be/article/les-activites-du-week-end-du-20-au-22-novembre-en-wallonie-et-a-bruxelles-11815847"
    },
    {
     "id": "30c29b9ea6ce",
@@ -189,13 +198,13 @@
     "url": "https://www.brusselstimes.com/eu-affairs/2412682/uk-rejoins-erasmus-as-e5-3b-fund-expands-opportunities-for-1-6m-people/"
    },
    {
-    "id": "8fb8f6ba18cb",
+    "id": "97f6b53179e2",
     "tema": "País",
-    "titular": "Non-EU au pairs in Flanders must earn at least €1,000 per month from now on",
-    "resumen": "Au pairs coming to Flanders will now have to be paid at least €1,000 a month – up from €450 previously, announced Flemish Employment Minister Zuhal Demir (N-VA). The potential exploitation of live-in ...",
+    "titular": "Interallié Prize goes to France's Jessica L. Nelson",
+    "resumen": "French writer Jessica L. Nelson wins the 2026 Prix Interallié for ‘Les Amants du Vercors’, a novel about a love triangle during the Second World War.",
     "medio": "The Brussels Times",
     "fecha": "2026-11-17T16:00:00.000Z",
-    "url": "https://www.brusselstimes.com/art-culture/2411228/non-eu-au-pairs-in-flanders-must-earn-at-least-e1000-per-month-from-now-on"
+    "url": "https://www.brusselstimes.com/art-culture/2413131/interallie-prize-goes-to-frances-jessica-l-nelson"
    }
   ],
   "marcas": [
@@ -207,6 +216,15 @@
     "medio": "El Confidencial",
     "fecha": "2026-11-18T21:00:00.000Z",
     "url": "https://www.vanitatis.elconfidencial.com/vida-saludable/2026-11-19/limpiahogar-mercadona-limpieza-casa-aloe-vera-1qrt_4458308/"
+   },
+   {
+    "id": "c3e16172f0ab",
+    "tema": "Marcas globales",
+    "titular": "Workers Discrimination Claim Against McDonald’s",
+    "resumen": "A former McDonald's worker calls on the firm to 'change the way they treat younger employees' as a judge rules a legal case against the chain can go ahead.",
+    "medio": "BBC",
+    "fecha": "2026-11-18T16:01:00.000Z",
+    "url": "https://www.bbc.co.uk/programmes/l005947h"
    },
    {
     "id": "79179b730192",
@@ -245,6 +263,15 @@
     "url": "https://www.adweek.com/commerce/can-media-budgets-go-big-on-brand-building-and-still-drive-sales/"
    },
    {
+    "id": "5b71e7009cb0",
+    "tema": "Marcas globales",
+    "titular": "Netflix to Adapt ‘Grendel’ Comic Books Into Adult Animated TV Series",
+    "resumen": "Widow’s Bay' producer Bobak Esfarjani will showrun, write and executive produce the series based on Matt Wagner’s dark vigilante creation.",
+    "medio": "The Hollywood Reporter",
+    "fecha": "2026-11-18T03:51:00.000Z",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-adapt-grendel-comic-books-adult-animated-tv-series-1236758655/"
+   },
+   {
     "id": "7efe15fa016d",
     "tema": "Marcas en España",
     "titular": "Iberia y el puente Madrid-Buenos Aires: 80 años conectando familias",
@@ -252,27 +279,18 @@
     "medio": "ABC",
     "fecha": "2026-11-16T09:32:00.000Z",
     "url": "https://www.abc.es/viajar/iberia-puente-madridbuenos-aires-anos-conectando-familias-20261116183224-nt.html"
-   },
-   {
-    "id": "7812d4d17571",
-    "tema": "Marcas globales",
-    "titular": "Nike to become UEFA men’s club competition official match ball provider",
-    "resumen": "UC3 today confirmed that Nike will become the official match ball provider for UEFA men’s club competitions from 2027 to 2031. From the 2027/28 season, Nike will supply the official match balls for ...",
-    "medio": "UEFA",
-    "fecha": "2026-11-16T01:54:00.000Z",
-    "url": "https://www.uefa.com/news-media/news/02ab-221562cefbb9-01eaea9da2d2-1000--nike-to-become-uefa-men-s-club-competition-official-matc/"
-   },
-   {
-    "id": "b24ba7ef8136",
-    "tema": "Marcas globales",
-    "titular": "Apple MacBook Pro M6 review: probably the last of its generation",
-    "resumen": "Spec bump adds power to exceptionally long battery life in base-model Pro laptop, but is overshadowed by a new design ...",
-    "medio": "The Guardian",
-    "fecha": "2026-11-15T23:02:00.000Z",
-    "url": "https://www.theguardian.com/technology/2026/nov/16/apple-macbook-pro-m6-review-battery-laptop"
    }
   ],
   "comunicacion": [
+   {
+    "id": "31d71867476f",
+    "tema": "Empresa",
+    "titular": "5 Habits for Keeping Up with an Ever-Increasing Workload",
+    "resumen": "Find new ideas and classic advice on strategy, innovation and leadership, for global leaders from the world's best business and management experts.",
+    "medio": "Harvard Business Review",
+    "fecha": "2026-11-18T22:49:00.000Z",
+    "url": "https://hbr.org/?term=team+1+amortization"
+   },
    {
     "id": "189c2c1d457c",
     "tema": "Empresa",
@@ -290,15 +308,6 @@
     "medio": "Harvard Business Review",
     "fecha": "2026-11-18T02:54:00.000Z",
     "url": "https://hbr.org/?term=olsen+valores+de+mercado"
-   },
-   {
-    "id": "19c7238e1300",
-    "tema": "Empresa",
-    "titular": "Tell Your Career Story in an Executive Interview",
-    "resumen": "In a C-suite interview, your track record can help the hiring team picture how you’d lead their company. As you prepare, think about what the company needs from its next executive and choose a recent ...",
-    "medio": "Harvard Business Review",
-    "fecha": "2026-11-17T21:00:00.000Z",
-    "url": "https://hbr.org/tip/2026/11/tell-your-career-story-in-an-executive-interview"
    },
    {
     "id": "10c2aeb50c72",
