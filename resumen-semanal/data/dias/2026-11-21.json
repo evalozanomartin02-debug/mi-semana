@@ -1,7 +1,7 @@
 {
  "id": "2026-11-21",
  "titulo": "sábado, 21 de noviembre",
- "publicado": "2026-11-21T05:51:30.776Z",
+ "publicado": "2026-11-21T06:58:32.735Z",
  "secciones": {
   "mundo": [
    {
@@ -14,6 +14,15 @@
     "url": "https://as.com/futbol/internacional/saltan-las-alarmas-con-el-balon-de-oro-f202611-n/"
    },
    {
+    "id": "69ec1e5bd15a",
+    "tema": "Música",
+    "titular": "Banda sonora de ‘Grand Theft Auto VI’, Myke Towers & Rauw Alejandro y más: Tu Guía de Nueva Música",
+    "resumen": "Descubre los lanzamientos musicales de la semana: GTA VI, TOMORROW X TOGETHER, Myke Towers y Rauw Alejandro: Tú Guía de Nuéva Música.",
+    "medio": "Billboard",
+    "fecha": "2026-11-20T09:12:00.000Z",
+    "url": "https://www.billboard.com/espanol/musica/grand-theft-auto-vi-myke-towers-rauw-alejandro-nueva-musica-1236386524/"
+   },
+   {
     "id": "75c7433ae59e",
     "tema": "Deporte",
     "titular": "Los datos y estadísticas del Atleti - Viking de la jornada 5 de la UEFA Champions League",
@@ -23,13 +32,13 @@
     "url": "https://es.uefa.com/uefachampionsleague/news/02ab-221dc6b89324-070899322f88-1000--los-datos-y-estadisticas-del-atleti-viking-de-la-jornada/"
    },
    {
-    "id": "ce23546f6dbd",
+    "id": "61290f3dab83",
     "tema": "Deporte",
-    "titular": "Libres 3 F1: Gran Premio de Las Vegas",
-    "resumen": "«Libres 3 F1: Gran Premio de Las Vegas» se emite mañana, sábado 21 de noviembre, a las 01:30 (hora peninsular), en DAZN Fórmula 1, y termina a las 02:30. Tercera sesión de entrenamientos libres de ...",
+    "titular": "Previo Libres 3 F1: Gran Premio de Las Vegas",
+    "resumen": "Previo de la tercera sesión de entrenamientos libres de Fórmula 1. En DAZN Fórmula 1, sábado 21 de noviembre a las 01:00.",
     "medio": "Mundo Deportivo",
     "fecha": "2026-11-20T03:42:00.000Z",
-    "url": "https://www.mundodeportivo.com/guia-tv/programa/libres-3-f1-gran-premio-de-las-vegas-dazn-formula-1"
+    "url": "https://www.mundodeportivo.com/guia-tv/programa/previo-libres-3-f1-gran-premio-de-las-vegas-dazn-formula-1"
    },
    {
     "id": "96a90b8bf71f",
@@ -59,25 +68,25 @@
     "url": "https://www.elmundo.es/loc/celebrities/2026/11/19/6aff4474fc6c83506b8b4571.html"
    },
    {
-    "id": "6ce2d93732f0",
-    "tema": "Deporte",
-    "titular": "Fifa sparks tension with demand for tax-free status in UK for Women’s World Cup",
-    "resumen": "Fifa is at loggerheads with the UK’s government and four domestic Football Associations over its demand for tax-free status and exemptions from exchange-rate fees ...",
-    "medio": "The Guardian",
-    "fecha": "2026-11-19T10:27:00.000Z",
-    "url": "https://www.theguardian.com/football/2026/nov/19/fifa-demand-tax-free-status-in-uk-womens-world-cup-2035-government"
-   },
-   {
-    "id": "f5b1c941061d",
-    "tema": "Cine y series",
-    "titular": "Ni ‘Suits’ ni ‘El abogado del Lincoln’, esta película de Netflix estrenada en el Festival de Venecia se ha colado en el top-3 de lo más visto en España",
-    "resumen": "Hablamos de ‘Un buen abogado’, un drama estrenado el pasado 9 de noviembre y que dirige el cineasta Tristan Séguéla, quien también firma el guion junto a Simon Jacquet y Marcia Romano. A lo largo de ...",
-    "medio": "Marca",
-    "fecha": "2026-11-19T00:52:00.000Z",
-    "url": "https://www.marca.com/tiramillas/cine/2026/11/19/suits-abogado-lincoln-pelicula-netflix-estrenada-festival-venecia-colado-top-3-visto-espana.html"
+    "id": "ca268ee5bf7f",
+    "tema": "Personalidades",
+    "titular": "Muere La Fixa Pilar, cantante urbana e influencer chilena a los 61 años: qué le pasó y reacciones a su fallecimiento",
+    "resumen": "La artista se transformó en una reconocida figura de las redes sociales y posteriormente dio el salto a la música urbana. Su muerte provocó numerosos mensaj ...",
+    "medio": "AS",
+    "fecha": "2026-11-19T11:34:00.000Z",
+    "url": "https://chile.as.com/tikitakas/muere-la-fixa-pilar-cantante-urbana-e-influencer-chilena-a-los-61-anos-que-le-paso-y-reacciones-a-su-fallecimiento-f202611-n/"
    }
   ],
   "espana": [
+   {
+    "id": "4047a71c0b4d",
+    "tema": "Deporte",
+    "titular": "Marc Márquez y Ducati no quieren distracciones",
+    "resumen": "Frente al ruido, silencio. O, al menos, pocas palabras, pero las justas. Marc Márquez y Ducati no quieren que nada los distraigan del ‘gran premio’ que pueden lograr en Portimao, que no es otro que ...",
+    "medio": "Marca",
+    "fecha": "2026-11-20T21:33:00.000Z",
+    "url": "https://www.marca.com/motor/motogp/gp-portugal/2026/11/21/marc-marquez-ducati-quieren-distracciones.html"
+   },
    {
     "id": "f35c8f2b1c81",
     "tema": "Música",
@@ -86,6 +95,15 @@
     "medio": "ABC",
     "fecha": "2026-11-20T16:00:00.000Z",
     "url": "https://www.abc.es/cultura/rosalia-arrasa-music-awards-cuatro-galardones-desparpajo-20261121024045-nt.html"
+   },
+   {
+    "id": "43706c04eac6",
+    "tema": "Deporte",
+    "titular": "Resultados F1: parrilla de salida del GP de Las Vegas y Mundial",
+    "resumen": "Verstappen partirá desde la pole al beneficiarse de una sanción a Antonelli, el más rápido. Sainz acabó 14º y Alonso, 19º..",
+    "medio": "AS",
+    "fecha": "2026-11-20T16:00:00.000Z",
+    "url": "https://as.com/motor/formula_1/resultados-f1-parrilla-de-salida-del-gp-de-las-vegas-y-mundial-f202611-n/"
    },
    {
     "id": "6bb973735b5c",
@@ -97,13 +115,13 @@
     "url": "https://www.sport.es/es/noticias/espanyol/athletic-club-bilbao-espanyol-directo-136680306"
    },
    {
-    "id": "b5f6e55f4a38",
-    "tema": "Deporte",
-    "titular": "Barcelona vs Villarreal: pronóstico, cuotas y alineaciones posibles | LaLiga",
-    "resumen": "ContenidoPronósticos RápidosPronósticos para el FC Barcelona-Villarreal: cuatro apuestas centradas en los golesAnálisis del partido: la pegada del Barça frente a las concesiones defensivas del Villarr ...",
-    "medio": "Mundo Deportivo",
-    "fecha": "2026-11-20T14:49:00.000Z",
-    "url": "https://www.mundodeportivo.com/guias-de-juego/pronosticos/barcelona-vs-villarreal-pronostico-cuotas-y-alineaciones-posibles-laliga-22-11-26/"
+    "id": "f2e54d29f641",
+    "tema": "Música",
+    "titular": "Rosalía sobre el 29N: \"Es un momento delicado; ojalá vaya a mejor, porque hace falta\"",
+    "resumen": "Rosalía asegura que España vive \"un momento delicado\" y confía en que la situación mejore, durante su paso por el Preshow de LOS40 Music Awards Santander 2026 | Cadena SER ...",
+    "medio": "Cadena SER",
+    "fecha": "2026-11-20T11:38:00.000Z",
+    "url": "https://cadenaser.com/nacional/2026/11/20/rosalia-sobre-el-29n-es-un-momento-delicado-ojala-vaya-a-mejor-porque-hace-falta-cadena-ser/"
    },
    {
     "id": "9920ac3c8367",
@@ -115,15 +133,6 @@
     "url": "https://www.elmundo.es/television/series/2026/11/20/6b00884be4d4d8ed7b8b4578.html"
    },
    {
-    "id": "4a8eae1cff07",
-    "tema": "Arte y libros",
-    "titular": "Museo del Prado \"ahonda\" en los grandes maestros de tradición occidental con una muestra dedicada a Hans Baldung Grien",
-    "resumen": "El Museo Nacional del Prado ha \"ahondado\" en una de sus \" líneas principales \", el estudio de los grandes maestros de la tradición occidental, con la muestra dedicada al pintor Hans Baldung Grien, ...",
-    "medio": "Europa Press",
-    "fecha": "2026-11-20T05:30:00.000Z",
-    "url": "https://www.europapress.es/cultura/exposiciones-00131/noticia-museo-prado-ahonda-grandes-maestros-tradicion-occidental-muestra-dedicada-hans-baldung-grien-20261120133026.html"
-   },
-   {
     "id": "4ce935dbc9a5",
     "tema": "Música",
     "titular": "Alejandro Sanz anuncia '¿Y ahora qué +?', una nueva gira por España para 2027: \"Otro verano juntos\"",
@@ -133,24 +142,51 @@
     "url": "https://www.20minutos.es/musica/alejandro-sanz-anuncia-ahora-que-una-nueva-gira-por-espana-para-2027-otro-verano-juntos_7063553_0.html"
    },
    {
-    "id": "129a500f9857",
-    "tema": "Deporte",
-    "titular": "Esta es la última lista del año de España: grandes ausencias y un sonado regreso",
-    "resumen": "Sonia Bermúdez ha anunciado la renovada lista de convocadas de la selección española para los dos compromisos internacionales, amistosos, ante Chile y Venezuela, que ...",
-    "medio": "Mundo Deportivo",
-    "fecha": "2026-11-20T02:48:00.000Z",
-    "url": "https://www.mundodeportivo.com/futbol/femenino/20261120/1004253320/ultima-lista-ano-espana-grandes-ausencias-sonado-regreso.html"
+    "id": "21da9d742d55",
+    "tema": "Arte y libros",
+    "titular": "El Museo del Prado celebra este jueves su 207 aniversario con entrada gratuita",
+    "resumen": "El Museo Nacional del Prado celebra este jueves su 207 aniversario con una jornada de puertas abiertas que permite visitar gratuitamente la colección permanente y las exposiciones temporales, ...",
+    "medio": "Europa Press",
+    "fecha": "2026-11-19T07:12:00.000Z",
+    "url": "https://www.europapress.es/cultura/exposiciones-00131/noticia-museo-prado-celebra-jueves-207-aniversario-entrada-gratuita-20261119151321.html"
    }
   ],
   "belgica": [
    {
-    "id": "84b22ea4d6a5",
+    "id": "001ffa109910",
     "tema": "Deporte",
-    "titular": "Marc Coucke dément un retour de Romelu Lukaku à Anderlecht cet hiver : « C’est quelqu’un de loyal »",
-    "resumen": "Sur le plateau de VTM, Marc Coucke a mis les choses au clair par rapport à un éventuel transfert de Romelu Lukaku à Anderlecht cet hiver.",
+    "titular": "« L’Union savait même que j’avais ouvert une épicerie avec mon frère » : Ilan Hurtevent se dévoile avant ses retrouvailles avec Courtrai",
+    "resumen": "Avant de retrouver le KVK ce dimanche, le jeune attaquant saint-gillois de 21 ans revient sur son parcours hors du commun, lui qui a connu deux faillites ainsi qu’un passage en troisième division.",
     "medio": "Le Soir",
-    "fecha": "2026-11-20T13:35:00.000Z",
-    "url": "https://www.lesoir.be/784030/article/2026-11-20/marc-coucke-dement-un-retour-de-romelu-lukaku-anderlecht-cet-hiver-cest-quelquun"
+    "fecha": "2026-11-20T22:00:00.000Z",
+    "url": "https://www.lesoir.be/784049/article/2026-11-21/lunion-savait-meme-que-javais-ouvert-une-epicerie-avec-mon-frere-ilan-hurtevent"
+   },
+   {
+    "id": "8cbcf4b0b4ed",
+    "tema": "Deporte",
+    "titular": "Anderlecht : \"Je ne connaissais pas la règle\", \"J'ai déjà trois Lukaku\", voici ce qu'on retient de la sortie de Vitor Bruno",
+    "resumen": "Vitor Bruno a étonné en avouant qu'il ne connaissait pas la règle l'obligeant à aligner six joueurs formés en Belgique sur sa feuille de match.",
+    "medio": "DH",
+    "fecha": "2026-11-20T16:00:00.000Z",
+    "url": "https://www.dhnet.be/sports/football/division-1a/anderlecht/2026/11/21/anderlecht-je-ne-connaissais-pas-la-regle-jai-deja-trois-lukaku-voici-ce-quon-retient-de-la-sortie-de-vitor-bruno-37ZDT6ODTZA7XO2BP2N4ATM254/"
+   },
+   {
+    "id": "8ae21f921636",
+    "tema": "País",
+    "titular": "Weekend break: Rolling to Roeselaere",
+    "resumen": "Roeselare is also the annual starting point for Dwars Door Vlaanderen, a semi-classic on the UCI World Tour. Less competitive cyclists can follow numerous signposted routes in and around the city. The ...",
+    "medio": "The Brussels Times",
+    "fecha": "2026-11-20T16:00:00.000Z",
+    "url": "https://www.brusselstimes.com/magazine/2416097/weekend-break-rolling-to-roeselaere"
+   },
+   {
+    "id": "bb59c2ef914e",
+    "tema": "País",
+    "titular": "When Jimi Hendrix experienced Mouscron",
+    "resumen": "Before he became a rock god, Jimi Hendrix had a Belgian experience. In March 1967, the guitar hero turned up, tuned up and cranked the volume up a tiny upstairs club in Mouscron.",
+    "medio": "The Brussels Times",
+    "fecha": "2026-11-20T16:00:00.000Z",
+    "url": "https://www.brusselstimes.com/magazine/2416248/when-jimi-hendrix-experienced-mouscron"
    },
    {
     "id": "c345ed294d36",
@@ -171,15 +207,6 @@
     "url": "https://www.lesoir.be/784008/article/2026-11-20/ne-dites-plus-mannschaft-klopp-la-der-de-van-bommel-six-choses-savoir-sur"
    },
    {
-    "id": "9dc0b0dabe01",
-    "tema": "Deporte",
-    "titular": "Le Topper s’est rejoué devant le conseil disciplinaire : Bruges réclame un forfait, jugé « disproportionné » par Anderlecht",
-    "resumen": "Le Topper s’est rejoué devant le conseil disciplinaire de l’Union belge vendredi. Le Club Bruges, Anderlecht mais aussi l’Union ont plaidé leur cause. La décision sera annoncée dans le courant du mois ...",
-    "medio": "Le Soir",
-    "fecha": "2026-11-20T07:45:00.000Z",
-    "url": "https://www.lesoir.be/783949/article/2026-11-20/le-topper-sest-rejoue-devant-le-conseil-disciplinaire-bruges-reclame-un-forfait"
-   },
-   {
     "id": "b79023e73950",
     "tema": "País",
     "titular": "5 marchés de Noël à ne pas manquer cet hiver en Wallonie",
@@ -187,24 +214,6 @@
     "medio": "RTBF",
     "fecha": "2026-11-20T01:01:00.000Z",
     "url": "https://www.rtbf.be/article/5-marches-de-noel-a-ne-pas-manquer-cet-hiver-en-wallonie-11818210"
-   },
-   {
-    "id": "4b6092f3fc96",
-    "tema": "País",
-    "titular": "Manifestation nationale et grève du 23 novembre : à quoi s’attendre dans les trains, bus et métros ?",
-    "resumen": "Une journée de manifestation nationale est attendue ce lundi 23 novembre. Organisée par les syndicats CSC, FGTB et Synova, elle rassemblera des milliers de manifestants à Bruxelles pour protester ...",
-    "medio": "RTBF",
-    "fecha": "2026-11-19T21:18:00.000Z",
-    "url": "https://www.rtbf.be/article/manifestation-nationale-et-greve-du-23-novembre-a-quoi-s-attendre-dans-les-trains-bus-et-metros-11817872"
-   },
-   {
-    "id": "2dd414839832",
-    "tema": "País",
-    "titular": "Recupel: The trusted partner in recycling broken electronics, with 300+ collection points in Brussels",
-    "resumen": "That’s where Recupel comes in: a Belgian non-profit organisation that ensures every broken or outdated electronic device is collected and recycled safely, locally, and responsibly. With more than 300 ...",
-    "medio": "The Brussels Times",
-    "fecha": "2026-11-19T16:00:00.000Z",
-    "url": "https://www.brusselstimes.com/2416510/recupel-the-trusted-partner-in-recycling-broken-electronics-with-300-collection-points-in-brussels-2/"
    },
    {
     "id": "84cc6412bee8",
@@ -218,13 +227,13 @@
   ],
   "marcas": [
    {
-    "id": "e53592bde867",
+    "id": "acb13af42458",
     "tema": "Marcas en España",
-    "titular": "Las faldas de cuadros están en tendencia: los 8 diseños más elegantes de Zara, Mango y Stradivarius",
-    "resumen": "Las faldas de cuadros se llevan, y mucho, esta temporada. Es uno de los diseños en tendencia e idóneos, no solo si quieres vestir bien, sino también para lucir actual y ...",
-    "medio": "El Mundo",
-    "fecha": "2026-11-20T15:19:00.000Z",
-    "url": "https://www.elmundo.es/yodona/moda/2026/11/21/6afb1cace4d4d8de128b4583.html"
+    "titular": "El crecimiento de Mercadona impulsa a siete grandes fabricantes por encima de los 1.000 millones de euros en ventas",
+    "resumen": "Empresas como Casa Tarradellas, COVAP o Importaco han doblado su tamaño en los últimos 10 años gracias a su alianza con la compañía de supermercados ...",
+    "medio": "Cinco Días",
+    "fecha": "2026-11-20T16:00:00.000Z",
+    "url": "https://cincodias.elpais.com/companias/2026-11-21/el-crecimiento-de-mercadona-impulsa-a-siete-grandes-fabricantes-por-encima-de-los-1000-millones-de-euros-en-ventas.html/"
    },
    {
     "id": "feaf36786f5e",
