@@ -1,9 +1,18 @@
 {
  "id": "2026-11-22",
  "titulo": "domingo, 22 de noviembre",
- "publicado": "2026-11-22T05:52:36.590Z",
+ "publicado": "2026-11-22T06:58:15.579Z",
  "secciones": {
   "mundo": [
+   {
+    "id": "b0a7574c4633",
+    "tema": "Premios",
+    "titular": "Las solistas jóvenes dominan cada vez más las principales categorías de los Grammy",
+    "resumen": "Beyoncé, Adele y Taylor Swift son las caras más visibles del creciente dominio de las solistas en la música anglosajona, tendencia que las nominaciones a los próximos premios Grammy han refrendado. La ...",
+    "medio": "La Vanguardia",
+    "fecha": "2026-11-21T22:00:00.000Z",
+    "url": "https://www.lavanguardia.com/cultura/20261122/11689809/solistas-jovenes-dominan-principales-categorias-grammy.html"
+   },
    {
     "id": "500e79421886",
     "tema": "Premios",
@@ -14,31 +23,31 @@
     "url": "https://www.theguardian.com/culture/audio/2026/nov/22/grammy-snubs-and-a-stevie-wonder-vs-lauryn-hill-showdown-the-close-up-culture-swap"
    },
    {
-    "id": "b0a7574c4633",
-    "tema": "Premios",
-    "titular": "Las solistas jóvenes dominan cada vez más las principales categorías de los Grammy",
-    "resumen": "Beyoncé, Adele y Taylor Swift son las caras más visibles del creciente dominio de las solistas en la música anglosajona, tendencia que las nominaciones a los próximos premios Grammy han refrendado. La ...",
-    "medio": "La Vanguardia",
-    "fecha": "2026-11-21T08:00:00.000Z",
-    "url": "https://www.lavanguardia.com/cultura/20261122/11689809/solistas-jovenes-dominan-principales-categorias-grammy.html"
-   },
-   {
-    "id": "a6d0b29f0c45",
-    "tema": "Cine y series",
-    "titular": "La serie de ocho capítulos que es Top 10 en España y que Netflix renovó sólo 13 días después de su estreno",
-    "resumen": "Las plataformas de 'streaming' estrenan nuevas producciones a un ritmo frenético, por lo que a menudo muchas de ellas caen en el olvido a los pocos días de su ...",
-    "medio": "Mundo Deportivo",
-    "fecha": "2026-11-21T06:10:00.000Z",
-    "url": "https://www.mundodeportivo.com/elotromundo/television/20261121/1004253733/serie-ocho-capitulos-top-10-espana-netflix-renovo-solo-13-dias-estreno-tvp-dct.html"
-   },
-   {
-    "id": "629f5c29ca0d",
+    "id": "cd737ae461cf",
     "tema": "Deporte",
-    "titular": "Sprint F1: Gran Premio de Singapur 2025",
-    "resumen": "Sprint F1: Gran Premio de Singapur 2025 en DAZN Fórmula 1, lunes 23 de noviembre a las 19:45. Automovilismo en televisión. Horarios y ficha completa.",
+    "titular": "Man Utd's Jariyah Shah giving the Joeys a bounce at U17 World Cup",
+    "resumen": "Manchester United midfielder Jariyah Shah is embracing life with the Joeys as he chases World Cup success on football's biggest youth stage.",
+    "medio": "ESPN",
+    "fecha": "2026-11-21T16:56:00.000Z",
+    "url": "https://www.espn.com/soccer/story/_/id/50556106/man-utds-jariyah-shah-giving-joeys-bounce-u17-world-cup"
+   },
+   {
+    "id": "bf3f551e499a",
+    "tema": "Cine y series",
+    "titular": "Más de 7 millones de visualizaciones en dos semanas: una serie de Netflix de solo ocho episodios que está arrasando en 41 países (incluido España)",
+    "resumen": "La ficción polaca, al igual que sucede con las producciones españolas, ha encontrado en Netflix su mejor aliado para exportar su arte al resto del mundo. Y algunas de ...",
+    "medio": "El Mundo",
+    "fecha": "2026-11-21T06:00:00.000Z",
+    "url": "https://www.elmundo.es/television/series/2026/11/21/6afd837ce4d4d8857e8b4579.html"
+   },
+   {
+    "id": "1f5606580814",
+    "tema": "Deporte",
+    "titular": "El Post de la Fórmula 1: Gran Premio de Las Vegas",
+    "resumen": "Programa posterior al gran premio que recoge las declaraciones de los pilotos y analiza los… En DAZN Fórmula 1, domingo 22 de noviembre a las 07:00.",
     "medio": "Mundo Deportivo",
-    "fecha": "2026-11-21T03:07:00.000Z",
-    "url": "https://www.mundodeportivo.com/guia-tv/programa/sprint-f1-gp-de-singapur-2025-dazn-formula-1"
+    "fecha": "2026-11-21T03:05:00.000Z",
+    "url": "https://www.mundodeportivo.com/guia-tv/programa/el-post-de-la-formula-1-gran-premio-de-las-vegas-dazn-formula-1"
    },
    {
     "id": "cb6bc22c9223",
@@ -50,15 +59,6 @@
     "url": "https://www.espn.com/soccer/story/_/id/50540283/harry-kane-champions-league-bayern-munich-england"
    },
    {
-    "id": "fbd869c2d8fa",
-    "tema": "Premios",
-    "titular": "Remember Monday 'still feel nerves' after Eurovision",
-    "resumen": "Remember Monday used to say that representing the UK at the 2025 Eurovision Song Contest was the \"scariest\" moment of their career. But an upcoming album and UK tour will send the adrenaline soaring ...",
-    "medio": "BBC",
-    "fecha": "2026-11-19T22:13:00.000Z",
-    "url": "https://www.bbc.co.uk/news/articles/cke89vdd77p3o"
-   },
-   {
     "id": "a075ecd632c9",
     "tema": "Personalidades",
     "titular": "Muere el actor Larry Poindexter, conocido por sus papeles en 'S.W.A.T.' y 'Friends', tras ser atropellado",
@@ -66,18 +66,36 @@
     "medio": "El Periódico",
     "fecha": "2026-11-19T11:25:00.000Z",
     "url": "https://www.elperiodico.com/es/tele/20261119/muere-actor-larry-poindexter-conocido-136632959"
-   },
-   {
-    "id": "6ce2d93732f0",
-    "tema": "Deporte",
-    "titular": "Fifa sparks tension with demand for tax-free status in UK for Women’s World Cup",
-    "resumen": "Fifa is at loggerheads with the UK’s government and four domestic Football Associations over its demand for tax-free status and exemptions from exchange-rate fees ...",
-    "medio": "The Guardian",
-    "fecha": "2026-11-19T10:27:00.000Z",
-    "url": "https://www.theguardian.com/football/2026/nov/19/fifa-demand-tax-free-status-in-uk-womens-world-cup-2035-government"
    }
   ],
   "espana": [
+   {
+    "id": "1b6a9f96a62a",
+    "tema": "Música",
+    "titular": "Raye o Rosalía, las favoritas en los Grammy confrontan dos caminos musicales",
+    "resumen": "¿Tradición o evolución? El regreso de la británica a la música negra contrasta con el arco estilístico de la catalana ...",
+    "medio": "La Vanguardia",
+    "fecha": "2026-11-21T22:00:00.000Z",
+    "url": "https://www.lavanguardia.com/cultura/20261122/11689806/raye-rosalia-favoritas-grammy-confrontan-dos-caminos-musicales.html"
+   },
+   {
+    "id": "078a4dca237c",
+    "tema": "Deporte",
+    "titular": "Verstappen reina en la carrera más caótica y Sainz firma una hazaña",
+    "resumen": "El español de Williams termina octavo tras un Gran Premio de Las Vegas en el que los adelantamientos se multiplicaron, el final fue al sprint y con otro KO de Fernando Alonso ...",
+    "medio": "Marca",
+    "fecha": "2026-11-21T21:49:00.000Z",
+    "url": "https://www.marca.com/motor/formula1/gp-las-vegas/2026/11/22/verstappen-reina-carrera-caotica-sainz-firma-hazana.html"
+   },
+   {
+    "id": "dd15e15b3b09",
+    "tema": "Música",
+    "titular": "Miguel Poveda: «Yo nunca voy a ser una estrella del pop como Rosalía, pero ahora quiero ser actor»",
+    "resumen": "El artista catalán, una de las grandes figuras del flamenco y a punto de cerrar una gira en el Movistar Arena de Madrid, se lanza en enero «con gran ilusión» sobre las tablas de un escenario con una o ...",
+    "medio": "ABC",
+    "fecha": "2026-11-21T15:59:00.000Z",
+    "url": "https://www.abc.es/sevilla/ciudad/miguel-poveda-nunca-estrella-pop-rosalia-quiero-20261122070946-nts.html"
+   },
    {
     "id": "5c82e4b573ef",
     "tema": "Deporte",
@@ -88,31 +106,31 @@
     "url": "https://as.com/futbol/posible-once-del-getafe-en-la-jornada-13-de-laliga-ea-sports-f202611-n/"
    },
    {
-    "id": "1b6a9f96a62a",
-    "tema": "Música",
-    "titular": "Raye o Rosalía, las favoritas en los Grammy confrontan dos caminos musicales",
-    "resumen": "¿Tradición o evolución? El regreso de la británica a la música negra contrasta con el arco estilístico de la catalana",
-    "medio": "La Vanguardia",
-    "fecha": "2026-11-21T08:00:00.000Z",
-    "url": "https://www.lavanguardia.com/cultura/20261122/11689806/raye-rosalia-favoritas-grammy-confrontan-dos-caminos-musicales.html"
-   },
-   {
-    "id": "db9819e8cf46",
-    "tema": "Deporte",
-    "titular": "Zverev acaba con Medvedev y se cita con Alcaraz por la corona",
-    "resumen": "El número uno del mundo se impuso al ruso en dos sets y disputará el título frente a Carlos Alcaraz con el objetivo de lograr su tercer título de las ATP Finals",
-    "medio": "Sport",
-    "fecha": "2026-11-21T00:40:00.000Z",
-    "url": "https://www.sport.es/es/noticias/tenis/zverev-acaba-medvedev-cita-alcaraz-136708535"
-   },
-   {
-    "id": "0b9aeb88d28d",
-    "tema": "Deporte",
-    "titular": "Marc Márquez, a un paso de ganar su décimo Mundial: vive el posible desenlace de MotoGP en el GP de Portugal a mitad de precio",
-    "resumen": "Marc Márquez tiene una cita con la historia en Portugal. Este fin de semana, el circuito de Portimao acoge la penúltima prueba de un Mundial de MotoGP que puede quedar resuelto antes de llegar a Valencia. El piloto de Ducati busca su décima corona mundial…",
+    "id": "a6d0b29f0c45",
+    "tema": "Cine y series",
+    "titular": "La serie de ocho capítulos que es Top 10 en España y que Netflix renovó sólo 13 días después de su estreno",
+    "resumen": "Las plataformas de 'streaming' estrenan nuevas producciones a un ritmo frenético, por lo que a menudo muchas de ellas caen en el olvido a los pocos días de su ...",
     "medio": "Mundo Deportivo",
-    "fecha": "2026-11-21T00:00:00.000Z",
-    "url": "https://www.mundodeportivo.com/elrecomendador/deportes/20261121/1004252859/marc-marquez-paso-ganar-decimo-mundial-vive-posible-desenlace-motogp-gp-portugal-mitad-precio-mkt-dasp.html"
+    "fecha": "2026-11-21T06:10:00.000Z",
+    "url": "https://www.mundodeportivo.com/elotromundo/television/20261121/1004253733/serie-ocho-capitulos-top-10-espana-netflix-renovo-solo-13-dias-estreno-tvp-dct.html"
+   },
+   {
+    "id": "7ae28390224d",
+    "tema": "Música",
+    "titular": "Rosalía (34 años), sobre su infancia con las motos: \"Las llevo desde que tenía 9 años; siempre me ha gustado la sensación porque te ancla en el presente\"",
+    "resumen": "'Mi madre siempre ha ido en moto; yo soy una motomami porque mi madre era una motomami, y su madre también lo era', explica la cantante catalana ...",
+    "medio": "El Periódico",
+    "fecha": "2026-11-21T05:23:00.000Z",
+    "url": "https://www.elperiodico.com/es/gente/20261121/rosalia-infancia-motos-motomami-lux-dv-136590874"
+   },
+   {
+    "id": "129a500f9857",
+    "tema": "Deporte",
+    "titular": "Esta es la última lista del año de España: grandes ausencias y un sonado regreso",
+    "resumen": "Sonia Bermúdez ha anunciado la renovada lista de convocadas de la selección española para los dos compromisos internacionales, amistosos, ante Chile y Venezuela, que ...",
+    "medio": "Mundo Deportivo",
+    "fecha": "2026-11-20T03:23:00.000Z",
+    "url": "https://www.mundodeportivo.com/futbol/femenino/20261120/1004253320/ultima-lista-ano-espana-grandes-ausencias-sonado-regreso.html"
    }
   ],
   "belgica": [
@@ -162,13 +180,13 @@
     "url": "https://www.dhnet.be/sports/football/diablesrouges/2026/11/20/romelu-lukaku-a-anderlecht-des-cet-hiver-marc-coucke-sort-du-silence-il-ne-va-pas-partir-de-turquie-comme-un-voleur-dans-la-nuit-NBLX5N5GVRAZ3LVJR7MZCCADGE/"
    },
    {
-    "id": "4febc873a1a3",
+    "id": "0fea471ff751",
     "tema": "Deporte",
     "titular": "Diables Rouges - La Belgique affrontera l'Allemagne en quarts de finale de la Ligue des Nations",
     "resumen": "La Belgique affrontera l'Allemagne en quarts de finale de la Ligue des Nations après le tirage au sort effectué vendredi au siège de l'Union ...",
     "medio": "DH",
-    "fecha": "2026-11-20T04:04:00.000Z",
-    "url": "https://www.dhnet.be/dernieres-depeches/2026/11/20/diables-rouges-la-belgique-affrontera-lallemagne-en-quarts-de-finale-de-la-ligue-des-nations-242SPJT46BFBXO2WQ734CWD5MY/"
+    "fecha": "2026-11-20T04:13:00.000Z",
+    "url": "https://www.dhnet.be/dernieres-depeches/2026/11/20/diables-rouges-la-belgique-affrontera-lallemagne-en-quarts-de-finale-de-la-ligue-des-nations-KLGS7PGTHFFF3GOGSMZMPPAWNY/"
    }
   ],
   "marcas": [
@@ -200,15 +218,6 @@
     "url": "https://www.20minutos.es/lainformacion/empresas/mercadona-sigue-expandiendo-espana-su-modelo-tienda-9-asi-son-los-nuevos-supermercados_7063912_0.html"
    },
    {
-    "id": "a1d5ec28cb3b",
-    "tema": "Marcas globales",
-    "titular": "Netflix’s ‘Steps’ Director Alyce Tzue On The Film’s True Villain",
-    "resumen": "Netflix's 'Steps' director Alyce Tzue on retelling the tale, revealing the true villain to the classic fairy tale in this version. 'Steps' is out now on Netflix.",
-    "medio": "Forbes",
-    "fecha": "2026-11-21T09:48:00.000Z",
-    "url": "https://www.forbes.com/sites/laurasirikul/2026/11/21/netflixs-steps-director-alyce-tzue-on-the-films-true-villain/"
-   },
-   {
     "id": "b86f51fd4b14",
     "tema": "Campañas y eventos",
     "titular": "How Taco Bell Turned a Golf Tournament Into Its Latest Entertainment Play",
@@ -227,13 +236,13 @@
     "url": "https://www.marketingweek.com/ms-john-lewis-christmas-ad/"
    },
    {
-    "id": "bdfdb7dee4a3",
+    "id": "cc0451169018",
     "tema": "Marcas en España",
-    "titular": "El plato congelado de Mercadona para tener una cena diferente siempre a mano",
-    "resumen": "Los ñoquis de patata también se preparan con pollo, verduras y salsa de tomate, una combinación que permite disfrutar de una receta diferente en pocos minutos ...",
-    "medio": "El Confidencial",
-    "fecha": "2026-11-19T10:12:00.000Z",
-    "url": "https://www.vanitatis.elconfidencial.com/gastronomia/2026-11-19/gnoquis-congelados-mercadona-pollo-verdura-1qrt_4462628/"
+    "titular": "Mercadona vende una nueva carne por tres euros que se convierte en boloñesa en minutos",
+    "resumen": "La cadena de supermercados valenciana lanza un preparado rápido ideal para cocinar diferentes recetas como pasta o lasaña ...",
+    "medio": "ABC",
+    "fecha": "2026-11-19T05:38:00.000Z",
+    "url": "https://www.abc.es/espana/comunidad-valenciana/mercadona-vende-nueva-carne-tres-euros-convierte-20261119143908-nt.html"
    },
    {
     "id": "25ab72258d0f",
