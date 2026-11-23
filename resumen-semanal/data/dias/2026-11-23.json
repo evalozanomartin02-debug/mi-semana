@@ -1,7 +1,7 @@
 {
  "id": "2026-11-23",
  "titulo": "lunes, 23 de noviembre",
- "publicado": "2026-11-23T05:59:47.636Z",
+ "publicado": "2026-11-23T07:34:28.905Z",
  "secciones": {
   "mundo": [
    {
@@ -23,24 +23,6 @@
     "url": "https://www.theguardian.com/sport/2026/nov/22/marc-marquez-claims-eighth-motogp-world-title"
    },
    {
-    "id": "360b38152554",
-    "tema": "Deporte",
-    "titular": "Why Arsenal are behind in race for Champions League spots",
-    "resumen": "Arsenal were open about their aim to win the WSL this season but they find themselves well adrift - where have things gone wrong?",
-    "medio": "BBC",
-    "fecha": "2026-11-22T06:30:00.000Z",
-    "url": "https://www.bbc.com/sport/football/articles/c8752llr1ed1o"
-   },
-   {
-    "id": "126a010286e6",
-    "tema": "Premios",
-    "titular": "Paloma Morphy, de abogada a ganadora de un Latin Grammy con TikTok como trampolín",
-    "resumen": "La cantante platica con EL PAÍS sobre cómo le cambió la vida subir videos a redes sociales tocando el ukelele TikTok sigue siendo el patrón de las tendencias y trampolín al éxito por excelencia desde ...",
-    "medio": "El País",
-    "fecha": "2026-11-22T01:29:00.000Z",
-    "url": "https://elpais.com/mexico/gente/2026-11-22/paloma-morphy-de-abogada-a-ganadora-de-un-latin-grammy-con-tiktok-como-trampolin.html"
-   },
-   {
     "id": "25dbc15dd3e8",
     "tema": "Deporte",
     "titular": "MotoGP™ highlights: The key moments from the 2026 Portuguese Grand Prix",
@@ -52,6 +34,24 @@
   ],
   "espana": [
    {
+    "id": "6bb4fc583d99",
+    "tema": "Deporte",
+    "titular": "Alcaraz y la Davis: su último gran objetivo",
+    "resumen": "En un 2026 en el que el español ha ganado Australia y las Finals, dos de los grandes torneos que le quedaban por ganar, la Davis es el último gran objetivo.",
+    "medio": "AS",
+    "fecha": "2026-11-22T16:00:00.000Z",
+    "url": "https://as.com/tenis/copa_davis/alcaraz-y-la-davis-su-ultimo-gran-objetivo-f202611-n/"
+   },
+   {
+    "id": "73b44ac581ef",
+    "tema": "Deporte",
+    "titular": "Ocho más dos: Marc Márquez se va de Valentino Rossi y alcanza a Giacomo Agostini",
+    "resumen": "Marc Márquez ha hecho historia al coronarse campeón del mundo de MotoGP, sumando su octavo título de la categoría reina (el décimo de su palmarés global) tras consumar la mayor remontada jamás vista en el motociclismo de velocidad. El piloto del equipo oficial Ducati ha ...",
+    "medio": "ABC",
+    "fecha": "2026-11-22T16:00:00.000Z",
+    "url": "https://www.abc.es/deportes/motos/ocho-dos-marc-marquez-valentino-rossi-alcanza-20261108013304-nt.html"
+   },
+   {
     "id": "0e92d6724ec1",
     "tema": "Deporte",
     "titular": "Así está la clasificación de LaLiga Hypermotion tras los resultados de los partidos de la Jornada 15 disputados hoy, domingo 22 de noviembre",
@@ -61,15 +61,6 @@
     "url": "https://www.lavanguardia.com/deportes/futbol/20261122/0/laliga-segunda-division-2026-2027-resultado-clasificacion-ca-jornada-15-ctx.html"
    },
    {
-    "id": "d46beb38a263",
-    "tema": "Deporte",
-    "titular": "Así queda la clasificación de la Liga Endesa tras la victoria del Madrid y la derrota del Barça",
-    "resumen": "La novena jornada de la Liga Endesa se ha cerrado con seis encuentros que consolidan al Real Madrid en lo más alto de la tabla y aprietan la lucha tanto por las ...",
-    "medio": "Mundo Deportivo",
-    "fecha": "2026-11-22T12:10:00.000Z",
-    "url": "https://www.mundodeportivo.com/baloncesto/acb/20261122/1004254248/asi-queda-clasificacion-liga-endesa-victoria-madrid-derrota-barca.html"
-   },
-   {
     "id": "81315e467409",
     "tema": "Música",
     "titular": "Rosalía escribe un inesperado mensaje a Rauw Alejandro y provoca un terremoto",
@@ -77,15 +68,6 @@
     "medio": "20minutos",
     "fecha": "2026-11-22T10:09:00.000Z",
     "url": "https://www.20minutos.es/gente/rosalia-escribe-un-inesperado-mensaje-rauw-alejandro-provoca-un-terremoto_7064289_0.html"
-   },
-   {
-    "id": "dac2abef4286",
-    "tema": "Deporte",
-    "titular": "Marc Márquez conquista su décimo mundial: supera a Rossi y rubrica una remontada histórica en 2026",
-    "resumen": "En directo: Gran Premio de Portugal de MotoGP, este domingo a las 14:00 horas en RTVE.es",
-    "medio": "RTVE",
-    "fecha": "2026-11-22T04:59:00.000Z",
-    "url": "https://www.rtve.es/deportes/20261122/gp-portugal-motogp-2026-carrera-larga-directo-resumen/17325006.shtml"
    },
    {
     "id": "67e2ea39fc27",
@@ -106,25 +88,25 @@
     "url": "https://www.abc.es/play/series/noticias/llega-netflix-nueva-serie-creadores-elite-romance-20261122120000-nt.html"
    },
    {
-    "id": "bc44b62f0bd4",
+    "id": "29af8ea09b9f",
     "tema": "Música",
-    "titular": "Rosalía da su lugar a Pili, su hermana, en su vuelta a su ciudad natal: \"Eres una artista increíble. Estoy feliz de tenerte\"",
-    "resumen": "La cantante ha regresado a Barcelona para asistir a LOS40 Music Awards 2026 y ha dedicado unas emotivas palabras a su hermana sobre el escenario. Más información: De Rosalía y Guitarricadelafuente a A ...",
-    "medio": "El Español",
-    "fecha": "2026-11-21T09:10:00.000Z",
-    "url": "https://www.elespanol.com/corazon/famosos/20261121/rosalia-da-lugar-pili-hermana-vuelta-ciudad-natal-artista-increible-feliz-tenerte/1003744467605_0.html"
-   },
-   {
-    "id": "c608b0b72528",
-    "tema": "Premios",
-    "titular": "Rafa Nadal y Rodri, confidencias y complicidad en La Pedrera",
-    "resumen": "Hay conversaciones que valen más que un trofeo, y la que mantuvieron Rafa Nadal y Rodri en La Pedrera fue, sin duda, una de ellas. ¿De qué hablaron? Ese es uno de los secretos mejor guardados de la no ...",
-    "medio": "El Periódico",
-    "fecha": "2026-11-21T08:00:00.000Z",
-    "url": "https://www.elperiodico.com/es/opinion/20261121/rafa-nadal-rodri-confidencias-complicidad-pedrera-136671803"
+    "titular": "Rosalía triunfa con 4 Los 40 Music Awards 2026 por 'Lux' y su gira",
+    "resumen": "Rosalía ha sido la gran protagonista de LOS40 Music Awards 2026. La artista catalana ha conquistado cuatro galardones en una noche celebrada en el Palau Sant Jordi de Barcelona, donde partía con siete ...",
+    "medio": "ABC",
+    "fecha": "2026-11-21T03:36:00.000Z",
+    "url": "https://www.abc.es/cultura/rosalia-triunfa-music-awards-2026-lux-gira-20261121123639-nt.html"
    }
   ],
   "belgica": [
+   {
+    "id": "8136551d9d62",
+    "tema": "Deporte",
+    "titular": "Le débrief de Philippe Albert : « Comment le VAR a-t-il pu valider le penalty d’Anderlecht ? »",
+    "resumen": "« Anderlecht a fourni une première période à oublier au plus avant d’obtenir les meilleures occasions après le repos. C’est là que j’apprécie le coaching de Vítor Bruno, qui n’attend pas l’heure pour ...",
+    "medio": "Le Soir",
+    "fecha": "2026-11-22T22:00:00.000Z",
+    "url": "https://www.lesoir.be/784289/article/2026-11-23/le-debrief-de-philippe-albert-comment-le-var-t-il-pu-valider-le-penalty"
+   },
    {
     "id": "bf9876c6c6aa",
     "tema": "Premios",
@@ -135,16 +117,70 @@
     "url": "https://focus.levif.be/livres/le-roman-le-palais-cette-annee-le-prix-renaudot-a-un-petit-gout-de-banane/"
    },
    {
-    "id": "b8a119e41781",
+    "id": "84aaea3934e9",
     "tema": "Deporte",
-    "titular": "L’Union s’impose au forceps face à Courtrai et reprend la tête de la Pro League",
-    "resumen": "L’Union Saint-Gilloise s’est imposée sur le fil face à Courtai, la lanterne rouge de la Pro League. Le seul but de la rencontre, signé Louis Patris, est tombé à la 84e minute. L’Union est à nouveau ...",
-    "medio": "RTBF",
-    "fecha": "2026-11-22T08:57:00.000Z",
-    "url": "https://www.rtbf.be/article/l-union-s-impose-aux-forceps-face-a-courtrai-et-reprend-la-tete-en-pro-league-11819431"
+    "titular": "Jupiler Pro League - Anderlecht s'en sort dans les dernières minutes contre OHL et recolle au top 4",
+    "resumen": "Anderlecht a arraché la victoire dans les dernières minutes contre Oud-Heverlee Louvain (1-0) dimanche lors de la 12e journée de Jupiler Pro League.",
+    "medio": "DH",
+    "fecha": "2026-11-22T12:14:00.000Z",
+    "url": "https://www.dhnet.be/dernieres-depeches/2026/11/22/jupiler-pro-league-anderlecht-sen-sort-dans-les-dernieres-minutes-contre-ohl-et-recolle-au-top-4-2HY5MTA2VFETDHLLLE3753XOCY/"
+   },
+   {
+    "id": "4e8fe2ef8c57",
+    "tema": "Deporte",
+    "titular": "Anderlecht s'impose face à OHL (1-0) : Le chouchou Bertaccini a fait taire les sifflets",
+    "resumen": "Il aura fallu un penalty et une nouvelle entrée décisive d'Adriano Bertaccini pour sortir Anderlecht du piège louvaniste.",
+    "medio": "DH",
+    "fecha": "2026-11-22T11:34:00.000Z",
+    "url": "https://www.dhnet.be/sports/football/division-1a/anderlecht/2026/11/22/anderlecht-simpose-face-a-ohl-1-0-le-chouchou-bertaccini-a-fait-taire-les-sifflets-DD4RE7JHRVBINEVAOX46MKBNRA/"
+   },
+   {
+    "id": "a5c91d299eb8",
+    "tema": "País",
+    "titular": "Le ciel belge fermé lundi à cause de la manifestation nationale : la fédération des compagnies aériennes veut \"un débat sur l'abus du droit de grève\"",
+    "resumen": "Le trafic sera totalement paralysé au-dessus de la Belgique entre 7h et 21h, alors que Brussels Airport attendait 59.500 passagers.",
+    "medio": "DH",
+    "fecha": "2026-11-22T04:33:00.000Z",
+    "url": "https://www.dhnet.be/actu/belgique/2026/11/22/le-ciel-belge-ferme-lundi-a-cause-de-la-manifestation-nationale-la-federation-des-compagnies-aeriennes-veut-un-debat-sur-labus-du-droit-de-greve-U75TF3232JHBFATWZTA6MJRELQ/"
+   },
+   {
+    "id": "6b7b3f76d12b",
+    "tema": "País",
+    "titular": "Les aéroports totalement paralysés ce 23 novembre en Belgique: «Des conséquences désastreuses»",
+    "resumen": "Une paralysie générale du trafic aérien en Belgique est attendue ce lundi 23 novembre. «Skeyes a été informée qu’un groupe de contrôleurs aériens ...",
+    "medio": "Le Vif",
+    "fecha": "2026-11-22T00:37:00.000Z",
+    "url": "https://www.levif.be/belgique/les-aeroports-totalement-paralyses-ce-23-novembre-en-belgique-des-consequences-desastreuses/"
+   },
+   {
+    "id": "3318f93eeaf6",
+    "tema": "País",
+    "titular": "Brussels for kids: What do to with your family this weekend - 28 to 29 March",
+    "resumen": "From painting workshops to cycling parades, there's a huge array of activities for kids in Brussels this weekend.",
+    "medio": "The Brussels Times",
+    "fecha": "2026-11-21T15:59:00.000Z",
+    "url": "https://www.brusselstimes.com/brussels/2041836/what-to-do-with-your-kids-this-weekend-in-brussels-28-29-march"
    }
   ],
   "marcas": [
+   {
+    "id": "c3e15bf183a8",
+    "tema": "Campañas y eventos",
+    "titular": "Approach full-funnel marketing like you would a game of snooker",
+    "resumen": "Snooker players don’t just hit the ball and hope, they judge the shot carefully and plan their next move strategically. Marketing should be the same.",
+    "medio": "Marketing Week",
+    "fecha": "2026-11-22T23:05:00.000Z",
+    "url": "https://www.marketingweek.com/full-funnel-marketing-snooker/"
+   },
+   {
+    "id": "e995d4d0cb4a",
+    "tema": "Marcas globales",
+    "titular": "Apple iPhone Duo review: the most novel and interesting iPhone in almost a decade",
+    "resumen": "The folding iPhone is early-adopter gold, changing the way iOS works and successfully condensing a tablet into your pocket, but it is not for everyone ...",
+    "medio": "The Guardian",
+    "fecha": "2026-11-22T23:02:00.000Z",
+    "url": "https://www.theguardian.com/technology/2026/nov/23/apple-iphone-duo-review-most-novel-interesting-iphone-in-almost-a-decade"
+   },
    {
     "id": "f4857c024b67",
     "tema": "Campañas y eventos",
@@ -155,13 +191,31 @@
     "url": "https://www.marketingweek.com/im-a-celeb-tombola-decade/"
    },
    {
-    "id": "821554638c90",
+    "id": "2450890544dc",
+    "tema": "Marcas en España",
+    "titular": "Mercadona factura 500 millones más que Carrefour, Lidl, Dia, Eroski, Alcampo y Consum juntos",
+    "resumen": "El informe 'Retails Foods' del Gobierno de Estados Unidos pone cifras al dominio empresarial del gigante de la distribución, al que define como un «fenómeno cultural» ...",
+    "medio": "ABC",
+    "fecha": "2026-11-22T01:21:00.000Z",
+    "url": "https://www.abc.es/espana/comunidad-valenciana/mercadona-factura-500-millones-carrefour-lidl-dia-20261122100827-nt.html"
+   },
+   {
+    "id": "e53592bde867",
+    "tema": "Marcas en España",
+    "titular": "Las faldas de cuadros están en tendencia: los 8 diseños más elegantes de Zara, Mango y Stradivarius",
+    "resumen": "Las faldas de cuadros se llevan, y mucho, esta temporada. Es uno de los diseños en tendencia e idóneos, no solo si quieres vestir bien, sino también para lucir actual y ...",
+    "medio": "El Mundo",
+    "fecha": "2026-11-20T15:19:00.000Z",
+    "url": "https://www.elmundo.es/yodona/moda/2026/11/21/6afb1cace4d4d8de128b4583.html"
+   },
+   {
+    "id": "eb2407d254bc",
     "tema": "Marcas globales",
-    "titular": "Apple iPhone 18 Release Date: Production Milestone Suggests March Launch Timeline",
-    "resumen": "Phone 18, iPhone 18e and iPhone Air second-generation, plus other devices. You will have noticed that when Apple announced its latest iPhones, there was one missing. While the iPhone 18 Pro was ...",
-    "medio": "Forbes",
-    "fecha": "2026-11-22T03:16:00.000Z",
-    "url": "https://www.forbes.com/sites/davidphelan/2026/11/22/apple-iphone-18-release-date-production-milestone-suggests-march-launch-timeline/"
+    "titular": "Steps review – Netflix’s Disney-lite Cinderella rework has enough pep in its step",
+    "resumen": "The plot might be a little overstuffed and the animation style could be a little more distinctive, but this is better than the streamer’s average animated offering ...",
+    "medio": "The Guardian",
+    "fecha": "2026-11-20T00:03:00.000Z",
+    "url": "https://www.theguardian.com/film/2026/nov/20/steps-netflix-movie-review"
    },
    {
     "id": "ddb85592f9ea",
@@ -171,15 +225,6 @@
     "medio": "Marketing Week",
     "fecha": "2026-11-19T23:00:00.000Z",
     "url": "https://www.marketingweek.com/ey-brand-transformation-partner/"
-   },
-   {
-    "id": "fbc28f581394",
-    "tema": "Campañas y eventos",
-    "titular": "How Chocolate Digestives’ centenary rebuilt McVitie’s brand buzz – and sales",
-    "resumen": "An OOH-led 100th birthday campaign framed the iconic biscuit as ‘The Nation’s Greatest Invention’, reawakening brand love in a challenging market by proving how it has stood the test of time.",
-    "medio": "Marketing Week",
-    "fecha": "2026-11-19T23:00:00.000Z",
-    "url": "https://www.marketingweek.com/chocolate-digestives-mcvities-brand-buzz/"
    }
   ],
   "comunicacion": [
@@ -211,13 +256,31 @@
     "url": "https://www.topcomunicacion.com/mensajes-sostenibles-mas-eficaces/"
    },
    {
-    "id": "ef4fb1766161",
+    "id": "8dde5974093c",
     "tema": "Comunicación",
-    "titular": "Dircom reúne a sus socios para celebrar La Previa de Navidad",
-    "resumen": "Dircom ha reunido a más de 150 socios en la Real Casa de Correos, sede de la Presidencia de la Comunidad de Madrid, para celebrar La Previa de Navidad y compartir una velada entre compañeros de profesión. El encuentro ha adelantado la tradicional celebración…",
-    "medio": "Dircom",
-    "fecha": "2026-11-19T10:49:50.000Z",
-    "url": "https://www.dircom.org/2026/11/19/dircom-reune-a-sus-socios-para-celebrar-la-previa-de-navidad/"
+    "titular": "Nace Somdara, la consultora de Marketing Intelligence de VIKO",
+    "resumen": "Dirigida por Joan Miró y Ramon Montanera, la consultora combina investigación, análisis de datos y tecnología para entender el mercado y a los clientes, y orientar las decisiones de marketing y ...",
+    "medio": "El Publicista",
+    "fecha": "2026-11-19T16:00:00.000Z",
+    "url": "https://www.elpublicista.es/noticia-destacada/nace-somdara-consultora-marketing-intelligence-viko"
+   },
+   {
+    "id": "e67195ae726a",
+    "tema": "Empresa",
+    "titular": "RADARSERES 2026 reivindica el impacto social como factor de competitividad empresarial en un escenario de incertidumbre",
+    "resumen": "El foro de Fundación SERES reúne en el Teatro Real a líderes empresariales para abordar los retos de la IA, el empleo, el talento y la cohesión social. Más información: Las empresas que piensan en las ...",
+    "medio": "El Español",
+    "fecha": "2026-11-19T10:36:00.000Z",
+    "url": "https://www.elespanol.com/enclave-ods/noticias/20261119/radarseres-reivindica-impacto-social-factor-competitividad-empresarial-escenario-incertidumbre/1003744465247_0.html"
+   },
+   {
+    "id": "c3fd9459c57d",
+    "tema": "Empresa",
+    "titular": "Grupo Jafisa impulsa desde 2022 una nueva etapa de crecimiento, innovación y liderazgo",
+    "resumen": "La compañía desarrolla un plan de negocio para reforzar su competitividad, consolidar su servicio al canal Horeca y acercar su oferta a clientes ...",
+    "medio": "COPE",
+    "fecha": "2026-11-17T09:01:00.000Z",
+    "url": "https://www.cope.es/actualidad/noticias/grupo-jafisa-impulsa-2022-nueva-etapa-crecimiento-innovacion-liderazgo-20261117_3476932.html"
    }
   ]
  }
