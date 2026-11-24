@@ -1,7 +1,7 @@
 {
  "id": "2026-11-24",
  "titulo": "martes, 24 de noviembre",
- "publicado": "2026-11-24T05:55:54.311Z",
+ "publicado": "2026-11-24T07:06:44.332Z",
  "secciones": {
   "mundo": [
    {
@@ -41,6 +41,15 @@
     "url": "https://www.mundodeportivo.com/guias-de-juego/pronosticos/real-madrid-vs-psv-pronostico-cuotas-y-alineaciones-posibles-champions-league-24-11-26/"
    },
    {
+    "id": "3c42dacd3668",
+    "tema": "Deporte",
+    "titular": "‘Celebrate, inspire, unite’: UK confirmed as host of 2035 Women’s World Cup",
+    "resumen": "England, Northern Ireland, Scotland and Wales will stage the UK’s first football World Cup since the 1966 men’s tournament ...",
+    "medio": "The Guardian",
+    "fecha": "2026-11-23T07:35:00.000Z",
+    "url": "https://www.theguardian.com/football/2026/nov/23/uk-confirmed-hosts-2035-womens-world-cup-fifa"
+   },
+   {
     "id": "8f133bc02d48",
     "tema": "Premios",
     "titular": "Courtois: \"¿Debe el fútbol un Balón de Oro a un portero? En 2022 esperaba estar más arriba...\"",
@@ -48,15 +57,6 @@
     "medio": "Cadena SER",
     "fecha": "2026-11-23T07:17:00.000Z",
     "url": "https://cadenaser.com/nacional/2026/11/23/courtois-debe-el-futbol-un-balon-de-oro-a-un-portero-en-2022-esperaba-estar-mas-arriba-cadena-ser/"
-   },
-   {
-    "id": "f7d250b80975",
-    "tema": "Deporte",
-    "titular": "Women's World Cup: UK announced as 2035 hosts as Costa Rica, Jamaica, Mexico and USA host in 2031",
-    "resumen": "The tournament will be the first football World Cup to be held in the UK since 1966; 48 teams will be involved, with matches played at 22 venues across England, Wales, Scotland and Northern Ireland ...",
-    "medio": "Sky Sports",
-    "fecha": "2026-11-23T07:09:00.000Z",
-    "url": "https://www.skysports.com/football/news/13615555/womens-world-cup-uk-announced-as-2035-hosts-as-costa-rica-jamaica-mexico-and-usa-host-in-2031"
    },
    {
     "id": "1a5784e4d8e3",
@@ -79,13 +79,13 @@
   ],
   "espana": [
    {
-    "id": "2347e2fa4c1b",
-    "tema": "Premios",
-    "titular": "Pamplona, 6 de febrero: las películas favoritas para los Goya de 2027 antes de las nominaciones del 15 de diciembre",
-    "resumen": "Más allá de 'La bola negra', estas son las otras candidatas que lucharán contra la película de los Javis por los máximos galardones del cine español.",
-    "medio": "20minutos",
-    "fecha": "2026-11-23T21:01:00.000Z",
-    "url": "https://www.20minutos.es/cinemania/noticias/goya-2027-nominaciones-peliculas-favoritas_7064670_0.html"
+    "id": "7596551c4036",
+    "tema": "Deporte",
+    "titular": "Nani Roma, encantado con la vuelta de Alonso al Dakar: \"Es de valorar que un piloto de F1 tenga ganas de tirarse al fango\"",
+    "resumen": "Fernando Alonso vuelve al Dakar … y sus compañeros y rivales le dan la bienvenida. Es el caso de Nani Roma, que será uno de sus ‘enemigos’ en el equipo Ford. Enemigos… sólo en pista, porque fuera de ...",
+    "medio": "Marca",
+    "fecha": "2026-11-23T22:52:00.000Z",
+    "url": "https://www.marca.com/motor/dakar/2026/11/24/nani-roma-encantado-vuelta-alonso-dakar-valorar-piloto-f1-tenga-ganas-tirarse-fango.html"
    },
    {
     "id": "1f3e836cc23a",
@@ -124,13 +124,13 @@
     "url": "https://www.marca.com/tenis/copa-davis/2026/11/23/alcaraz-necesita-descanso-entrenara-martes-bolonia.html"
    },
    {
-    "id": "b6b40705f65a",
-    "tema": "Deporte",
-    "titular": "Así estaría la clasificación de LaLiga sin el VAR tras la jornada 13",
-    "resumen": "El sistema de videoarbitraje tuvo trabajo a lo largo del pasado fin de semana, aunque sus intervenciones no cambiaron el signo de ningún partido ...",
-    "medio": "Sport",
-    "fecha": "2026-11-23T08:30:00.000Z",
-    "url": "https://www.sport.es/es/noticias/laliga/clasificacion-laliga-sin-var-jornada-13-136774173"
+    "id": "3aa1513b773e",
+    "tema": "Premios",
+    "titular": "San Sebastián de los Reyes acerca el séptimo arte a las aulas en su ‘XIX Muestra de Cine’",
+    "resumen": "La muestra se desarrollará en el TAM del jueves 26 al domingo 29 de noviembre, siendo las sesiones para los centros educativos el lunes 30 de noviembre y el martes 1 de diciembre | Cadena SER ...",
+    "medio": "Cadena SER",
+    "fecha": "2026-11-23T07:25:00.000Z",
+    "url": "https://cadenaser.com/cmadrid/2026/11/23/san-sebastian-de-los-reyes-acerca-el-septimo-arte-a-las-aulas-en-su-xix-muestra-de-cine-ser-madrid-norte/"
    },
    {
     "id": "da989f88163b",
@@ -140,18 +140,18 @@
     "medio": "El Periódico",
     "fecha": "2026-11-23T06:47:00.000Z",
     "url": "https://www.elperiodico.com/es/gente/20261123/rauw-alejandro-loli-bahia-ex-novia-rosalia-saint-laurent-60-ano-le-smoking-136755648"
-   },
-   {
-    "id": "275a4227b327",
-    "tema": "Premios",
-    "titular": "Juan del Val (56 años) y Nuria Roca (54) le llaman su lugar \"favorito del mundo\" y es la casa de Gredos donde invirtieron el millón del Premio Planeta: un santuario entre ...",
-    "resumen": "Descubre el refugio abulense que ha enamorado a la pareja televisiva donde uno puede refrescarse en las gargantas cristalinas del Tiétar y saborear el verdadero pimentón artesanal de sus sequeros.",
-    "medio": "El Periódico",
-    "fecha": "2026-11-23T05:08:00.000Z",
-    "url": "https://viajar.elperiodico.com/viajeros/juan-val-nuria-roca-millon-premio-planeta-gredos-136759869"
    }
   ],
   "belgica": [
+   {
+    "id": "79d4b183d224",
+    "tema": "Deporte",
+    "titular": "Anderlecht prêt à débourser 30 millions d’euros pour un tout nouveau centre d’entraînement",
+    "resumen": "Un tout nouveau centre d’entrainement pour l’équipe première et la modernisation de l’actuel pour y faire évoluer tous ses jeunes : tel est le projet d’Anderlecht, qui espère une inauguration pour 203 ...",
+    "medio": "Le Soir",
+    "fecha": "2026-11-23T23:00:00.000Z",
+    "url": "https://www.lesoir.be/784514/article/2026-11-24/anderlecht-pret-debourser-30-millions-deuros-pour-un-tout-nouveau-centre"
+   },
    {
     "id": "dabf17cfd9d6",
     "tema": "Deporte",
@@ -160,6 +160,15 @@
     "medio": "L'Echo",
     "fecha": "2026-11-23T20:01:00.000Z",
     "url": "https://www.lecho.be/dossiers/plan-large/vide-depuis-20-ans-la-brasserie-atlas-a-anderlecht-va-revivre/10706059.html"
+   },
+   {
+    "id": "4d3ade84a255",
+    "tema": "Deporte",
+    "titular": "Il y a 50 ans, ce ketje de l’Union perdait avec Bruges deux finales européennes contre Liverpool : \"On devait gagner la finale de 76…\"",
+    "resumen": "À l’autre bout du fil, la voix est rocailleuse, l’accent savoureux : Daniel De Cubber (72 ans) crèche au fin fond ...",
+    "medio": "RTBF",
+    "fecha": "2026-11-23T16:00:00.000Z",
+    "url": "https://www.rtbf.be/article/il-y-a-50-ans-ce-ketje-de-l-union-perdait-avec-bruges-deux-finales-europeennes-contre-liverpool-on-devait-gagner-la-finale-de-76-11819976"
    },
    {
     "id": "35b006f52b12",
@@ -171,13 +180,13 @@
     "url": "https://www.brusselstimes.com/brussels/2419692/kanal-brussels-next-great-transformation/"
    },
    {
-    "id": "28b507395ad1",
-    "tema": "Deporte",
-    "titular": "Ligue des Champions de futsal - Anderlecht partage à Murcie en huitième de finale aller",
-    "resumen": "Anderlecht a partagé l'enjeu sur le terrain de Murcie (3-3) au match aller des huitièmes de finale de la Ligue des Champions de futsal lundi en Espagne.",
-    "medio": "DH",
-    "fecha": "2026-11-23T14:06:00.000Z",
-    "url": "https://www.dhnet.be/dernieres-depeches/2026/11/23/ligue-des-champions-de-futsal-anderlecht-partage-a-murcie-en-huitieme-de-finale-aller-XBRWX5PGQVFODLIWVUP3UE565M/"
+    "id": "f43935249111",
+    "tema": "País",
+    "titular": "Heysel football stadium disaster was 'Belgium’s 9/11,' says film director",
+    "resumen": "People who are old enough remember where they were when it happened, remember what they were doing when it happened, and how they lived through it.\" ...",
+    "medio": "The Brussels Times",
+    "fecha": "2026-11-23T16:00:00.000Z",
+    "url": "https://www.brusselstimes.com/2420329/heysel-disaster-was-belgiums-9-11-says-film-director"
    },
    {
     "id": "7aa2026699ad",
@@ -189,24 +198,6 @@
     "url": "https://www.lefigaro.fr/culture/prix-goncourt-des-lyceens-qui-succedera-a-nathacha-appanah-20261123"
    },
    {
-    "id": "a9033fd652df",
-    "tema": "Deporte",
-    "titular": "Le penalty d’Anderlecht était-il justifié ? Voici la réponse de Jonathan Lardot, le patron de l’arbitrage belge",
-    "resumen": "Lors de sa traditionnelle séquence « Under Review » sur DAZN, le patron du Referee Department est revenu sur quelques phases de la 12e journée, dont le penalty sifflé en fin de rencontre lors d’Anderl ...",
-    "medio": "Le Soir",
-    "fecha": "2026-11-23T10:40:00.000Z",
-    "url": "https://www.lesoir.be/784464/article/2026-11-23/le-penalty-danderlecht-etait-il-justifie-voici-la-reponse-de-jonathan-lardot-le"
-   },
-   {
-    "id": "5297e3d07db4",
-    "tema": "Cine y series",
-    "titular": "Dans les coulisses de \"Nourrices\", la nouvelle série des créatrices de \"Pandore\"",
-    "resumen": "Cet hiver, deux nouvelles séries coproduites en Belgique renversent le prisme de l’histoire et mettent des femmes ...",
-    "medio": "RTBF",
-    "fecha": "2026-11-23T04:35:00.000Z",
-    "url": "https://www.rtbf.be/article/dans-les-coulisses-de-nourrices-la-nouvelle-serie-des-creatrices-de-pandore-11819808"
-   },
-   {
     "id": "a272af9ff1d2",
     "tema": "País",
     "titular": "Belgique: journée de grève nationale contre la vie chère, le trafic aérien entièrement paralysé",
@@ -216,16 +207,25 @@
     "url": "https://www.rfi.fr/fr/europe/20261123-belgique-journ%C3%A9e-de-gr%C3%A8ve-nationale-contre-la-vie-ch%C3%A8re-le-trafic-a%C3%A9rien-enti%C3%A8rement-paralys%C3%A9"
    },
    {
-    "id": "6d94b7c9abef",
-    "tema": "País",
-    "titular": "Brussels lantern festival will span over 1,000 years of Japanese history and legend",
-    "resumen": "The first edition of the Lantern Festival will be held at Tour & Taxis in Brussels from 2 December to 3 January 2027, with 2,000 traditional lanterns on display under the theme 'Japan in Lights', ...",
-    "medio": "The Brussels Times",
-    "fecha": "2026-11-22T16:00:00.000Z",
-    "url": "https://www.brusselstimes.com/2420244/brussels-lantern-festival-will-span-over-1000-years-of-japanese-history-and-legend"
+    "id": "59b9d84a1e60",
+    "tema": "Cine y series",
+    "titular": "\"Haemers\" : derrière le mythe du gangster, le drame d’une famille",
+    "resumen": "Dans les années 1980, Patrick Haemers s’impose comme la figure la plus redoutée du banditisme belge. Son physique ...",
+    "medio": "RTBF",
+    "fecha": "2026-11-22T23:00:00.000Z",
+    "url": "https://www.rtbf.be/article/haemers-derriere-le-mythe-du-gangster-le-drame-d-une-famille-11816286"
    }
   ],
   "marcas": [
+   {
+    "id": "6359f4eeb5d5",
+    "tema": "Campañas y eventos",
+    "titular": "The Marketing Week Podcast: Trip’s CMO on scaling challenger brands",
+    "resumen": "Recorded live at Festival of Marketing, former Ancient + Brave CCO Fiona Marshall joins The Marketing Week Podcast.",
+    "medio": "Marketing Week",
+    "fecha": "2026-11-23T22:25:00.000Z",
+    "url": "https://www.marketingweek.com/podcast-trip-cmo-scaling-brands/"
+   },
    {
     "id": "05be3aedcc75",
     "tema": "Marcas en España",
@@ -254,6 +254,15 @@
     "url": "https://www.adweek.com/brand-marketing/pet-brands-find-new-ways-to-invite-the-family-dog-to-thanksgiving-dinner/"
    },
    {
+    "id": "650d1ebb623b",
+    "tema": "Marcas globales",
+    "titular": "Apple iPhone 18 And iPhone Air 2 Designs Revealed In New Images",
+    "resumen": "The battery life on the iPhone Air is very good, but there have also been reports that the second-gen model will have a larger battery and vapor chamber cooling. Both the Apple iPhone Air second-gen ...",
+    "medio": "Forbes",
+    "fecha": "2026-11-23T09:00:00.000Z",
+    "url": "https://www.forbes.com/sites/davidphelan/2026/11/23/apple-iphone-18-and-iphone-air-2-designs-revealed-in-new-images/"
+   },
+   {
     "id": "08b24bf2f8a9",
     "tema": "Campañas y eventos",
     "titular": "Dr. Alex Cooper Prescribes Less Screen Time in Google Pixel's Holiday Ad",
@@ -263,15 +272,6 @@
     "url": "https://www.adweek.com/brand-marketing/dr-alex-cooper-prescribes-less-screen-time-in-google-pixels-holiday-ad/?itm_source=homepage&itm_medium=the-latest-left&itm_campaign=4"
    },
    {
-    "id": "8285df4b573f",
-    "tema": "Campañas y eventos",
-    "titular": "Verizon's Latest Heartthrob Is Jonathan Bailey as a Sexy Scrooge",
-    "resumen": "Verizon casts Jonathan Bailey, Bridgerton star and People’s 2025 Sexiest Man Alive, as Scrooge in its campy holiday tale.",
-    "medio": "Adweek",
-    "fecha": "2026-11-23T06:00:00.000Z",
-    "url": "https://www.adweek.com/creativity/verizons-latest-heartthrob-is-jonathan-bailey-as-a-sexy-scrooge/"
-   },
-   {
     "id": "98b29c7ab3fe",
     "tema": "Marcas en España",
     "titular": "Una marca común para la tecnología sanitaria española, un sector que exporta casi 5.000 millones de euros",
@@ -279,15 +279,6 @@
     "medio": "El Confidencial",
     "fecha": "2026-11-23T05:27:00.000Z",
     "url": "https://www.elconfidencial.com/salud/2026-11-23/tecnologia-sanitaria-espana-fenin_4470697/"
-   },
-   {
-    "id": "821554638c90",
-    "tema": "Marcas globales",
-    "titular": "Apple iPhone 18 Release Date: Production Milestone Suggests March Launch Timeline",
-    "resumen": "Phone 18, iPhone 18e and iPhone Air second-generation, plus other devices. You will have noticed that when Apple announced its latest iPhones, there was one missing. While the iPhone 18 Pro was ...",
-    "medio": "Forbes",
-    "fecha": "2026-11-22T03:16:00.000Z",
-    "url": "https://www.forbes.com/sites/davidphelan/2026/11/22/apple-iphone-18-release-date-production-milestone-suggests-march-launch-timeline/"
    }
   ],
   "comunicacion": [
@@ -337,6 +328,15 @@
     "url": "https://hbr.org/2026/11/how-the-best-leaders-develop-an-enterprise-mindset"
    },
    {
+    "id": "a664b45ad58a",
+    "tema": "Comunicación",
+    "titular": "¿De qué sirve comunicar si nadie escucha? La empresa que quiere transformar la comunicación interna de las grandes corporaciones",
+    "resumen": "Evoco, pionera del pódcast corporativo en España, lanza una división especializada en comunicación interna que acompaña a los departamentos de Recursos Humanos desde el diagnóstico hasta la puesta en ...",
+    "medio": "La Vanguardia",
+    "fecha": "2026-11-23T22:00:00.000Z",
+    "url": "https://www.lavanguardia.com/empresas-de-vanguardia/historias-de-exito/20261124/11682198/que-sirve-comunicar-nadie-escucha-empresa-quiere-transformar-comunicacion-interna-grandes-corporaciones.html"
+   },
+   {
     "id": "e25f1b06016d",
     "tema": "Comunicación",
     "titular": "Good Rebels cerrará 2026 con tres incorporaciones y 21 millones de facturación",
@@ -353,15 +353,6 @@
     "medio": "Top Comunicación",
     "fecha": "2026-11-23T13:41:29.000Z",
     "url": "https://www.topcomunicacion.com/grandes-retos-de-las-marcas-black-friday/"
-   },
-   {
-    "id": "d8aaa78ec35f",
-    "tema": "Comunicación",
-    "titular": "KREAB lidera el sector de los asuntos públicos en España",
-    "resumen": "POR REDACCIÓN, 23 DE NOVIEMBRE DE 2026 KREAB España revalida su liderazgo en el sector de los asuntos públicos tras obtener, por segunda edición consecutiva, la primera posición en el ranking de consultoras del estudio “El estado de la actividad de lobbying…",
-    "medio": "Top Comunicación",
-    "fecha": "2026-11-23T13:29:46.000Z",
-    "url": "https://www.topcomunicacion.com/kreab-lidera-el-sector-de-los-asuntos-publicos-en-espana/"
    }
   ]
  }
