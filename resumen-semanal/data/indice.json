@@ -1,6 +1,11 @@
 {
  "dias": [
   {
+   "id": "2026-11-24",
+   "titulo": "martes, 24 de noviembre",
+   "noticias": 39
+  },
+  {
    "id": "2026-11-23",
    "titulo": "lunes, 23 de noviembre",
    "noticias": 30
