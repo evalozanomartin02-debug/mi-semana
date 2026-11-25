@@ -1,7 +1,7 @@
 {
  "id": "2026-11-25",
  "titulo": "miércoles, 25 de noviembre",
- "publicado": "2026-11-25T05:57:07.919Z",
+ "publicado": "2026-11-25T07:16:06.829Z",
  "secciones": {
   "mundo": [
    {
@@ -23,13 +23,13 @@
     "url": "https://www.bbc.com/news/articles/cqwy0rr4rr4yo"
    },
    {
-    "id": "545e64389090",
+    "id": "fac7fbb6c137",
     "tema": "Deporte",
-    "titular": "Champions League highlights and round-up: Real Madrid stay perfect, Galatasaray and Como win again",
-    "resumen": "Jude Bellingham and Kylian Mbappé shone for Madrid while Galatasaray and Como were victorious again as UEFA Champions League Matchday 5 kicked off.",
-    "medio": "UEFA",
-    "fecha": "2026-11-24T14:19:00.000Z",
-    "url": "https://www.uefa.com/uefachampionsleague/news/02ab-222684fc8e44-2b1a32c90a7a-1000--champions-league-highlights-and-round-up-real-madrid-sta/"
+    "titular": "Así está la clasificación de la Champions League tras los resultados de los partidos de la jornada 5 de la fase de grupos disputados hoy, martes 24 de noviembre",
+    "resumen": "La Champions League sigue su curso y tras los partidos de la jornada 5 de la fase de grupos disputados hoy, martes 24 de noviembre , así queda la clasificación.",
+    "medio": "La Vanguardia",
+    "fecha": "2026-11-24T15:00:00.000Z",
+    "url": "https://www.lavanguardia.com/deportes/futbol/20261124/0/champions-league-2026-2027-resultado-clasificacion-ca-jornada-5-ctx.html"
    },
    {
     "id": "ab4e4d8f0aa2",
@@ -68,13 +68,13 @@
     "url": "https://www.bbc.co.uk/newsround/videos/cwm2mzn98zpro"
    },
    {
-    "id": "6a896724b5ea",
-    "tema": "Deporte",
-    "titular": "Dynamic pricing to be used for games in US during 2031 Women’s World Cup",
-    "resumen": "The controversial ticketing model was met with criticism from fans during this year’s men’s World Cup but Fifa still brought in record revenues ...",
-    "medio": "The Guardian",
-    "fecha": "2026-11-24T05:53:00.000Z",
-    "url": "https://www.theguardian.com/football/2026/nov/24/dynamic-pricing-tickets-womens-world-cup-2031"
+    "id": "237af326ef0b",
+    "tema": "Personalidades",
+    "titular": "Muere el actor E.J. Carroll: apareció en películas como 'Ley y Orden' y dio vida a varios personajes del Grand Theft Auto V",
+    "resumen": "El intérprete estadounidense falleció a los 66 años tras sufrir una embolia pulmonar mientras se dirigía a una sesión de grabación para un anuncio ...",
+    "medio": "El Confidencial",
+    "fecha": "2026-11-24T04:03:00.000Z",
+    "url": "https://www.elconfidencial.com/cultura/2026-11-24/muere-ej-carroll-actor-gta-1qrt_4471320/"
    }
   ],
   "espana": [
@@ -88,6 +88,15 @@
     "url": "https://www.abc.es/gente/gran-olvido-rosalia-latin-grammy-mencion-loli-20261124015945-nt.html"
    },
    {
+    "id": "1cec198bb2c6",
+    "tema": "Deporte",
+    "titular": "David Ferrer, sobre Alcaraz: “Tiene capacidades para ser uno de los mejores de la historia de este deporte”",
+    "resumen": "David Ferrer (Xàbia, 44 años) se despide esta semana en Bolonia como capitán de la Copa Davis con Carlos Alcaraz ya en el equipo, Austria como primer ...",
+    "medio": "El País",
+    "fecha": "2026-11-24T15:59:00.000Z",
+    "url": "https://elpais.com/expres/2026-11-25/david-ferrer-sobre-alcaraz-tiene-capacidades-para-ser-uno-de-los-mejores-de-la-historia-de-este-deporte.html"
+   },
+   {
     "id": "43dc6c9866c5",
     "tema": "Música",
     "titular": "Bad Bunny, Karol G, Rosalía y Fuerza Regida, entre la música latina de GTA VI",
@@ -95,6 +104,15 @@
     "medio": "EFE",
     "fecha": "2026-11-24T12:10:00.000Z",
     "url": "https://efe.com/cultura/videojuegos-cultura/2026-11-24/musica-latina-gta-vi/"
+   },
+   {
+    "id": "030e53298fe7",
+    "tema": "Deporte",
+    "titular": "Marc Márquez, tras ganar su octavo título de MotoGP: \"No rendirme nunca siempre ha sido marca de la casa\"",
+    "resumen": "\"Los resultados han camuflado lo que he sufrido\", asegura el embajador de Estrella Galicia 0,0 tras coronarse por décima vez campeón del mundo. Más información: Marc Márquez culmina su remontada histó ...",
+    "medio": "El Español",
+    "fecha": "2026-11-24T11:14:00.000Z",
+    "url": "https://www.elespanol.com/deportes/motor/motogp/20261124/marc-marquez-ganar-octavo-titulo-motogp-no-rendirme-nunca-siempre-marca-casa/1003744470942_0.html"
    },
    {
     "id": "7f789360db62",
@@ -106,6 +124,15 @@
     "url": "https://www.europapress.es/euskadi/noticia-mas-6000-personas-participado-55-actividades-festival-literario-literaktum-2026-20261124182628.html"
    },
    {
+    "id": "4d88415a07ff",
+    "tema": "Música",
+    "titular": "'Valle Salvaje', avance del capítulo del miércoles 25 de noviembre: Un jornalero despierta el interés de Mercedes",
+    "resumen": "Pese a que Valle Salvaje ya supera holgadamente los 500 episodios, siempre hay espacio en la popular serie de época para nuevos personajes, que pueden cambiar de forma ...",
+    "medio": "El Mundo",
+    "fecha": "2026-11-24T10:25:00.000Z",
+    "url": "https://www.elmundo.es/television/series/2026/11/24/6b056aede4d4d84c4c8b459f.html"
+   },
+   {
     "id": "98b816d3edb0",
     "tema": "Arte y libros",
     "titular": "Museo del Prado expone el uso del arte como poder en la monarquía española del siglo XVII",
@@ -115,40 +142,13 @@
     "url": "https://www.abc.es/sociedad/museo-prado-expone-uso-arte-poder-monarquia-20261124174539-nt.html"
    },
    {
-    "id": "12cc02b2b9c4",
-    "tema": "Deporte",
-    "titular": "Marc Márquez se sincera: \"Los resultados han camuflado lo que he sufrido\"",
-    "resumen": "El flamante 10 veces campeón del mundo analiza su reciente éxito en una entrevista concedida a Estrella Galicia 0,0",
-    "medio": "Marca",
-    "fecha": "2026-11-24T08:20:00.000Z",
-    "url": "https://www.marca.com/motor/motogp/gp-valencia/2026/11/24/marc-marquez-sincera-resultados-han-camuflado-he-sufrido.html"
-   },
-   {
-    "id": "1aebfae916dd",
+    "id": "18152089ddfc",
     "tema": "Premios",
-    "titular": "Un total de 232 largometrajes españoles aspiran a los Premios Goya 2027",
-    "resumen": "Un total de 232 películas españolas estrenadas en España entre el 1 de enero y el 31 de diciembre de 2026 aspiran a la 41 edición de los Premios Goya, de los cuales 139 son de ficción, 85 son ...",
-    "medio": "Europa Press",
-    "fecha": "2026-11-24T04:53:00.000Z",
-    "url": "https://www.europapress.es/cultura/cine-00128/noticia-total-232-largometrajes-espanoles-aspiran-premios-goya-2027-20261124125334.html"
-   },
-   {
-    "id": "eb539c455fd7",
-    "tema": "Música",
-    "titular": "Benidorm Fest 2027: precios y cuándo comprar las entradas de semifinales y final",
-    "resumen": "La organización ha fijado el precio de las localidades para las semifinales en 40 euros, mientras que las de la final alcanzarán los 75 euros. A estas cantidades habrá que añadir los correspondientes ...",
-    "medio": "Marca",
-    "fecha": "2026-11-24T04:52:00.000Z",
-    "url": "https://www.marca.com/tiramillas/musica/2026/11/24/benidorm-fest-2027-precios-comprar-entradas-semifinales-final.html"
-   },
-   {
-    "id": "fa25e7e1063f",
-    "tema": "Arte y libros",
-    "titular": "La exposición de Dalí ideal para visitar hasta el 24 de enero: 91 obras en Madrid sobre su obsesión por Freud",
-    "resumen": "Esta impresionante muestra corona una temporada de arte única a la que se le suman, entre otras, las Prerrafaelitas, de Mapfre, Rilke, en el Prado y La Menesunda, en el Reina Sofía.",
-    "medio": "El Español",
-    "fecha": "2026-11-23T16:00:00.000Z",
-    "url": "https://www.elespanol.com/viajes/planes/20261124/exposicion-dali-ideal-visitar-enero-obras-madrid-obsesion-freud/1003744463546_0.html"
+    "titular": "El Black Friday de Medina del Campo sortea 21 premios valorados en casi 12.000 euros hasta el 29 de noviembre",
+    "resumen": "El 3 de diciembre se entregan los premios Fernando de Antequera, con Toni Nadal, y del 16 de diciembre al 6 de enero vuelve la campaña de Navidad, con bonos de hasta 1.000 euros | Cadena SER ...",
+    "medio": "Cadena SER",
+    "fecha": "2026-11-24T05:00:00.000Z",
+    "url": "https://cadenaser.com/castillayleon/2026/11/24/el-black-friday-de-medina-del-campo-sortea-21-premios-valorados-en-casi-12000-euros-hasta-el-29-de-noviembre-radio-medina/"
    }
   ],
   "belgica": [
@@ -189,15 +189,6 @@
     "url": "https://www.rtbf.be/article/concours-remportez-des-places-pour-l-avant-premiere-de-la-serie-belge-la-traque-11819737"
    },
    {
-    "id": "0691b91bcaba",
-    "tema": "Cine y series",
-    "titular": "Qui est Mona Mina Leon, l'actrice belge qui est entrée dans l'histoire en remportant un International Emmy Award",
-    "resumen": "Elle a été primée ce lundi 23 novembre à New York pour sa prestation dans la série flamande \"Holy Sh ! t\". Son histoire est liée à l'affaire des ...",
-    "medio": "DH",
-    "fecha": "2026-11-24T04:32:00.000Z",
-    "url": "https://www.dhnet.be/medias/series/2026/11/24/qui-est-mona-mina-leon-lactrice-belge-qui-est-entree-dans-lhistoire-en-remportant-un-international-emmy-award-Z6PIRPKFMFCDBH2GYLXDJFQNNA/"
-   },
-   {
     "id": "b93ad0df8a2a",
     "tema": "Arte y libros",
     "titular": "Ouverture de Kanal, à Bruxelles : on a visité la première grande exposition (PHOTOS ET VIDEO)",
@@ -223,18 +214,18 @@
     "medio": "Le Soir",
     "fecha": "2026-11-24T01:38:00.000Z",
     "url": "https://soirmag.lesoir.be/784547/article/2026-11-24/le-festival-rock-werchter-ajoute-dix-nouveaux-noms-sa-programmation"
+   },
+   {
+    "id": "41aebf34257c",
+    "tema": "País",
+    "titular": "EU unveils new sweeping sanctions against Russia targeting banks, energy, sports",
+    "resumen": "EU Commission President Ursula von der Leyen has announced a 22nd package of EU sanctions against Russia, including measures targeting banks, the energy sector, visa rules, and participation in sports ...",
+    "medio": "The Brussels Times",
+    "fecha": "2026-11-23T16:00:00.000Z",
+    "url": "https://www.brusselstimes.com/2421397/eu-unveils-new-sweeping-sanctions-against-russia-targeting-banks-energy-sports"
    }
   ],
   "marcas": [
-   {
-    "id": "c37018e6d0a2",
-    "tema": "Marcas en España",
-    "titular": "UEFA Conference League: FC Iberia 1999-Getafe CF",
-    "resumen": "Tercera competición europea de fútbol a nivel de clubes. En M+ Liga Campeones 2, jueves 26 de noviembre a las 18:45.",
-    "medio": "Mundo Deportivo",
-    "fecha": "2026-11-24T19:34:00.000Z",
-    "url": "https://www.mundodeportivo.com/guia-tv/programa/uefa-conference-league-fc-iberia-1999-getafe-cf-m-mas-liga-campeones-2"
-   },
    {
     "id": "f018c57b451d",
     "tema": "Campañas y eventos",
@@ -243,15 +234,6 @@
     "medio": "Marketing Week",
     "fecha": "2026-11-24T16:01:00.000Z",
     "url": "https://www.marketingweek.com/tony-chocolonely-ad-banned-lhf/"
-   },
-   {
-    "id": "b0ecbf466d25",
-    "tema": "Marcas globales",
-    "titular": "Caitlin Clark’s Nike unboxing turns “Nothing Special” into something unforgettable",
-    "resumen": "The layered packages are moving fans with thoughtful details, playful surprises and a campaign built around Clark’s personality ...",
-    "medio": "Marca",
-    "fecha": "2026-11-24T15:59:00.000Z",
-    "url": "https://www.marca.com/en/basketball/wnba/indiana-fever/2026/11/25/caitlin-clark-s-nike-unboxing-turns-nothing-special-into-something-unforgettable.html"
    },
    {
     "id": "da87147fa83d",
@@ -297,9 +279,45 @@
     "medio": "ABC",
     "fecha": "2026-11-24T07:04:00.000Z",
     "url": "https://www.abc.es/espana/comunidad-valenciana/proveedor-agua-mercadona-adquiere-riojana-mineraqua-ampliar-20261124160301-nt.html"
+   },
+   {
+    "id": "181bba229649",
+    "tema": "Marcas globales",
+    "titular": "BBC and Netflix team up for new CBeebies hub on streamer",
+    "resumen": "BBC iPlayer will remain the home for all CBeebies content. Some CBeebies shows such as Shaun the Sheep are already available on Netflix, but this is the first time they will have a home hub on the ...",
+    "medio": "BBC",
+    "fecha": "2026-11-24T05:05:00.000Z",
+    "url": "https://www.bbc.com/news/articles/c9zr585dxkgzo"
+   },
+   {
+    "id": "fc07b05a6109",
+    "tema": "Marcas en España",
+    "titular": "Mercadona abre su nuevo modelo de ‘tienda 9’ en lanzarote con más espacio para frescos",
+    "resumen": "‘Tienda 9’ mejora la experiencia de compra de los “Jefes” (clientes), refuerza el compromiso con la calidad y frescura e incrementa la productividad y eficiencia del supermercado | Cadena SER ...",
+    "medio": "Cadena SER",
+    "fecha": "2026-11-24T04:02:00.000Z",
+    "url": "https://cadenaser.com/canarias/2026/11/24/mercadona-abre-su-nuevo-modelo-de-tienda-9-en-lanzarote-con-mas-espacio-para-frescos-ser-lanzarote/"
    }
   ],
   "comunicacion": [
+   {
+    "id": "6eba650400da",
+    "tema": "Empresa",
+    "titular": "Who Can Say No to the Founder? A Strong Second-in-Command.",
+    "resumen": "Find new ideas and classic advice on strategy, innovation and leadership, for global leaders from the world's best business and management experts.",
+    "medio": "Harvard Business Review",
+    "fecha": "2026-11-24T17:03:00.000Z",
+    "url": "https://ics.hbr.org/store/landing/emotional-intelligence-series"
+   },
+   {
+    "id": "0880a018bab7",
+    "tema": "Empresa",
+    "titular": "Small Ways to Show Appreciation and Gratitude",
+    "resumen": "In honor of the Thanksgiving holiday in the U.S., we’re sharing some of our favorite tips on gratitude and appreciation this week. You don’t need grand gestures to show your employees you appreciate ...",
+    "medio": "Harvard Business Review",
+    "fecha": "2026-11-24T15:59:00.000Z",
+    "url": "https://hbr.org/tip/2026/11/small-ways-to-show-appreciation-and-gratitude-3"
+   },
    {
     "id": "4c5a64c60a5d",
     "tema": "Empresa",
@@ -308,24 +326,6 @@
     "medio": "Harvard Business Review",
     "fecha": "2026-11-24T09:13:00.000Z",
     "url": "https://hbr.org/sponsored/2026/11/from-workforce-intelligence-to-action"
-   },
-   {
-    "id": "cbcb3b503ec1",
-    "tema": "Empresa",
-    "titular": "When a CEO Becomes Bigger Than the Company",
-    "resumen": "The recent governance challenges at Nvidia illustrate how a company’s dependence on a powerful, highly successful founder CEO can expose significant organizational risks. When boards defer too much to ...",
-    "medio": "Harvard Business Review",
-    "fecha": "2026-11-24T05:34:00.000Z",
-    "url": "https://hbr.org/2026/11/when-a-ceo-becomes-bigger-than-the-company"
-   },
-   {
-    "id": "95818a214ed5",
-    "tema": "Empresa",
-    "titular": "What Will You Stop Doing Under Your New Strategy?",
-    "resumen": "Organizations often struggle to execute their strategies not because they lack clear priorities, but because they fail to make room for them. As leaders add initiatives, projects, meetings, and ...",
-    "medio": "Harvard Business Review",
-    "fecha": "2026-11-24T05:15:00.000Z",
-    "url": "https://hbr.org/2026/11/what-will-you-stop-doing-under-your-new-strategy"
    },
    {
     "id": "be190e65d5e1",
