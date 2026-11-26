@@ -1,0 +1,368 @@
+{
+ "id": "2026-11-26",
+ "titulo": "jueves, 26 de noviembre",
+ "publicado": "2026-11-26T05:57:11.379Z",
+ "secciones": {
+  "mundo": [
+   {
+    "id": "8d0b78d2db03",
+    "tema": "Deporte",
+    "titular": "Así está la clasificación de la Champions League tras los resultados de los partidos de la jornada 5 de la fase de grupos disputados hoy, miércoles 25 de noviembre",
+    "resumen": "La Champions League sigue su curso y tras los partidos de la jornada 5 de la fase de grupos disputados hoy, miércoles 25 de noviembre , así queda la clasificación.",
+    "medio": "La Vanguardia",
+    "fecha": "2026-11-25T15:00:00.000Z",
+    "url": "https://www.lavanguardia.com/deportes/futbol/20261125/0/champions-league-2026-2027-resultado-clasificacion-ca-jornada-5-ctx.html"
+   },
+   {
+    "id": "8190d02700b9",
+    "tema": "Personalidades",
+    "titular": "Muere a los 68 años el actor Steven Hack: debutó en 'Grease', estrenó 'Cats' y brilló en 'Mentes criminales' y 'American Horror Story'",
+    "resumen": "El mundo de la televisión despide a Steven Hack, el inolvidable secundario de ‘Mentes criminales’, ‘American Horror Story’ y ‘Seinfeld’, que ha fallecido a los 68 años en Los Ángeles tras un paro card ...",
+    "medio": "El Confidencial",
+    "fecha": "2026-11-25T09:13:00.000Z",
+    "url": "https://www.elconfidencial.com/cultura/2026-11-25/muere-68-anos-steven-hack-grease-cats-mentes-criminales-seinfeld-1qrt_4472602/"
+   },
+   {
+    "id": "533dde0f957a",
+    "tema": "Premios",
+    "titular": "Mahershala Ali, actor ganador de dos Oscar, sobre las dificultades que tiene para encontrar trabajo: \"En la gran mayoría de los proyectos a los que se da luz verde, no hay ...",
+    "resumen": "Ganar un premio Oscar parece el hito más importante de la carrera de un actor o actriz. Pero tener una estatuilla no siempre es sinónimo de una carrera brillante, y algunos ...",
+    "medio": "El Mundo",
+    "fecha": "2026-11-25T09:02:00.000Z",
+    "url": "https://www.elmundo.es/cultura/cine/2026/11/25/6b06f252e4d4d8ce538b4579.html"
+   },
+   {
+    "id": "75c2cf121688",
+    "tema": "Premios",
+    "titular": "Brahim, asistencia... para el Balón de Oro africano",
+    "resumen": "Brahim Díaz es noticia: el jugador madridista fue nominado como uno de los cinco candidatos a mejor jugador africano del año 2026, en un premio otorgado por la CAF (Confederación Africana de Fútbol).",
+    "medio": "Marca",
+    "fecha": "2026-11-25T08:26:00.000Z",
+    "url": "https://www.marca.com/futbol/real-madrid/2026/11/25/brahim-asistencia-balon-oro-africano.html"
+   },
+   {
+    "id": "7c2a07f5eb10",
+    "tema": "Premios",
+    "titular": "Rita Levi-Montalcini, Premio Nobel de Medicina: \"Mi cerebro pronto tendrá un siglo, pero no conoce la senilidad\"",
+    "resumen": "La neuróloga italiana defendía que mantener la mente activa y estimulada permite al cerebro adaptarse al paso de los años gracias a su plasticidad neuronal ...",
+    "medio": "El Confidencial",
+    "fecha": "2026-11-25T08:14:00.000Z",
+    "url": "https://www.vanitatis.elconfidencial.com/vida-saludable/2026-11-25/rita-levi-montalcini-premio-nobel-de-medicina_4412315/"
+   },
+   {
+    "id": "ec91b4552933",
+    "tema": "Deporte",
+    "titular": "La revolución de la NBA en Europa empieza en los pabellones",
+    "resumen": "El plan de la NBA en Europa sigue en marcha. La fecha de arranque es octubre de 2027 y, aunque todavía no ha confirmado los equipos que participarían en ella, este miércoles anunció que destinará al m ...",
+    "medio": "AS",
+    "fecha": "2026-11-25T05:07:00.000Z",
+    "url": "https://as.com/baloncesto/nba/la-revolucion-de-la-nba-en-europa-empieza-en-los-pabellones-f202611-n/"
+   },
+   {
+    "id": "0a5f1bba4deb",
+    "tema": "Deporte",
+    "titular": "NBA rallies private equity for €10bn European arena fund",
+    "resumen": "Basketball league wants to help teams finance new arenas as part of its effort to launch a European competition ...",
+    "medio": "Financial Times",
+    "fecha": "2026-11-24T21:00:00.000Z",
+    "url": "https://www.ft.com/content/e70a4095-2e8a-4211-aa38-1ad6a95169cb?syn-25a6b1a6=1"
+   },
+   {
+    "id": "22525ad743ca",
+    "tema": "Cine y series",
+    "titular": "Cinco millones de visualizaciones y la serie más vista a nivel mundial en Netflix: este grupo de chicas empiezan a tener visiones proféticas en un colegio católico",
+    "resumen": "N etflix es una plataforma atrevida a la hora de elegir sus próximos proyectos, pero ninguno había generado tal revuelo como el de la nueva serie de Quinn Sefarad. Trata de un grupo de jóvenes que ...",
+    "medio": "Marca",
+    "fecha": "2026-11-24T01:03:00.000Z",
+    "url": "https://www.marca.com/tiramillas/series/2026/11/24/cinco-millones-visualizaciones-serie-vista-nivel-mundial-netflix-grupo-chicas-empiezan-visiones-profeticas-colegio-catolico.html"
+   }
+  ],
+  "espana": [
+   {
+    "id": "58b7454bb36d",
+    "tema": "Música",
+    "titular": "Icónica deja la Plaza de España por Navidad y se instala en el centro de Sevilla para regalar música y recoger juguetes",
+    "resumen": "El festival abrirá este viernes 27 de noviembre una tienda pop-up en la avenida de la Constitución. Más información: Javier Esteban, CEO de Icónica: \"Debemos apostar por la cultura y perder al turista ...",
+    "medio": "El Español",
+    "fecha": "2026-11-25T16:00:00.000Z",
+    "url": "https://www.elespanol.com/sevilla/20261126/iconica-deja-plaza-espana-navidad-instala-centro-sevilla-regalar-musica-recoger-juguetes/1003744471955_0.html"
+   },
+   {
+    "id": "6e56ff9ecb8e",
+    "tema": "Música",
+    "titular": "Rosalía a la fuga, Ana Mena indultada y Aitana enamorada: el complicado arte de mendigar declaraciones en una alfombra roja",
+    "resumen": "Durante décadas, Hollywood nos ha vendido la idea de que una red carpet es una larguísima alfombra roja, recta como la Gran Vía, por la que las celebrities caminan desde ...",
+    "medio": "El Mundo",
+    "fecha": "2026-11-25T13:33:00.000Z",
+    "url": "https://www.elmundo.es/loc/2026/11/25/6b071c47e9cf4a3b4e8b4591.html"
+   },
+   {
+    "id": "5326f1beb8f9",
+    "tema": "Música",
+    "titular": "'Valle Salvaje', avance del capítulo del jueves 26 de noviembre: Alejo asesta a don Hernando un golpe decisivo",
+    "resumen": "Valle Salvaje vive momentos decisivos en sus últimos capítulos. La posible boda de Manuela y Alejo, con don Hernando presionando por el enlace, pese a la resistencia del ...",
+    "medio": "El Mundo",
+    "fecha": "2026-11-25T10:25:00.000Z",
+    "url": "https://www.elmundo.es/television/series/2026/11/25/6b06bcd8e4d4d8e2268b4575.html"
+   },
+   {
+    "id": "7082bf0838f0",
+    "tema": "Deporte",
+    "titular": "España se estrena con un Alcaraz entre algodones",
+    "resumen": "El combinado español debuta en las Finales a 8 de la Copa Davis con el objetivo de alzar la séptima Ensaladera de su historia ...",
+    "medio": "Sport",
+    "fecha": "2026-11-25T08:29:00.000Z",
+    "url": "https://www.sport.es/es/noticias/tenis/espana-estrena-alcaraz-algodones-136846911"
+   },
+   {
+    "id": "955b7315ee5e",
+    "tema": "Deporte",
+    "titular": "Carlos Alcaraz, sobre su presencia en la Davis: \"Estoy haciendo algunos ejercicios para fortalecer... así que ya veremos\"",
+    "resumen": "Se prevé que el murciano juegue esta semana la Copa Davis por primera vez desde los cuartos de final de 2024 | Cadena SER ...",
+    "medio": "Cadena SER",
+    "fecha": "2026-11-25T07:15:00.000Z",
+    "url": "https://cadenaser.com/nacional/2026/11/25/carlos-alcaraz-sobre-su-presencia-en-la-davis-estoy-haciendo-algunos-ejercicios-para-fortalecer-asi-que-ya-veremos-cadena-ser/"
+   },
+   {
+    "id": "bcebf11d4046",
+    "tema": "Cine y series",
+    "titular": "RNE Audio estrena 'Quédate a los créditos', el nuevo pódcast sobre los oficios del cine",
+    "resumen": "Aún quedan algunos románticos que, al terminar una película, se quedan a leer todos los créditos. Para todos los demás, el nuevo pódcast de RNE Audio ‘Quédate a los créditos’ propone detenerse en ...",
+    "medio": "RTVE",
+    "fecha": "2026-11-25T03:13:00.000Z",
+    "url": "https://www.rtve.es/rtve/20261125/rne-audio-estrena-quedate-creditos-nuevo-podcast-oficios-cine/17329941.shtml"
+   },
+   {
+    "id": "d147ee7da78a",
+    "tema": "Deporte",
+    "titular": "Resultados jornada 18LALIGA EA Sports 2026/2027",
+    "resumen": "Simeone se convierte en el entrenador con más victorias en Liga (345) y los rojiblancos se mantienen en la pelea por la Liga con goles del almeriense, Cardoso y Grimaldo ...",
+    "medio": "El País",
+    "fecha": "2026-11-25T01:01:00.000Z",
+    "url": "https://elpais.com/deportes/resultados/futbol/primera/2026_2027/jornada/regular-a-18/"
+   },
+   {
+    "id": "ed62df9b3138",
+    "tema": "Arte y libros",
+    "titular": "El Prado dedica una exposición a Mariana de Austria, la mujer que afianzó su poder a golpe de retrato",
+    "resumen": "La muestra reúne 111 obras que reflejan la evolución de la reina regente tras la muerte de su marido Felipe IV. Su hijo Carlos II tomó el relevo al frente del reino en 1675. Más información: El testam ...",
+    "medio": "El Español",
+    "fecha": "2026-11-24T09:03:00.000Z",
+    "url": "https://www.elespanol.com/el-cultural/arte/20261124/prado-dedica-exposicion-mariana-austria-mujer-afianzo-poder-golpe-retrato/1003744470723_0.html"
+   }
+  ],
+  "belgica": [
+   {
+    "id": "c3c441a93f8c",
+    "tema": "País",
+    "titular": "Bring on the turkey: Where to celebrate Thanksgiving in Brussels",
+    "resumen": "Whether you're an American living in Belgium, a Belgian curious to experience the tradition or someone who just simply likes turkey, there are several fun options to celebrate the holiday.",
+    "medio": "The Brussels Times",
+    "fecha": "2026-11-25T16:00:00.000Z",
+    "url": "https://www.brusselstimes.com/belgium/2412382/bring-on-the-turkey-where-to-celebrate-thanksgiving-in-brussels"
+   },
+   {
+    "id": "a15c291c9c4c",
+    "tema": "Deporte",
+    "titular": "Ligue des Champions - Coup d'arrêt en C1 pour le Club Bruges, puni par une équipe de Liverpool efficace",
+    "resumen": "Le Club Bruges a été battu 0-3 mercredi lors de la réception de Liverpool dans une rencontre de la 5e journée de phase de ligue de Ligue des ...",
+    "medio": "DH",
+    "fecha": "2026-11-25T14:34:00.000Z",
+    "url": "https://www.dhnet.be/dernieres-depeches/2026/11/25/ligue-des-champions-coup-darret-en-c1-pour-le-club-bruges-puni-par-une-equipe-de-liverpool-efficace-DCUMAEGPZJHBVMG36X4Q73HI3U/"
+   },
+   {
+    "id": "79574d0a775b",
+    "tema": "Deporte",
+    "titular": "Une Champions League simulée avec tous les meilleurs clubs d'Europe à leur apogée : voici où se situe Anderlecht",
+    "resumen": "Le site \"Football Meets Data\" s'est amusé à opposer les meilleures équipes de l'histoire du foot européen dans une Champions League fictive.",
+    "medio": "DH",
+    "fecha": "2026-11-25T06:01:00.000Z",
+    "url": "https://www.dhnet.be/sports/football/division-1a/anderlecht/2026/11/25/une-champions-league-simulee-avec-tous-les-meilleurs-clubs-deurope-a-leur-apogee-voici-ou-se-situe-anderlecht-BIXAQZHBF5ADNIZLJAPYQH3JZY/"
+   },
+   {
+    "id": "6a60b9562c2d",
+    "tema": "Deporte",
+    "titular": "Anderlecht : un petit changement de programme qui ne plaît guère à Vitor Bruno",
+    "resumen": "Ce jeudi (21h), les Anderlechtois affrontent l’OFI Crête pour le compte de la cinquième journée de l’Europa League.",
+    "medio": "Le Soir",
+    "fecha": "2026-11-25T05:43:00.000Z",
+    "url": "https://www.lesoir.be/784842/article/2026-11-25/anderlecht-un-petit-changement-de-programme-qui-ne-plait-guere-vitor-bruno"
+   },
+   {
+    "id": "426f432d1c93",
+    "tema": "País",
+    "titular": "Le Quai10 vous raconte comment la Wallonie a contribué à écrire l’histoire du gaming mondial",
+    "resumen": "Alors que GTA 6 fait l’événement dans l’industrie vidéoludique, le Quai10, à Charleroi, propose de remonter le ...",
+    "medio": "RTBF",
+    "fecha": "2026-11-25T05:30:00.000Z",
+    "url": "https://www.rtbf.be/article/le-quai10-vous-raconte-comment-la-wallonie-a-contribue-a-ecrire-l-histoire-du-gaming-mondial-11820247"
+   },
+   {
+    "id": "9729c325364c",
+    "tema": "Cine y series",
+    "titular": "\"Nourrices\" : un thriller historique brillant et bouleversant qui fait écho à \"La Servante Écarlate\"",
+    "resumen": "Mais Nourrices n'est pas seulement une fresque historique. C'est aussi un thriller redoutablement efficace. Odette et Rose sont au cœur d'une enquête criminelle qui constitue le fil rouge du récit et ...",
+    "medio": "RTBF",
+    "fecha": "2026-11-25T05:23:00.000Z",
+    "url": "https://www.rtbf.be/article/nourrices-un-thriller-historique-brillant-et-bouleversant-qui-fait-echo-a-la-servante-ecarlate-11820998"
+   },
+   {
+    "id": "1722998a3375",
+    "tema": "Cine y series",
+    "titular": "Yoann Zimmer joue Patrick Haemers, l'ennemi public n°1 dans la série événement de la RTBF: \"Les accents, les perruques, ce n'est pas mon délire\"",
+    "resumen": "Depuis plus de dix ans, le monde audiovisuel veut adapter le parcours de Patrick Haemers, l'ennemi public n°1 belge des années 80. Sans ...",
+    "medio": "DH",
+    "fecha": "2026-11-25T04:01:00.000Z",
+    "url": "https://www.dhnet.be/regions/namur/2026/11/25/yoann-zimmer-joue-patrick-haemers-lennemi-public-n1-dans-la-serie-evenement-de-la-rtbf-les-accents-les-perruques-ce-nest-pas-mon-delire-O5HNSQ4UY5BSTEUNPDH52Q2QZE/"
+   },
+   {
+    "id": "05a468de5739",
+    "tema": "Música",
+    "titular": "Rock Werchter 2027 compte sur Pommelien Thijs pour fédérer la foule",
+    "resumen": "Ce n’est pas si fréquent de voir le plus grand festival du pays, habitué aux stars internationales et aux artistes ...",
+    "medio": "RTBF",
+    "fecha": "2026-11-25T01:23:00.000Z",
+    "url": "https://www.rtbf.be/article/rock-werchter-2027-compte-sur-pommelien-thijs-pour-federer-la-foule-11820768"
+   }
+  ],
+  "marcas": [
+   {
+    "id": "5a03db367a88",
+    "tema": "Marcas en España",
+    "titular": "Iberia 1999, el nuevo ‘gigante’ de Georgia que amenaza al Getafe",
+    "resumen": "Para el Iberia 1999, recibir a un equipo de LaLiga supone un nuevo escaparate internacional. Para el Getafe, sin embargo, el encuentro tiene un significado muy diferente. Los azulones necesitan los ...",
+    "medio": "AS",
+    "fecha": "2026-11-25T19:45:00.000Z",
+    "url": "https://as.com/futbol/uefa/iberia-1999-el-nuevo-gigante-de-georgia-que-amenaza-al-getafe-f202611-n/"
+   },
+   {
+    "id": "00c7c62845f7",
+    "tema": "Campañas y eventos",
+    "titular": "Brandweek 2026: Consumer-First Still Beats AI-First ft. Laura Knebusch",
+    "resumen": "Live from the Marketing Vanguard stage at Brandweek 2026, Jenny Rooney sits down with Laura Knebusch, senior vice president of CPG marketing and customer experience at Georgia-Pacific, to explore what ...",
+    "medio": "Adweek",
+    "fecha": "2026-11-25T11:02:00.000Z",
+    "url": "https://www.adweek.com/brand-marketing/brandweek-2026-consumer-first-still-beats-ai-first-ft-laura-knebusch/"
+   },
+   {
+    "id": "def62241c730",
+    "tema": "Marcas en España",
+    "titular": "Hasta Mercadona ya vende el suplemento de moda: colágeno en cápsulas, y lo hay también en péptidos",
+    "resumen": "Tanto, que ya no hace falta ir a una tienda especializada para encontrarlos: ahora mismo puedes comprar colágeno en cápsulas en supermercados como Mercadona o Lidl, que lo han incorporado a su ...",
+    "medio": "20minutos",
+    "fecha": "2026-11-25T08:00:00.000Z",
+    "url": "https://www.20minutos.es/ofertas-descuentos/hasta-mercadona-ya-vende-suplemento-moda-colageno-capsulas-hay-tambien-peptidos_7064409_0.html"
+   },
+   {
+    "id": "a543bff1d745",
+    "tema": "Marcas en España",
+    "titular": "Movistar Prosegur alarmas obtiene una certificación internacional por su apuesta por el talento joven",
+    "resumen": "El distintivo reconoce políticas de formación, incorporación, promoción interna y bienestar destinadas a impulsar las carreras de profesionales júnior ...",
+    "medio": "El Confidencial",
+    "fecha": "2026-11-25T07:25:00.000Z",
+    "url": "https://www.elconfidencial.com/empresas/2026-11-25/movistar-prosegur-certificacion-talento-joven-1hms_4472405/"
+   },
+   {
+    "id": "7573b1c15937",
+    "tema": "Campañas y eventos",
+    "titular": "Just 36% of UK marketers plan to grow media budgets in 2027, research suggests",
+    "resumen": "The proportion of UK marketers intending to increase media budgets next year has dropped 29 points versus this time last year.",
+    "medio": "Marketing Week",
+    "fecha": "2026-11-25T05:31:00.000Z",
+    "url": "https://www.marketingweek.com/marketers-grow-budgets/"
+   },
+   {
+    "id": "7422e550b8be",
+    "tema": "Marcas globales",
+    "titular": "Bernard Arnault Can Lead LVMH Holding Company Until He’s 95",
+    "resumen": "The 77-year old chairman and chief executive of LVMH can lead family holding company Agache until the age of 95, according to a filing this week.",
+    "medio": "Business of Fashion",
+    "fecha": "2026-11-25T03:07:00.000Z",
+    "url": "https://www.businessoffashion.com/news/luxury/bernard-arnault-can-lead-lvmh-holding-company-until-hes-95/"
+   },
+   {
+    "id": "20b8c610aaef",
+    "tema": "Campañas y eventos",
+    "titular": "Whiskey Brand Evan Williams Makes Its First Move Into College Football",
+    "resumen": "Kentucky-based whiskey brand Evan Williams Bourbon has become the first sponsor in the distilled spirits category to secure a sponsorship position across Disney-owned ACC Network’s college football ...",
+    "medio": "Adweek",
+    "fecha": "2026-11-24T08:16:00.000Z",
+    "url": "https://www.adweek.com/brand-marketing/whiskey-brand-evan-williams-makes-its-first-drive-into-college-football/?itm_source=homepage&itm_medium=the-latest-left&itm_campaign=9"
+   },
+   {
+    "id": "5a3fb20615ad",
+    "tema": "Marcas globales",
+    "titular": "The BBC and Netflix trial new ways to bring CBeebies to more families",
+    "resumen": "A curated selection of programmes from CBeebies will also be available on Netflix as part of a new partnership to test new ways to reach audiences ...",
+    "medio": "BBC",
+    "fecha": "2026-11-24T05:00:00.000Z",
+    "url": "https://www.bbc.com/mediacentre/2026/bbc-and-netflix-cbeebies-trial"
+   }
+  ],
+  "comunicacion": [
+   {
+    "id": "0f231a12e6fb",
+    "tema": "Empresa",
+    "titular": "Research: When Leaders Practice Gratitude, It Spreads Through Their Organization",
+    "resumen": "Find new ideas and classic advice on strategy, innovation and leadership, for global leaders from the world's best business and management experts.",
+    "medio": "Harvard Business Review",
+    "fecha": "2026-11-25T07:38:00.000Z",
+    "url": "https://hbr.org/?term=HP+Nut"
+   },
+   {
+    "id": "66f67524c582",
+    "tema": "Empresa",
+    "titular": "Who Can Say No to the Founder? A Strong Second-in-Command.",
+    "resumen": "Find new ideas and classic advice on strategy, innovation and leadership, for global leaders from the world's best business and management experts.",
+    "medio": "Harvard Business Review",
+    "fecha": "2026-11-25T06:04:00.000Z",
+    "url": "https://hbr.org/?term=ukraine+war+strategy+response+today+-+Search"
+   },
+   {
+    "id": "5f2e1865e136",
+    "tema": "Empresa",
+    "titular": "Leading Others Without Losing Yourself",
+    "resumen": "Leadership success often comes with unexpected costs: loneliness, anger, exhaustion, and the pressure to keep achieving at the expense of personal happiness. In an HBR Executive Live conversation with ...",
+    "medio": "Harvard Business Review",
+    "fecha": "2026-11-25T05:15:00.000Z",
+    "url": "https://hbr.org/2026/11/leading-others-without-losing-yourself"
+   },
+   {
+    "id": "520f62f4f0fe",
+    "tema": "Comunicación",
+    "titular": "CMO Barometer 2027 / Los CMOs españoles llegan antes que el resto de Europa a la fase de activación de la IA",
+    "resumen": "POR REDACCIÓN, 25 DE NOVIEMBRE DE 2026 Mientras el promedio europeo sigue buscando el equilibrio entre IA, marca y transformación, los responsables de marketing en España muestran un perfil más pragmático y orientado al rendimiento: menos hablar de IA y más…",
+    "medio": "Top Comunicación",
+    "fecha": "2026-11-25T18:21:38.000Z",
+    "url": "https://www.topcomunicacion.com/cmo-barometer-2027/"
+   },
+   {
+    "id": "caa1a98d7a6b",
+    "tema": "Comunicación",
+    "titular": "La reputación corporativa, clave para un nuevo contrato social entre empresa y sociedad",
+    "resumen": "POR REDACCIÓN, 25 DE NOVIEMBRE DE 2026 Durante su intervención en la inauguración de la XV Reputation Conference, el presidente de Corporate Excellence – Centre for Reputation Leadership, Jordi Garcia Tabernero, ha defendido la necesidad de “un nuevo contrato…",
+    "medio": "Top Comunicación",
+    "fecha": "2026-11-25T17:36:33.000Z",
+    "url": "https://www.topcomunicacion.com/la-reputacion-corporativa-clave-para-un-nuevo-contrato-social-entre-empresa-y-sociedad/"
+   },
+   {
+    "id": "be79fbfaff3b",
+    "tema": "Comunicación",
+    "titular": "‘Los Mejores de PR’ ponen rostro a la transformación de la comunicación",
+    "resumen": "La industria de la comunicación atraviesa una etapa de profunda transformación. La irrupción de nuevas tecnologías, los cambios en los ...",
+    "medio": "PRNoticias",
+    "fecha": "2026-11-25T16:00:00.000Z",
+    "url": "https://prnoticias.com/2026/11/26/los-mejores-de-pr-ponen-rostro-a-la-transformacion-de-la-comunicacion/"
+   },
+   {
+    "id": "5cd9cbd50602",
+    "tema": "Lecturas",
+    "titular": "Joan Laporta: \"Acabaremos pidiendo royalties al Madrid porque promocionan su imagen a costa del Barça\"",
+    "resumen": "Joan Laporta, presidente del FC Barcelona, ha hablado ante los medios de comunicación en los instantes previos a la comida de directivas con el Sabah, rival de este miércoles en Champions, en Bakú.",
+    "medio": "Marca",
+    "fecha": "2026-11-25T01:04:00.000Z",
+    "url": "https://www.marca.com/futbol/barcelona/2026/11/25/joan-laporta-acabaremos-pidiendo-royalties-madrid-promocionan-imagen-costa-barca.html"
+   }
+  ]
+ }
+}
