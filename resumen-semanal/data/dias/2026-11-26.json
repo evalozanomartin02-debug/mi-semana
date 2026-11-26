@@ -1,9 +1,27 @@
 {
  "id": "2026-11-26",
  "titulo": "jueves, 26 de noviembre",
- "publicado": "2026-11-26T05:57:11.379Z",
+ "publicado": "2026-11-26T07:14:35.060Z",
  "secciones": {
   "mundo": [
+   {
+    "id": "f2d9f5d0d255",
+    "tema": "Deporte",
+    "titular": "United States lined up to co-host 2034 men’s T20 World Cup with West Indies",
+    "resumen": "The United States is being lined up to co-host the 2034 men’s T20 World Cup in a joint enterprise with West Indies ...",
+    "medio": "The Guardian",
+    "fecha": "2026-11-25T22:00:00.000Z",
+    "url": "https://www.theguardian.com/sport/2026/nov/26/united-states-co-host-2034-cricket-mens-t20-world-cup-west-indies"
+   },
+   {
+    "id": "021f42eb5fd1",
+    "tema": "Personalidades",
+    "titular": "Andy Taylor, guitarist in Duran Duran, dies aged 65",
+    "resumen": "Musician who had huge 1980s chart success had been diagnosed with prostate cancer in 2018 ...",
+    "medio": "The Guardian",
+    "fecha": "2026-11-25T15:42:00.000Z",
+    "url": "https://www.theguardian.com/music/2026/nov/25/andy-taylor-duran-duran-guitarist-dead"
+   },
    {
     "id": "8d0b78d2db03",
     "tema": "Deporte",
@@ -12,15 +30,6 @@
     "medio": "La Vanguardia",
     "fecha": "2026-11-25T15:00:00.000Z",
     "url": "https://www.lavanguardia.com/deportes/futbol/20261125/0/champions-league-2026-2027-resultado-clasificacion-ca-jornada-5-ctx.html"
-   },
-   {
-    "id": "8190d02700b9",
-    "tema": "Personalidades",
-    "titular": "Muere a los 68 años el actor Steven Hack: debutó en 'Grease', estrenó 'Cats' y brilló en 'Mentes criminales' y 'American Horror Story'",
-    "resumen": "El mundo de la televisión despide a Steven Hack, el inolvidable secundario de ‘Mentes criminales’, ‘American Horror Story’ y ‘Seinfeld’, que ha fallecido a los 68 años en Los Ángeles tras un paro card ...",
-    "medio": "El Confidencial",
-    "fecha": "2026-11-25T09:13:00.000Z",
-    "url": "https://www.elconfidencial.com/cultura/2026-11-25/muere-68-anos-steven-hack-grease-cats-mentes-criminales-seinfeld-1qrt_4472602/"
    },
    {
     "id": "533dde0f957a",
@@ -59,15 +68,6 @@
     "url": "https://as.com/baloncesto/nba/la-revolucion-de-la-nba-en-europa-empieza-en-los-pabellones-f202611-n/"
    },
    {
-    "id": "0a5f1bba4deb",
-    "tema": "Deporte",
-    "titular": "NBA rallies private equity for €10bn European arena fund",
-    "resumen": "Basketball league wants to help teams finance new arenas as part of its effort to launch a European competition ...",
-    "medio": "Financial Times",
-    "fecha": "2026-11-24T21:00:00.000Z",
-    "url": "https://www.ft.com/content/e70a4095-2e8a-4211-aa38-1ad6a95169cb?syn-25a6b1a6=1"
-   },
-   {
     "id": "22525ad743ca",
     "tema": "Cine y series",
     "titular": "Cinco millones de visualizaciones y la serie más vista a nivel mundial en Netflix: este grupo de chicas empiezan a tener visiones proféticas en un colegio católico",
@@ -88,6 +88,15 @@
     "url": "https://www.elespanol.com/sevilla/20261126/iconica-deja-plaza-espana-navidad-instala-centro-sevilla-regalar-musica-recoger-juguetes/1003744471955_0.html"
    },
    {
+    "id": "1b5ec217f015",
+    "tema": "Deporte",
+    "titular": "Jurij Rodionov, el rival de España en la Davis que ganó a un Alcaraz adolescente: \"Se le veía en los ojos que tenía muchísima hambre\"",
+    "resumen": "Jurij Rodionov puede decir algo que muy pocos tenistas pueden decir: tiene más victorias que derrotas ante Carlos Alcaraz. En concreto, una victoria. Y, en concreto, ...",
+    "medio": "El Mundo",
+    "fecha": "2026-11-25T15:06:00.000Z",
+    "url": "https://www.elmundo.es/deportes/tenis/2026/11/25/6b06e65d21efa0f96d8b458a.html"
+   },
+   {
     "id": "6e56ff9ecb8e",
     "tema": "Música",
     "titular": "Rosalía a la fuga, Ana Mena indultada y Aitana enamorada: el complicado arte de mendigar declaraciones en una alfombra roja",
@@ -97,31 +106,31 @@
     "url": "https://www.elmundo.es/loc/2026/11/25/6b071c47e9cf4a3b4e8b4591.html"
    },
    {
-    "id": "5326f1beb8f9",
+    "id": "22f803f1900e",
     "tema": "Música",
-    "titular": "'Valle Salvaje', avance del capítulo del jueves 26 de noviembre: Alejo asesta a don Hernando un golpe decisivo",
-    "resumen": "Valle Salvaje vive momentos decisivos en sus últimos capítulos. La posible boda de Manuela y Alejo, con don Hernando presionando por el enlace, pese a la resistencia del ...",
-    "medio": "El Mundo",
-    "fecha": "2026-11-25T10:25:00.000Z",
-    "url": "https://www.elmundo.es/television/series/2026/11/25/6b06bcd8e4d4d8e2268b4575.html"
+    "titular": "'The World of Hans Zimmer' agota las entradas en Madrid y anuncia las últimas localidades",
+    "resumen": "La gira internacional 'The World of Hans Zimmer - A New Dimension' regresará a España en mayo de 2027 con cuatro conciertos en Barcelona, Valencia, Bilbao y Madrid. Las entradas para la actuación en l ...",
+    "medio": "Europa Press",
+    "fecha": "2026-11-25T10:49:00.000Z",
+    "url": "https://www.europapress.es/cultura/musica-00129/noticia-the-world-of-hans-zimmer-agota-entradas-madrid-anuncia-ultimas-localidades-20261125184952.html"
    },
    {
-    "id": "7082bf0838f0",
+    "id": "3f3ef27d823f",
     "tema": "Deporte",
-    "titular": "España se estrena con un Alcaraz entre algodones",
-    "resumen": "El combinado español debuta en las Finales a 8 de la Copa Davis con el objetivo de alzar la séptima Ensaladera de su historia ...",
+    "titular": "Óscar Pereiro (49 años), ganador del Tour en 2006: “Probablemente sin Induráin y Perico no habría acabado siendo ciclista. Mi padre y mi abuelo veían mucho ciclismo ...",
+    "resumen": "El corredor gallego rememoró la victoria más importante de su carrera con motivo del vigésimo aniversario del Tour del 2006, que terminó en sus vitrinas tras la descalificación por dopaje de Landis ...",
     "medio": "Sport",
-    "fecha": "2026-11-25T08:29:00.000Z",
-    "url": "https://www.sport.es/es/noticias/tenis/espana-estrena-alcaraz-algodones-136846911"
+    "fecha": "2026-11-25T10:00:00.000Z",
+    "url": "https://www.sport.es/es/noticias/ciclismo/oscar-pereiro-ganador-tour-2006-indurain-perico-136769970"
    },
    {
-    "id": "955b7315ee5e",
+    "id": "bf99647c70d5",
     "tema": "Deporte",
-    "titular": "Carlos Alcaraz, sobre su presencia en la Davis: \"Estoy haciendo algunos ejercicios para fortalecer... así que ya veremos\"",
-    "resumen": "Se prevé que el murciano juegue esta semana la Copa Davis por primera vez desde los cuartos de final de 2024 | Cadena SER ...",
-    "medio": "Cadena SER",
-    "fecha": "2026-11-25T07:15:00.000Z",
-    "url": "https://cadenaser.com/nacional/2026/11/25/carlos-alcaraz-sobre-su-presencia-en-la-davis-estoy-haciendo-algunos-ejercicios-para-fortalecer-asi-que-ya-veremos-cadena-ser/"
+    "titular": "Carlos Alcaraz, sobre Jannik Sinner tras pasar por el quirófano: \"Obviamente, se le echa de menos en el circuito. Yo le echo de menos. No nos vemos desde abril\"",
+    "resumen": "El murciano, recién proclamado campeón de las ATP Finals, ha dedicado unas bonitas palabras al tenista italiano desde las finales de la Copa Davis y confía en que regrese todavía más fuerte ...",
+    "medio": "Sport",
+    "fecha": "2026-11-25T10:00:00.000Z",
+    "url": "https://www.sport.es/es/noticias/tenis/carlos-alcaraz-jannik-sinner-lesion-quirofano-136840575"
    },
    {
     "id": "bcebf11d4046",
@@ -131,15 +140,6 @@
     "medio": "RTVE",
     "fecha": "2026-11-25T03:13:00.000Z",
     "url": "https://www.rtve.es/rtve/20261125/rne-audio-estrena-quedate-creditos-nuevo-podcast-oficios-cine/17329941.shtml"
-   },
-   {
-    "id": "d147ee7da78a",
-    "tema": "Deporte",
-    "titular": "Resultados jornada 18LALIGA EA Sports 2026/2027",
-    "resumen": "Simeone se convierte en el entrenador con más victorias en Liga (345) y los rojiblancos se mantienen en la pelea por la Liga con goles del almeriense, Cardoso y Grimaldo ...",
-    "medio": "El País",
-    "fecha": "2026-11-25T01:01:00.000Z",
-    "url": "https://elpais.com/deportes/resultados/futbol/primera/2026_2027/jornada/regular-a-18/"
    },
    {
     "id": "ed62df9b3138",
@@ -153,6 +153,15 @@
   ],
   "belgica": [
    {
+    "id": "e5bbbcca0e53",
+    "tema": "Deporte",
+    "titular": "\"Je rêve de la Mannschaft\": Martin Winkler serait le premier joueur d'Anderlecht à jouer pour l'équipe nationale d'Allemagne",
+    "resumen": "Martin Winkler est la meilleure recrue offensive d'Antoine Sibierski, et il a un sacré moteur. \"Il peut enchaîner les matchs tous les trois jours.\" ...",
+    "medio": "DH",
+    "fecha": "2026-11-25T16:00:00.000Z",
+    "url": "https://www.dhnet.be/sports/football/division-1a/anderlecht/2026/11/26/je-reve-de-la-mannschaft-martin-winkler-serait-le-premier-joueur-danderlecht-a-jouer-pour-lequipe-nationale-dallemagne-6RNLWZWB6NG4ZD3EAQJABGDIKY/"
+   },
+   {
     "id": "c3c441a93f8c",
     "tema": "País",
     "titular": "Bring on the turkey: Where to celebrate Thanksgiving in Brussels",
@@ -162,13 +171,13 @@
     "url": "https://www.brusselstimes.com/belgium/2412382/bring-on-the-turkey-where-to-celebrate-thanksgiving-in-brussels"
    },
    {
-    "id": "a15c291c9c4c",
+    "id": "7007a4db70a0",
     "tema": "Deporte",
-    "titular": "Ligue des Champions - Coup d'arrêt en C1 pour le Club Bruges, puni par une équipe de Liverpool efficace",
-    "resumen": "Le Club Bruges a été battu 0-3 mercredi lors de la réception de Liverpool dans une rencontre de la 5e journée de phase de ligue de Ligue des ...",
+    "titular": "\"Le double marquage sur moi ? Je ne prends pas ça pour un compliment\": les joueurs du Club Bruges expliquent comment Liverpool les a battus",
+    "resumen": "La déception ne devrait pas durer longtemps dans le chef des Brugeois. \"On ne finit pas sur un sentiment positif, vous vous en doutez.\" Carlos ...",
     "medio": "DH",
     "fecha": "2026-11-25T14:34:00.000Z",
-    "url": "https://www.dhnet.be/dernieres-depeches/2026/11/25/ligue-des-champions-coup-darret-en-c1-pour-le-club-bruges-puni-par-une-equipe-de-liverpool-efficace-DCUMAEGPZJHBVMG36X4Q73HI3U/"
+    "url": "https://www.dhnet.be/sports/football/division-1a/fc-bruges/2026/11/25/le-double-marquage-sur-moi-je-ne-prends-pas-ca-pour-un-compliment-les-joueurs-du-club-bruges-expliquent-comment-liverpool-les-a-battus-KPUNIOXUURFL7IPBEK2H6DWQYI/"
    },
    {
     "id": "79574d0a775b",
@@ -178,15 +187,6 @@
     "medio": "DH",
     "fecha": "2026-11-25T06:01:00.000Z",
     "url": "https://www.dhnet.be/sports/football/division-1a/anderlecht/2026/11/25/une-champions-league-simulee-avec-tous-les-meilleurs-clubs-deurope-a-leur-apogee-voici-ou-se-situe-anderlecht-BIXAQZHBF5ADNIZLJAPYQH3JZY/"
-   },
-   {
-    "id": "6a60b9562c2d",
-    "tema": "Deporte",
-    "titular": "Anderlecht : un petit changement de programme qui ne plaît guère à Vitor Bruno",
-    "resumen": "Ce jeudi (21h), les Anderlechtois affrontent l’OFI Crête pour le compte de la cinquième journée de l’Europa League.",
-    "medio": "Le Soir",
-    "fecha": "2026-11-25T05:43:00.000Z",
-    "url": "https://www.lesoir.be/784842/article/2026-11-25/anderlecht-un-petit-changement-de-programme-qui-ne-plait-guere-vitor-bruno"
    },
    {
     "id": "426f432d1c93",
@@ -207,15 +207,6 @@
     "url": "https://www.rtbf.be/article/nourrices-un-thriller-historique-brillant-et-bouleversant-qui-fait-echo-a-la-servante-ecarlate-11820998"
    },
    {
-    "id": "1722998a3375",
-    "tema": "Cine y series",
-    "titular": "Yoann Zimmer joue Patrick Haemers, l'ennemi public n°1 dans la série événement de la RTBF: \"Les accents, les perruques, ce n'est pas mon délire\"",
-    "resumen": "Depuis plus de dix ans, le monde audiovisuel veut adapter le parcours de Patrick Haemers, l'ennemi public n°1 belge des années 80. Sans ...",
-    "medio": "DH",
-    "fecha": "2026-11-25T04:01:00.000Z",
-    "url": "https://www.dhnet.be/regions/namur/2026/11/25/yoann-zimmer-joue-patrick-haemers-lennemi-public-n1-dans-la-serie-evenement-de-la-rtbf-les-accents-les-perruques-ce-nest-pas-mon-delire-O5HNSQ4UY5BSTEUNPDH52Q2QZE/"
-   },
-   {
     "id": "05a468de5739",
     "tema": "Música",
     "titular": "Rock Werchter 2027 compte sur Pommelien Thijs pour fédérer la foule",
@@ -223,9 +214,36 @@
     "medio": "RTBF",
     "fecha": "2026-11-25T01:23:00.000Z",
     "url": "https://www.rtbf.be/article/rock-werchter-2027-compte-sur-pommelien-thijs-pour-federer-la-foule-11820768"
+   },
+   {
+    "id": "d5588f712f68",
+    "tema": "País",
+    "titular": "European day set to honour victims of deadly workplace accidents from 2027",
+    "resumen": "Over 3,300 fatal workplace accidents happen annually in the EU. Now, 8 August will commemorate victims, starting in 2027.",
+    "medio": "The Brussels Times",
+    "fecha": "2026-11-24T15:59:00.000Z",
+    "url": "https://www.brusselstimes.com/eu-affairs/2423186/european-day-set-to-honour-victims-of-deadly-workplace-accidents-from-2027/"
    }
   ],
   "marcas": [
+   {
+    "id": "d210a327fb49",
+    "tema": "Campañas y eventos",
+    "titular": "Reality Check: Culture is as much about what stays the same as what changes",
+    "resumen": "Marketers have a tendency to see disruption and change as inherently good - but they should ignore tradition at their peril.",
+    "medio": "Marketing Week",
+    "fecha": "2026-11-25T23:06:00.000Z",
+    "url": "https://www.marketingweek.com/reality-check-culture-same-changes/"
+   },
+   {
+    "id": "def62241c730",
+    "tema": "Marcas en España",
+    "titular": "Hasta Mercadona ya vende el suplemento de moda: colágeno en cápsulas, y lo hay también en péptidos",
+    "resumen": "Tanto, que ya no hace falta ir a una tienda especializada para encontrarlos: ahora mismo puedes comprar colágeno en cápsulas en supermercados como Mercadona o Lidl, que lo han incorporado a su ...",
+    "medio": "20minutos",
+    "fecha": "2026-11-25T22:00:00.000Z",
+    "url": "https://www.20minutos.es/ofertas-descuentos/hasta-mercadona-ya-vende-suplemento-moda-colageno-capsulas-hay-tambien-peptidos_7064409_0.html"
+   },
    {
     "id": "5a03db367a88",
     "tema": "Marcas en España",
@@ -245,22 +263,22 @@
     "url": "https://www.adweek.com/brand-marketing/brandweek-2026-consumer-first-still-beats-ai-first-ft-laura-knebusch/"
    },
    {
-    "id": "def62241c730",
-    "tema": "Marcas en España",
-    "titular": "Hasta Mercadona ya vende el suplemento de moda: colágeno en cápsulas, y lo hay también en péptidos",
-    "resumen": "Tanto, que ya no hace falta ir a una tienda especializada para encontrarlos: ahora mismo puedes comprar colágeno en cápsulas en supermercados como Mercadona o Lidl, que lo han incorporado a su ...",
-    "medio": "20minutos",
-    "fecha": "2026-11-25T08:00:00.000Z",
-    "url": "https://www.20minutos.es/ofertas-descuentos/hasta-mercadona-ya-vende-suplemento-moda-colageno-capsulas-hay-tambien-peptidos_7064409_0.html"
+    "id": "6b47cb67ea3a",
+    "tema": "Marcas globales",
+    "titular": "Jun Takahashi Reunites with Nike in Gyakusou Revival",
+    "resumen": "Takahashi’s Gyakusou label is releasing a new collection with Nike after a five-year hiatus. It will launch in early December, just before the Shanghai Marathon.",
+    "medio": "Business of Fashion",
+    "fecha": "2026-11-25T09:34:00.000Z",
+    "url": "https://www.businessoffashion.com/news/sports/nike-gyakusou-jun-takahashi-undercover/"
    },
    {
-    "id": "a543bff1d745",
+    "id": "7dd05909eb1d",
     "tema": "Marcas en España",
-    "titular": "Movistar Prosegur alarmas obtiene una certificación internacional por su apuesta por el talento joven",
-    "resumen": "El distintivo reconoce políticas de formación, incorporación, promoción interna y bienestar destinadas a impulsar las carreras de profesionales júnior ...",
-    "medio": "El Confidencial",
-    "fecha": "2026-11-25T07:25:00.000Z",
-    "url": "https://www.elconfidencial.com/empresas/2026-11-25/movistar-prosegur-certificacion-talento-joven-1hms_4472405/"
+    "titular": "Mercadona invierte 14 millones de euros para abrir dos nuevos supermercados más grandes y modernos",
+    "resumen": "La cadena de distribución valenciana inaugura esta semana dos 'Tienda 9', su nuevo modelo de negocio, en Dos Hermanas (Sevilla) y Arrecife (Lanzarote) ...",
+    "medio": "ABC",
+    "fecha": "2026-11-25T06:41:00.000Z",
+    "url": "https://www.abc.es/espana/comunidad-valenciana/mercadona-invierte-millones-euros-abrir-dos-nuevos-20261125154138-nt.html"
    },
    {
     "id": "7573b1c15937",
@@ -279,24 +297,6 @@
     "medio": "Business of Fashion",
     "fecha": "2026-11-25T03:07:00.000Z",
     "url": "https://www.businessoffashion.com/news/luxury/bernard-arnault-can-lead-lvmh-holding-company-until-hes-95/"
-   },
-   {
-    "id": "20b8c610aaef",
-    "tema": "Campañas y eventos",
-    "titular": "Whiskey Brand Evan Williams Makes Its First Move Into College Football",
-    "resumen": "Kentucky-based whiskey brand Evan Williams Bourbon has become the first sponsor in the distilled spirits category to secure a sponsorship position across Disney-owned ACC Network’s college football ...",
-    "medio": "Adweek",
-    "fecha": "2026-11-24T08:16:00.000Z",
-    "url": "https://www.adweek.com/brand-marketing/whiskey-brand-evan-williams-makes-its-first-drive-into-college-football/?itm_source=homepage&itm_medium=the-latest-left&itm_campaign=9"
-   },
-   {
-    "id": "5a3fb20615ad",
-    "tema": "Marcas globales",
-    "titular": "The BBC and Netflix trial new ways to bring CBeebies to more families",
-    "resumen": "A curated selection of programmes from CBeebies will also be available on Netflix as part of a new partnership to test new ways to reach audiences ...",
-    "medio": "BBC",
-    "fecha": "2026-11-24T05:00:00.000Z",
-    "url": "https://www.bbc.com/mediacentre/2026/bbc-and-netflix-cbeebies-trial"
    }
   ],
   "comunicacion": [
