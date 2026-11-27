@@ -1,9 +1,18 @@
 {
  "id": "2026-11-27",
  "titulo": "viernes, 27 de noviembre",
- "publicado": "2026-11-27T05:58:13.237Z",
+ "publicado": "2026-11-27T07:16:21.313Z",
  "secciones": {
   "mundo": [
+   {
+    "id": "af8661aa7602",
+    "tema": "Deporte",
+    "titular": "Deporte hoy en TV: LaLiga EA Sports, Copa Davis, MotoGP, Fórmula 1 y todo lo que no te puedes perder este fin de semana",
+    "resumen": "Agenda completa polideportiva del viernes 27 al domingo 29 de noviembre, con el título de Marc Márquez en el GP de Valencia de MotoGP, el Gran Premio de Qatar de ...",
+    "medio": "Mundo Deportivo",
+    "fecha": "2026-11-26T15:33:00.000Z",
+    "url": "https://www.mundodeportivo.com/horarios/20261127/1004256076/deporte-hoy-tv-laliga-ea-sports-copa-davis-motogp-formula-1-no-te-puedes-perder-semana.html"
+   },
    {
     "id": "9b45fdb5f9cf",
     "tema": "Deporte",
@@ -12,6 +21,15 @@
     "medio": "AS",
     "fecha": "2026-11-26T14:54:00.000Z",
     "url": "https://as.com/us/baloncesto/por-que-no-hay-juegos-de-nba-en-thanksgiving-f202611-n/"
+   },
+   {
+    "id": "25a50e8bcb7f",
+    "tema": "Deporte",
+    "titular": "Barça - GOG: resultado, resumen y estadísticas del partido de la EHF Champions",
+    "resumen": "Los daneses recortan distancias con dos tantos rápidos que plasman el despertar del GOG, que empezaron con un 3-0 en contra en los primeros minutos pero han sabido reaccionar y mantener la igualdad ...",
+    "medio": "Sport",
+    "fecha": "2026-11-26T11:13:00.000Z",
+    "url": "https://www.sport.es/es/noticias/barca/balonmano/barca-gog-directo-partido-ehf-136806760"
    },
    {
     "id": "6b29a537b587",
@@ -23,34 +41,25 @@
     "url": "https://efe.com/la-rioja/2026-11-26/actual-programa-peliculas-premiadas-y-exposiciones-para-descubrir-formas-de-creacion/"
    },
    {
-    "id": "0071f4c0cf75",
-    "tema": "Deporte",
-    "titular": "Champions League highlights and round-up: Liverpool and Barça win well, Roma end Paris' perfect record, Bayern beaten",
-    "resumen": "Barcelona and Liverpool were impressive winners on a night when Paris Saint-Germain lost their perfect league phase record.",
-    "medio": "UEFA",
-    "fecha": "2026-11-25T14:41:00.000Z",
-    "url": "https://www.uefa.com/uefachampionsleague/news/02ab-22288f99d39c-d5631dd311d0-1000--champions-league-round-up-liverpool-and-barca-win-well-rom/"
-   },
-   {
-    "id": "7cf21aa54911",
-    "tema": "Deporte",
-    "titular": "NBA anuncia al menos 10.000 millones de inversión en Europa con vista a su llegada en 2027",
-    "resumen": "Sería \"para el desarrollo y la renovación de pabellones de baloncesto, y los distritos deportivos y de entretenimiento que los rodean\" ...",
-    "medio": "Marca",
-    "fecha": "2026-11-25T07:39:00.000Z",
-    "url": "https://www.marca.com/baloncesto/nba/2026/11/25/nba-anuncia-10-000-millones-inversion-europa-vista-llegada-2027.html"
-   },
-   {
-    "id": "d178b1f03baa",
-    "tema": "Premios",
-    "titular": "Bob Dylan, premio Nobel de Literatura: “Un hombre es exitoso si se levanta por la mañana y se va a la cama por la noche, y en el tiempo entre uno y otro hace lo que le gusta”",
-    "resumen": "Lograr la plenitud en nuestra trayectoria vital puede llenar nuestra vida de un enriquecimiento verdaderamente satisfactorio ...",
-    "medio": "El Confidencial",
-    "fecha": "2026-11-25T00:22:00.000Z",
-    "url": "https://www.elconfidencial.com/alma-corazon-vida/2026-11-25/bob-dylan-premio-nobel-literatura-hombre-exitoso_4455041/"
+    "id": "2464dd1e42f9",
+    "tema": "Música",
+    "titular": "‘RHLM 2’ de Anuel AA por fin está aquí: ‘Lo hice con mi corazón y mi alma’",
+    "resumen": "Anuel AA celebra su cumpleaños número 34 con el lanzamiento de su muy esperado álbum 'RHLM2'. Escúchalo ya en Billboard.",
+    "medio": "Billboard",
+    "fecha": "2026-11-25T16:00:00.000Z",
+    "url": "https://www.billboard.com/espanol/musica/anuel-aa-rhlm-2-album-escuchalo-ya-1236389933/"
    }
   ],
   "espana": [
+   {
+    "id": "01e70db2eae6",
+    "tema": "Deporte",
+    "titular": "Málaga vs Athletic Club: pronóstico, cuotas y alineaciones posibles | LaLiga",
+    "resumen": "ContenidoPronósticos RápidosPronósticos para Málaga vs Athletic Club: las cuatro apuestasAnálisis del partido: un Málaga que concede y un Athletic que llega con bajasHistorial de enfrentamientos entre ...",
+    "medio": "Mundo Deportivo",
+    "fecha": "2026-11-26T14:18:00.000Z",
+    "url": "https://www.mundodeportivo.com/guias-de-juego/pronosticos/malaga-vs-athletic-club-pronostico-cuotas-y-alineaciones-posibles-laliga-28-11-26/"
+   },
    {
     "id": "415f8b4702e6",
     "tema": "Música",
@@ -59,6 +68,15 @@
     "medio": "EFE",
     "fecha": "2026-11-26T12:40:00.000Z",
     "url": "https://efe.com/cultura/2026-11-26/cartel-mad-cool-2027/"
+   },
+   {
+    "id": "04503c8554fd",
+    "tema": "Música",
+    "titular": "Jesús López: “Solo acierto con el 1% de los artistas, y soy un genio”",
+    "resumen": "El jefe de Universal Music Latin, gallego de 71 años, el hombre tras el éxito global de la música latina, se retira de la primera línea tras 30 años en el cargo y medio siglo en el negocio ...",
+    "medio": "El País",
+    "fecha": "2026-11-26T09:16:00.000Z",
+    "url": "https://elpais.com/noticias/rosalia-vila/"
    },
    {
     "id": "a14425ff2292",
@@ -70,13 +88,13 @@
     "url": "https://www.marca.com/motor/formula1/gp-qatar/2026/11/26/sainz-confirma-hay-plan-evacuacion-qatar-prensa-incluida.html"
    },
    {
-    "id": "9365e52c73be",
+    "id": "49d6da11cedd",
     "tema": "Deporte",
-    "titular": "Honda dice (otra vez) que el motor de Alonso en Las Vegas, \"no tiene ningún fallo\"",
-    "resumen": "\"Se rindió por completo\", dijo Fernando tras su abandono del domingo. Orihara asegura que no han visto \"nada anormal\", por lo que siguen con la misma unidad ...",
-    "medio": "Marca",
-    "fecha": "2026-11-26T06:27:00.000Z",
-    "url": "https://www.marca.com/motor/formula1/gp-qatar/2026/11/26/honda-dice-motor-alonso-vegas-fallo.html"
+    "titular": "Carlos Alcaraz, en dobles de la Copa Davis para enfrentarse a Austria",
+    "resumen": "El murciano jugará junto a Granollers en dobles y Mérida y Jódar, en individuales; Gran Bretaña espera en semifinales tras eliminar a la Alemania de Zverev | Cadena SER ...",
+    "medio": "Cadena SER",
+    "fecha": "2026-11-26T07:47:00.000Z",
+    "url": "https://cadenaser.com/nacional/2026/11/26/carlos-alcaraz-en-dobles-de-la-copa-davis-para-enfrentarse-a-austria-cadena-ser/"
    },
    {
     "id": "62c4c8d1413d",
@@ -104,18 +122,27 @@
     "medio": "Europa Press",
     "fecha": "2026-11-25T07:39:00.000Z",
     "url": "https://www.europapress.es/videos/video-reyes-visitan-exposicion-mariana-austria-museo-prado-20261125163950.html"
-   },
-   {
-    "id": "02c42194386a",
-    "tema": "Deporte",
-    "titular": "¡A por el bote de 5.000 € en Freebets! Acierta tres resultados de LaLiga con «El 3 de Luckia»",
-    "resumen": "La casa de apuestas patrocinadora oficial de LaLiga pone en juego una bolsa semanal de 5.000 € en apuestas gratis: sella tus tres pronósticos antes del viernes a las 21:00 h y reparte el bote —o lléva ...",
-    "medio": "Marca",
-    "fecha": "2026-11-25T04:49:00.000Z",
-    "url": "https://www.marca.com/apuestas-deportivas/predicciones/2026/11/25/bote-5-000-freebets-acierta-tres-resultados-laliga-3-luckia.html"
    }
   ],
   "belgica": [
+   {
+    "id": "82703e8284a5",
+    "tema": "Arte y libros",
+    "titular": "À la veille de l'ouverture de Kanal, Bozar change de modèle pour se financer",
+    "resumen": "Après avoir perdu près de 1,8 million d'euros de subsides depuis 2023, le Palais des Beaux-Arts prépare une nouvelle architecture financière: une société commerciale pour mieux valoriser ses espaces e ...",
+    "medio": "L'Echo",
+    "fecha": "2026-11-26T22:00:00.000Z",
+    "url": "https://www.lecho.be/culture/expo/a-la-veille-de-l-ouverture-de-kanal-bozar-change-de-modele-pour-se-financer/10707185.html"
+   },
+   {
+    "id": "1d68a66b63b4",
+    "tema": "Deporte",
+    "titular": "Trente-trois personnes privées de liberté après une vaste opération antidrogue à Anderlecht",
+    "resumen": "Au cours des perquisitions, la police bruxelloise a saisi environ 70 téléphones portables, plus de 100 cartes SIM, plusieurs ordinateurs portables, ...",
+    "medio": "DH",
+    "fecha": "2026-11-26T16:00:00.000Z",
+    "url": "https://www.dhnet.be/regions/bruxelles/2026/11/27/trente-trois-personnes-privees-de-liberte-apres-une-vaste-operation-antidrogue-a-anderlecht-RHUQASEUEBBYNLXB6TT4YZE3QI/"
+   },
    {
     "id": "994502cd7a2a",
     "tema": "País",
@@ -124,6 +151,15 @@
     "medio": "The Brussels Times",
     "fecha": "2026-11-26T16:00:00.000Z",
     "url": "https://www.brusselstimes.com/2424371/1-5-million-visitors-expected-at-2026-edition-of-the-liege-christmas-village"
+   },
+   {
+    "id": "ce1bdad1508e",
+    "tema": "Deporte",
+    "titular": "Europa League : Anderlecht fait un grand pas vers la qualification et peut rêver… du top 8",
+    "resumen": "En s’imposant à l’OFI Crète, Anderlecht signe un 9 sur 9 et se place idéalement dans le Top 24 pour les barrages. Impériaux avant la pause, les Mauves se sont fait un peu peur au second acte, mais c’e ...",
+    "medio": "Le Soir",
+    "fecha": "2026-11-26T15:05:00.000Z",
+    "url": "https://www.lesoir.be/785166/article/2026-11-26/europa-league-anderlecht-fait-un-grand-pas-vers-la-qualification-et-peut-rever"
    },
    {
     "id": "14e97986b591",
@@ -144,15 +180,6 @@
     "url": "https://www.lesoir.be/785062/article/2026-11-26/lilia-hassaine-remporte-le-prix-goncourt-des-lyceens"
    },
    {
-    "id": "e5d3552122de",
-    "tema": "Deporte",
-    "titular": "Ivan Leko estime que le Club Bruges a montré « trop de respect pour Liverpool » en Ligue des champions",
-    "resumen": "Le coach brugeois a déploré à Anfield une entame trop prudente face à Liverpool, mercredi, malgré une réaction du Club Bruges après l’ouverture du score adverse.",
-    "medio": "Le Soir",
-    "fecha": "2026-11-26T00:16:00.000Z",
-    "url": "https://www.lesoir.be/784985/article/2026-11-26/ivan-leko-estime-que-le-club-bruges-montre-trop-de-respect-pour-liverpool-en"
-   },
-   {
     "id": "587fbe18bc69",
     "tema": "Arte y libros",
     "titular": "Que faire ce week-end en Belgique ? Notre agenda des 28 et 29 novembre",
@@ -169,26 +196,17 @@
     "medio": "The Brussels Times",
     "fecha": "2026-11-25T16:00:00.000Z",
     "url": "https://www.brusselstimes.com/belgium/2422444/what-to-do-in-brussels-this-weekend-27-30-november/"
-   },
-   {
-    "id": "063eb6798cbf",
-    "tema": "Música",
-    "titular": "La chanteuse belge Pommelien Thijs se produira le 3 juillet 2027 à Rock Werchter",
-    "resumen": "La chanteuse belge Pommelien Thijs se produira le 3 juillet 2027 au festival Rock Werchter, ont indiqué les organisateurs mercredi. Ce sera son ...",
-    "medio": "DH",
-    "fecha": "2026-11-25T01:26:00.000Z",
-    "url": "https://www.dhnet.be/dernieres-depeches/2026/11/25/la-chanteuse-belge-pommelien-thijs-se-produira-le-3-juillet-2027-a-rock-werchter-ON4TDGJY4FHWTDHEUQ7QYFGBZY/"
    }
   ],
   "marcas": [
    {
-    "id": "8e90f48c668a",
-    "tema": "Marcas en España",
-    "titular": "De Tokio al armario global: Zara lleva el universo creativo de Kolor a mujer, hombre y niño",
-    "resumen": "El buque insignia de Inditex suma a la marca japonesa a su cartera de colaboraciones con diseñadores internacionales. Dirigida por Taro ...",
-    "medio": "Modaes",
-    "fecha": "2026-11-26T20:59:00.000Z",
-    "url": "https://www.modaes.com/look/de-tokio-al-armario-global-zara-lleva-el-universo-creativo-de-kolor-a-mujer-hombre-y-nino"
+    "id": "91431239fba4",
+    "tema": "Campañas y eventos",
+    "titular": "¿Qué tienen en común los anuncios de Yamaha, Rosa Clará e Ibudol? La agencia barcelonesa que apuesta por una publicidad a medida",
+    "resumen": "House Group combina tecnología, creatividad e inteligencia artificial para personalizar campañas publicitarias en televisión, medios digitales y soportes exteriores ...",
+    "medio": "La Vanguardia",
+    "fecha": "2026-11-26T22:00:00.000Z",
+    "url": "https://www.lavanguardia.com/empresas-de-vanguardia/historias-de-exito/20261127/11687357/que-comun-anuncios-yamaha-rosa-clara-e-ibudol-agencia-barcelonesa-apuesta-publicidad-medida.html"
    },
    {
     "id": "287106cec622",
@@ -209,15 +227,6 @@
     "url": "https://www.marketingweek.com/your-2027-brand-plan-is-almost-ready-is-your-organisation/"
    },
    {
-    "id": "91431239fba4",
-    "tema": "Campañas y eventos",
-    "titular": "¿Qué tienen en común los anuncios de Yamaha, Rosa Clará e Ibudol? La agencia barcelonesa que apuesta por una publicidad a medida",
-    "resumen": "House Group combina tecnología, creatividad e inteligencia artificial para personalizar campañas publicitarias en televisión, medios digitales y soportes exteriores ...",
-    "medio": "La Vanguardia",
-    "fecha": "2026-11-26T08:01:00.000Z",
-    "url": "https://www.lavanguardia.com/empresas-de-vanguardia/historias-de-exito/20261127/11687357/que-comun-anuncios-yamaha-rosa-clara-e-ibudol-agencia-barcelonesa-apuesta-publicidad-medida.html"
-   },
-   {
     "id": "28b979e31cdc",
     "tema": "Marcas globales",
     "titular": "Apple iPhone 18 And iPhone Air 2 Designs Revealed In New Images",
@@ -227,31 +236,40 @@
     "url": "https://www.forbes.com/sites/davidphelan/2026/11/26/apple-iphone-18-and-iphone-air-2-designs-revealed-in-new-images/"
    },
    {
-    "id": "2991d10964f0",
+    "id": "1e81bd8dd6b8",
+    "tema": "Campañas y eventos",
+    "titular": "‘Bigger, rarer, riskier’: Are B2B marketers invested in category growth?",
+    "resumen": "With just 12% of B2B marketers prioritising category growth, leaders explain why investing in the wider market could pay off.",
+    "medio": "Marketing Week",
+    "fecha": "2026-11-25T23:00:00.000Z",
+    "url": "https://www.marketingweek.com/b2b-category-growth-priority/"
+   },
+   {
+    "id": "ea1904452a59",
     "tema": "Marcas en España",
-    "titular": "Radio MARCA celebra en Cáceres una nueva parada de su gira Patrimonio del Deporte",
-    "resumen": "Radio MARCA reconocerá a Joaquín «Kini» Carrasco, Manolo Sánchez Delgado y Fátima Agudo en una jornada que servirá como uno de los broches al año de Cáceres como Ciudad Europea del Deporte 2026.",
-    "medio": "Marca",
-    "fecha": "2026-11-26T06:19:00.000Z",
-    "url": "https://www.marca.com/radio/2026/11/26/radio-marca-celebra-caceres-nueva-parada-gira-patrimonio-deporte.html"
+    "titular": "Chico Blanco lleva su música electrónica al Café Berlín (Madrid) en una nueva noche de SON Estrella Galicia",
+    "resumen": "El cantante granadino Chico Blanco llevará su música electrónica al Café Berlín de Madrid, este miércoles 25 de noviembre a las 20.30 horas, en una nueva noche de SON Estrella Galicia. El artista ...",
+    "medio": "Europa Press",
+    "fecha": "2026-11-24T07:24:00.000Z",
+    "url": "https://www.europapress.es/cultura/musica-00129/noticia-chico-blanco-lleva-manana-musica-electronica-cafe-berlin-madrid-nueva-noche-son-estrella-galicia-20261124151759.html"
    },
    {
-    "id": "cff27cae1802",
+    "id": "51ab01d618f7",
     "tema": "Marcas globales",
-    "titular": "Will McDonald’s be open on Thanksgiving 2026? Here are the opening times",
-    "resumen": "Many businesses close on Thanksgiving Day to let their employees spend time with their family and friends during one of the most important holidays of the year in the United States. This includes in ...",
-    "medio": "AS",
-    "fecha": "2026-11-26T00:00:00.000Z",
-    "url": "https://en.as.com/latest_news/will-mcdonalds-be-open-on-thanksgiving-2026-here-are-the-opening-times-f202611-n/"
+    "titular": "The BBC and Netflix trial new ways to bring CBeebies to more families",
+    "resumen": "A curated selection of programmes from CBeebies will also be available on Netflix as part of a new partnership to test new ways to reach audiences ...",
+    "medio": "BBC",
+    "fecha": "2026-11-24T05:00:00.000Z",
+    "url": "https://www.bbc.co.uk/mediacentre/2026/bbc-and-netflix-cbeebies-trial"
    },
    {
-    "id": "bab178939e32",
-    "tema": "Marcas globales",
-    "titular": "Lvmh Moet Hennessy Louis Vuitton SE",
-    "resumen": "All markets data located on FT.com is subject to the FT Terms & Conditions All content on FT.com is for your general information and use only and is not intended to address your particular ...",
-    "medio": "Financial Times",
-    "fecha": "2026-11-25T13:26:00.000Z",
-    "url": "https://markets.ft.com/data/equities/tearsheet/charts?s=LVMUY:PKL"
+    "id": "43fa771512d8",
+    "tema": "Marcas en España",
+    "titular": "Iberia y Air Europa garantizan la conectividad con Venezuela, Perú y Argentina tras el cese de Plus Ultra",
+    "resumen": "Las venezolanas LASER y Estelar también operan con Madrid, mientras el resto de rutas que ha ido abandonando la compañía en riesgo de quiebra cuentan con vuelos de Latam, Avianca o Aerolíneas Argentin ...",
+    "medio": "Cinco Días",
+    "fecha": "2026-11-24T04:07:00.000Z",
+    "url": "https://cincodias.elpais.com/companias/2026-11-24/iberia-y-air-europa-garantizan-la-conectividad-con-venezuela-peru-y-argentina-tras-el-cese-de-plus-ultra.html"
    }
   ],
   "comunicacion": [
@@ -265,6 +283,15 @@
     "url": "https://hbr.org/?term=skill+direito+chat+gpt"
    },
    {
+    "id": "a1a1cd3b6bb5",
+    "tema": "Empresa",
+    "titular": "To Boost Morale, Lead with Gratitude",
+    "resumen": "In honor of the Thanksgiving holiday in the U.S., we’re sharing some of our favorite tips on gratitude and appreciation this week. When people are stressed out, they’re more likely to treat those ...",
+    "medio": "Harvard Business Review",
+    "fecha": "2026-11-25T21:01:00.000Z",
+    "url": "https://hbr.org/tip/2026/11/to-boost-morale-lead-with-gratitude"
+   },
+   {
     "id": "b61756cad745",
     "tema": "Empresa",
     "titular": "Leading Others Without Losing Yourself",
@@ -272,24 +299,6 @@
     "medio": "Harvard Business Review",
     "fecha": "2026-11-25T05:15:00.000Z",
     "url": "https://hbr.org/2026/11/leading-others-without-losing-yourself?ab=HBRExecCH-feeds-leading_others_without_losing_yourself-text-1&tpcc=orgsocial_edit"
-   },
-   {
-    "id": "cbcb3b503ec1",
-    "tema": "Empresa",
-    "titular": "When a CEO Becomes Bigger Than the Company",
-    "resumen": "The recent governance challenges at Nvidia illustrate how a company’s dependence on a powerful, highly successful founder CEO can expose significant organizational risks. When boards defer too much to ...",
-    "medio": "Harvard Business Review",
-    "fecha": "2026-11-24T05:34:00.000Z",
-    "url": "https://hbr.org/2026/11/when-a-ceo-becomes-bigger-than-the-company"
-   },
-   {
-    "id": "5c4ea51f119d",
-    "tema": "Comunicación",
-    "titular": "Inteligencia artificial e interculturalidad",
-    "resumen": "Las mismas plataformas de IA que prometen ampliar la interacción y el acceso al conocimiento pueden reproducir formas contemporáneas de colonialidad algorítmica, homogeneizando expresiones culturales ...",
-    "medio": "La Vanguardia",
-    "fecha": "2026-11-26T21:15:00.000Z",
-    "url": "https://www.lavanguardia.com/participacion/lectores-corresponsales/20261127/11693727/inteligencia-artificial-e-interculturalidad.html"
    },
    {
     "id": "5ee23704c20d",
@@ -308,6 +317,15 @@
     "medio": "Top Comunicación",
     "fecha": "2026-11-26T14:23:53.000Z",
     "url": "https://www.topcomunicacion.com/simbiu-antonio-martinez-garzon/"
+   },
+   {
+    "id": "ea75194a50be",
+    "tema": "Comunicación",
+    "titular": "Más de la mitad de los usuarios cree que sabría detectar una plataforma fraudulenta",
+    "resumen": "POR REDACCIÓN, 26 DE NOVIEMBRE DE 2026 Una web profesional, buenas opiniones, métodos de pago conocidos o una apariencia perfectamente cuidada pueden transmitir seguridad. Pero cuando hay que distinguir una plataforma legítima de una buena imitación, ¿sabemos…",
+    "medio": "Top Comunicación",
+    "fecha": "2026-11-26T14:12:44.000Z",
+    "url": "https://www.topcomunicacion.com/detectar-plataforma-fraudulenta/"
    }
   ]
  }
